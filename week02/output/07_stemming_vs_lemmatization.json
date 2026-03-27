@@ -1,0 +1,7184 @@
+[
+  {
+    "original": "clean",
+    "corrected": "clean",
+    "stem": "clean",
+    "lemma": "clean"
+  },
+  {
+    "original": "way",
+    "corrected": "way",
+    "stem": "way",
+    "lemma": "way"
+  },
+  {
+    "original": "explain",
+    "corrected": "explain",
+    "stem": "explain",
+    "lemma": "explain"
+  },
+  {
+    "original": "mistake",
+    "corrected": "mistake",
+    "stem": "mistak",
+    "lemma": "mistake"
+  },
+  {
+    "original": "makes",
+    "corrected": "makes",
+    "stem": "make",
+    "lemma": "make"
+  },
+  {
+    "original": "point",
+    "corrected": "point",
+    "stem": "point",
+    "lemma": "point"
+  },
+  {
+    "original": "Dave",
+    "corrected": "dave",
+    "stem": "dave",
+    "lemma": "dave"
+  },
+  {
+    "original": "stole",
+    "corrected": "stole",
+    "stem": "stole",
+    "lemma": "steal"
+  },
+  {
+    "original": "Charlie",
+    "corrected": "charlie",
+    "stem": "charli",
+    "lemma": "charlie"
+  },
+  {
+    "original": "ID",
+    "corrected": "id",
+    "stem": "id",
+    "lemma": "id"
+  },
+  {
+    "original": "moment",
+    "corrected": "moment",
+    "stem": "moment",
+    "lemma": "moment"
+  },
+  {
+    "original": "exactly",
+    "corrected": "exactly",
+    "stem": "exactli",
+    "lemma": "exactly"
+  },
+  {
+    "original": "bugs",
+    "corrected": "bugs",
+    "stem": "bug",
+    "lemma": "bug"
+  },
+  {
+    "original": "feel",
+    "corrected": "feel",
+    "stem": "feel",
+    "lemma": "feel"
+  },
+  {
+    "original": "real",
+    "corrected": "real",
+    "stem": "real",
+    "lemma": "real"
+  },
+  {
+    "original": "code",
+    "corrected": "code",
+    "stem": "code",
+    "lemma": "code"
+  },
+  {
+    "original": "confusing",
+    "corrected": "confusing",
+    "stem": "confus",
+    "lemma": "confusing"
+  },
+  {
+    "original": "slightly",
+    "corrected": "slightly",
+    "stem": "slightli",
+    "lemma": "slightly"
+  },
+  {
+    "original": "terrifying",
+    "corrected": "terrifying",
+    "stem": "terrifi",
+    "lemma": "terrifying"
+  },
+  {
+    "original": "remember",
+    "corrected": "remember",
+    "stem": "rememb",
+    "lemma": "remember"
+  },
+  {
+    "original": "began",
+    "corrected": "began",
+    "stem": "began",
+    "lemma": "begin"
+  },
+  {
+    "original": "learning",
+    "corrected": "learning",
+    "stem": "learn",
+    "lemma": "learn"
+  },
+  {
+    "original": "Linux",
+    "corrected": "linux",
+    "stem": "linux",
+    "lemma": "linux"
+  },
+  {
+    "original": "OS",
+    "corrected": "os",
+    "stem": "os",
+    "lemma": "os"
+  },
+  {
+    "original": "stuck",
+    "corrected": "stuck",
+    "stem": "stuck",
+    "lemma": "stuck"
+  },
+  {
+    "original": "Stack",
+    "corrected": "stack",
+    "stem": "stack",
+    "lemma": "stack"
+  },
+  {
+    "original": "Overflow",
+    "corrected": "overflow",
+    "stem": "overflow",
+    "lemma": "overflow"
+  },
+  {
+    "original": "answers",
+    "corrected": "answers",
+    "stem": "answer",
+    "lemma": "answer"
+  },
+  {
+    "original": "answer",
+    "corrected": "answer",
+    "stem": "answer",
+    "lemma": "answer"
+  },
+  {
+    "original": "answers",
+    "corrected": "answers",
+    "stem": "answer",
+    "lemma": "answer"
+  },
+  {
+    "original": "attacked",
+    "corrected": "attacked",
+    "stem": "attack",
+    "lemma": "attack"
+  },
+  {
+    "original": "phrased",
+    "corrected": "phrased",
+    "stem": "phrase",
+    "lemma": "phrase"
+  },
+  {
+    "original": "question",
+    "corrected": "question",
+    "stem": "question",
+    "lemma": "question"
+  },
+  {
+    "original": "like",
+    "corrected": "like",
+    "stem": "like",
+    "lemma": "like"
+  },
+  {
+    "original": "things",
+    "corrected": "things",
+    "stem": "thing",
+    "lemma": "thing"
+  },
+  {
+    "original": "better",
+    "corrected": "better",
+    "stem": "better",
+    "lemma": "well"
+  },
+  {
+    "original": "AI",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "models",
+    "corrected": "models",
+    "stem": "model",
+    "lemma": "model"
+  },
+  {
+    "original": "Perplexity",
+    "corrected": "perplexity",
+    "stem": "perplex",
+    "lemma": "perplexity"
+  },
+  {
+    "original": "know",
+    "corrected": "know",
+    "stem": "know",
+    "lemma": "know"
+  },
+  {
+    "original": "know",
+    "corrected": "know",
+    "stem": "know",
+    "lemma": "know"
+  },
+  {
+    "original": "Linux",
+    "corrected": "linux",
+    "stem": "linux",
+    "lemma": "linux"
+  },
+  {
+    "original": "know",
+    "corrected": "know",
+    "stem": "know",
+    "lemma": "know"
+  },
+  {
+    "original": "learned",
+    "corrected": "learned",
+    "stem": "learn",
+    "lemma": "learn"
+  },
+  {
+    "original": "stackoverflow",
+    "corrected": "stackoverflow",
+    "stem": "stackoverflow",
+    "lemma": "stackoverflow"
+  },
+  {
+    "original": "gatekeeping",
+    "corrected": "safekeeping",
+    "stem": "safekeep",
+    "lemma": "gatekeeping"
+  },
+  {
+    "original": "painful",
+    "corrected": "painful",
+    "stem": "pain",
+    "lemma": "painful"
+  },
+  {
+    "original": "fr",
+    "corrected": "fr",
+    "stem": "fr",
+    "lemma": "fr"
+  },
+  {
+    "original": "learned",
+    "corrected": "learned",
+    "stem": "learn",
+    "lemma": "learn"
+  },
+  {
+    "original": "sources",
+    "corrected": "sources",
+    "stem": "sourc",
+    "lemma": "source"
+  },
+  {
+    "original": "running",
+    "corrected": "running",
+    "stem": "run",
+    "lemma": "run"
+  },
+  {
+    "original": "dry",
+    "corrected": "dry",
+    "stem": "dri",
+    "lemma": "dry"
+  },
+  {
+    "original": "bad",
+    "corrected": "bad",
+    "stem": "bad",
+    "lemma": "bad"
+  },
+  {
+    "original": "docs",
+    "corrected": "docs",
+    "stem": "doc",
+    "lemma": "doc"
+  },
+  {
+    "original": "mentioned",
+    "corrected": "mentioned",
+    "stem": "mention",
+    "lemma": "mention"
+  },
+  {
+    "original": "discussion",
+    "corrected": "discussion",
+    "stem": "discuss",
+    "lemma": "discussion"
+  },
+  {
+    "original": "forums",
+    "corrected": "forums",
+    "stem": "forum",
+    "lemma": "forum"
+  },
+  {
+    "original": "social",
+    "corrected": "social",
+    "stem": "social",
+    "lemma": "social"
+  },
+  {
+    "original": "media",
+    "corrected": "media",
+    "stem": "media",
+    "lemma": "medium"
+  },
+  {
+    "original": "discuss",
+    "corrected": "discuss",
+    "stem": "discuss",
+    "lemma": "discuss"
+  },
+  {
+    "original": "ask",
+    "corrected": "ask",
+    "stem": "ask",
+    "lemma": "ask"
+  },
+  {
+    "original": "questions",
+    "corrected": "questions",
+    "stem": "question",
+    "lemma": "question"
+  },
+  {
+    "original": "shift",
+    "corrected": "shift",
+    "stem": "shift",
+    "lemma": "shift"
+  },
+  {
+    "original": "private",
+    "corrected": "private",
+    "stem": "privat",
+    "lemma": "private"
+  },
+  {
+    "original": "AI",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "conversations",
+    "corrected": "conversations",
+    "stem": "convers",
+    "lemma": "conversation"
+  },
+  {
+    "original": "continues",
+    "corrected": "continues",
+    "stem": "continu",
+    "lemma": "continue"
+  },
+  {
+    "original": "new",
+    "corrected": "new",
+    "stem": "new",
+    "lemma": "new"
+  },
+  {
+    "original": "AI",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "generations",
+    "corrected": "generations",
+    "stem": "gener",
+    "lemma": "generation"
+  },
+  {
+    "original": "trustworthy",
+    "corrected": "trustworthy",
+    "stem": "trustworthi",
+    "lemma": "trustworthy"
+  },
+  {
+    "original": "source",
+    "corrected": "source",
+    "stem": "sourc",
+    "lemma": "source"
+  },
+  {
+    "original": "material",
+    "corrected": "material",
+    "stem": "materi",
+    "lemma": "material"
+  },
+  {
+    "original": "learn",
+    "corrected": "learn",
+    "stem": "learn",
+    "lemma": "learn"
+  },
+  {
+    "original": "answers",
+    "corrected": "answers",
+    "stem": "answer",
+    "lemma": "answer"
+  },
+  {
+    "original": "likely",
+    "corrected": "likely",
+    "stem": "like",
+    "lemma": "likely"
+  },
+  {
+    "original": "deteriorate",
+    "corrected": "deteriorate",
+    "stem": "deterior",
+    "lemma": "deteriorate"
+  },
+  {
+    "original": "Right",
+    "corrected": "right",
+    "stem": "right",
+    "lemma": "right"
+  },
+  {
+    "original": "critical",
+    "corrected": "critical",
+    "stem": "critic",
+    "lemma": "critical"
+  },
+  {
+    "original": "thinking",
+    "corrected": "thinking",
+    "stem": "think",
+    "lemma": "thinking"
+  },
+  {
+    "original": "learning",
+    "corrected": "learning",
+    "stem": "learn",
+    "lemma": "learn"
+  },
+  {
+    "original": "talking",
+    "corrected": "talking",
+    "stem": "talk",
+    "lemma": "talk"
+  },
+  {
+    "original": "exchanging",
+    "corrected": "exchanging",
+    "stem": "exchang",
+    "lemma": "exchange"
+  },
+  {
+    "original": "information",
+    "corrected": "information",
+    "stem": "inform",
+    "lemma": "information"
+  },
+  {
+    "original": "forum",
+    "corrected": "forum",
+    "stem": "forum",
+    "lemma": "forum"
+  },
+  {
+    "original": "slide",
+    "corrected": "slide",
+    "stem": "slide",
+    "lemma": "slide"
+  },
+  {
+    "original": "rules",
+    "corrected": "rules",
+    "stem": "rule",
+    "lemma": "rule"
+  },
+  {
+    "original": "electronics",
+    "corrected": "electronics",
+    "stem": "electron",
+    "lemma": "electronics"
+  },
+  {
+    "original": "classes",
+    "corrected": "classes",
+    "stem": "class",
+    "lemma": "class"
+  },
+  {
+    "original": "studied",
+    "corrected": "studied",
+    "stem": "studi",
+    "lemma": "study"
+  },
+  {
+    "original": "electron",
+    "corrected": "electron",
+    "stem": "electron",
+    "lemma": "electron"
+  },
+  {
+    "original": "tubes",
+    "corrected": "tubes",
+    "stem": "tube",
+    "lemma": "tube"
+  },
+  {
+    "original": "calculators",
+    "corrected": "calculators",
+    "stem": "calcul",
+    "lemma": "calculator"
+  },
+  {
+    "original": "arriving",
+    "corrected": "arriving",
+    "stem": "arriv",
+    "lemma": "arrive"
+  },
+  {
+    "original": "scene",
+    "corrected": "scene",
+    "stem": "scene",
+    "lemma": "scene"
+  },
+  {
+    "original": "smartphones",
+    "corrected": "smartphones",
+    "stem": "smartphon",
+    "lemma": "smartphone"
+  },
+  {
+    "original": "wireless",
+    "corrected": "wireless",
+    "stem": "wireless",
+    "lemma": "wireless"
+  },
+  {
+    "original": "run",
+    "corrected": "run",
+    "stem": "run",
+    "lemma": "run"
+  },
+  {
+    "original": "AI",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "laptop",
+    "corrected": "laptop",
+    "stem": "laptop",
+    "lemma": "laptop"
+  },
+  {
+    "original": "learned",
+    "corrected": "learned",
+    "stem": "learn",
+    "lemma": "learn"
+  },
+  {
+    "original": "roll",
+    "corrected": "roll",
+    "stem": "roll",
+    "lemma": "roll"
+  },
+  {
+    "original": "tech",
+    "corrected": "teach",
+    "stem": "teach",
+    "lemma": "tech"
+  },
+  {
+    "original": "knowledge",
+    "corrected": "knowledge",
+    "stem": "knowledg",
+    "lemma": "knowledge"
+  },
+  {
+    "original": "running",
+    "corrected": "running",
+    "stem": "run",
+    "lemma": "run"
+  },
+  {
+    "original": "dry",
+    "corrected": "dry",
+    "stem": "dri",
+    "lemma": "dry"
+  },
+  {
+    "original": "exactly",
+    "corrected": "exactly",
+    "stem": "exactli",
+    "lemma": "exactly"
+  },
+  {
+    "original": "think",
+    "corrected": "think",
+    "stem": "think",
+    "lemma": "think"
+  },
+  {
+    "original": "private",
+    "corrected": "private",
+    "stem": "privat",
+    "lemma": "private"
+  },
+  {
+    "original": "biggest",
+    "corrected": "biggest",
+    "stem": "biggest",
+    "lemma": "big"
+  },
+  {
+    "original": "problem",
+    "corrected": "problem",
+    "stem": "problem",
+    "lemma": "problem"
+  },
+  {
+    "original": "AI",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "companies",
+    "corrected": "companies",
+    "stem": "compani",
+    "lemma": "company"
+  },
+  {
+    "original": "use",
+    "corrected": "use",
+    "stem": "use",
+    "lemma": "use"
+  },
+  {
+    "original": "private",
+    "corrected": "private",
+    "stem": "privat",
+    "lemma": "private"
+  },
+  {
+    "original": "chats",
+    "corrected": "chats",
+    "stem": "chat",
+    "lemma": "chat"
+  },
+  {
+    "original": "training",
+    "corrected": "training",
+    "stem": "train",
+    "lemma": "training"
+  },
+  {
+    "original": "feedback",
+    "corrected": "feedback",
+    "stem": "feedback",
+    "lemma": "feedback"
+  },
+  {
+    "original": "curation",
+    "corrected": "curation",
+    "stem": "curat",
+    "lemma": "curation"
+  },
+  {
+    "original": "AI",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "chats",
+    "corrected": "chats",
+    "stem": "chat",
+    "lemma": "chat"
+  },
+  {
+    "original": "public",
+    "corrected": "public",
+    "stem": "public",
+    "lemma": "public"
+  },
+  {
+    "original": "indexed",
+    "corrected": "indexed",
+    "stem": "index",
+    "lemma": "indexed"
+  },
+  {
+    "original": "searchable",
+    "corrected": "reachable",
+    "stem": "reachabl",
+    "lemma": "searchable"
+  },
+  {
+    "original": "contain",
+    "corrected": "contain",
+    "stem": "contain",
+    "lemma": "contain"
+  },
+  {
+    "original": "failed",
+    "corrected": "failed",
+    "stem": "fail",
+    "lemma": "fail"
+  },
+  {
+    "original": "steps",
+    "corrected": "steps",
+    "stem": "step",
+    "lemma": "step"
+  },
+  {
+    "original": "incomple",
+    "corrected": "income",
+    "stem": "incom",
+    "lemma": "incomple"
+  },
+  {
+    "original": "code",
+    "corrected": "code",
+    "stem": "code",
+    "lemma": "code"
+  },
+  {
+    "original": "misleading",
+    "corrected": "misleading",
+    "stem": "mislead",
+    "lemma": "misleading"
+  },
+  {
+    "original": "suggestions",
+    "corrected": "suggestions",
+    "stem": "suggest",
+    "lemma": "suggestion"
+  },
+  {
+    "original": "harder",
+    "corrected": "harder",
+    "stem": "harder",
+    "lemma": "hard"
+  },
+  {
+    "original": "sense",
+    "corrected": "sense",
+    "stem": "sens",
+    "lemma": "sense"
+  },
+  {
+    "original": "StackOverflow",
+    "corrected": "stackoverflow",
+    "stem": "stackoverflow",
+    "lemma": "stackoverflow"
+  },
+  {
+    "original": "strict",
+    "corrected": "strict",
+    "stem": "strict",
+    "lemma": "strict"
+  },
+  {
+    "original": "voting",
+    "corrected": "voting",
+    "stem": "vote",
+    "lemma": "voting"
+  },
+  {
+    "original": "system",
+    "corrected": "system",
+    "stem": "system",
+    "lemma": "system"
+  },
+  {
+    "original": "outdated",
+    "corrected": "outdated",
+    "stem": "outdat",
+    "lemma": "outdated"
+  },
+  {
+    "original": "answers",
+    "corrected": "answers",
+    "stem": "answer",
+    "lemma": "answer"
+  },
+  {
+    "original": "obvious",
+    "corrected": "obvious",
+    "stem": "obviou",
+    "lemma": "obvious"
+  },
+  {
+    "original": "commented",
+    "corrected": "commented",
+    "stem": "comment",
+    "lemma": "commented"
+  },
+  {
+    "original": "forums",
+    "corrected": "forums",
+    "stem": "forum",
+    "lemma": "forum"
+  },
+  {
+    "original": "senior",
+    "corrected": "senior",
+    "stem": "senior",
+    "lemma": "senior"
+  },
+  {
+    "original": "members",
+    "corrected": "members",
+    "stem": "member",
+    "lemma": "member"
+  },
+  {
+    "original": "edit",
+    "corrected": "edit",
+    "stem": "edit",
+    "lemma": "edit"
+  },
+  {
+    "original": "titles",
+    "corrected": "titles",
+    "stem": "titl",
+    "lemma": "title"
+  },
+  {
+    "original": "people",
+    "corrected": "people",
+    "stem": "peopl",
+    "lemma": "people"
+  },
+  {
+    "original": "share",
+    "corrected": "share",
+    "stem": "share",
+    "lemma": "share"
+  },
+  {
+    "original": "final",
+    "corrected": "final",
+    "stem": "final",
+    "lemma": "final"
+  },
+  {
+    "original": "solution",
+    "corrected": "solution",
+    "stem": "solut",
+    "lemma": "solution"
+  },
+  {
+    "original": "mark",
+    "corrected": "mark",
+    "stem": "mark",
+    "lemma": "mark"
+  },
+  {
+    "original": "topic",
+    "corrected": "topic",
+    "stem": "topic",
+    "lemma": "topic"
+  },
+  {
+    "original": "solved",
+    "corrected": "solved",
+    "stem": "solv",
+    "lemma": "solve"
+  },
+  {
+    "original": "AI",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "chats",
+    "corrected": "chats",
+    "stem": "chat",
+    "lemma": "chat"
+  },
+  {
+    "original": "conversational",
+    "corrected": "conversational",
+    "stem": "convers",
+    "lemma": "conversational"
+  },
+  {
+    "original": "new",
+    "corrected": "new",
+    "stem": "new",
+    "lemma": "new"
+  },
+  {
+    "original": "knowledge",
+    "corrected": "knowledge",
+    "stem": "knowledg",
+    "lemma": "knowledge"
+  },
+  {
+    "original": "library",
+    "corrected": "library",
+    "stem": "librari",
+    "lemma": "library"
+  },
+  {
+    "original": "fair",
+    "corrected": "fair",
+    "stem": "fair",
+    "lemma": "fair"
+  },
+  {
+    "original": "point",
+    "corrected": "point",
+    "stem": "point",
+    "lemma": "point"
+  },
+  {
+    "original": "ai",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "chat",
+    "corrected": "chat",
+    "stem": "chat",
+    "lemma": "chat"
+  },
+  {
+    "original": "transcripts",
+    "corrected": "transcripts",
+    "stem": "transcript",
+    "lemma": "transcript"
+  },
+  {
+    "original": "messy",
+    "corrected": "messy",
+    "stem": "messi",
+    "lemma": "messy"
+  },
+  {
+    "original": "git",
+    "corrected": "git",
+    "stem": "git",
+    "lemma": "git"
+  },
+  {
+    "original": "history",
+    "corrected": "history",
+    "stem": "histori",
+    "lemma": "history"
+  },
+  {
+    "original": "technically",
+    "corrected": "technically",
+    "stem": "technic",
+    "lemma": "technically"
+  },
+  {
+    "original": "record",
+    "corrected": "record",
+    "stem": "record",
+    "lemma": "record"
+  },
+  {
+    "original": "actually",
+    "corrected": "actually",
+    "stem": "actual",
+    "lemma": "actually"
+  },
+  {
+    "original": "useful",
+    "corrected": "useful",
+    "stem": "use",
+    "lemma": "useful"
+  },
+  {
+    "original": "appreciate",
+    "corrected": "appreciate",
+    "stem": "appreci",
+    "lemma": "appreciate"
+  },
+  {
+    "original": "article",
+    "corrected": "article",
+    "stem": "articl",
+    "lemma": "article"
+  },
+  {
+    "original": "explains",
+    "corrected": "explains",
+    "stem": "explain",
+    "lemma": "explain"
+  },
+  {
+    "original": "human",
+    "corrected": "human",
+    "stem": "human",
+    "lemma": "human"
+  },
+  {
+    "original": "written",
+    "corrected": "written",
+    "stem": "written",
+    "lemma": "write"
+  },
+  {
+    "original": "texts",
+    "corrected": "texts",
+    "stem": "text",
+    "lemma": "text"
+  },
+  {
+    "original": "lot",
+    "corrected": "lot",
+    "stem": "lot",
+    "lemma": "lot"
+  },
+  {
+    "original": "better",
+    "corrected": "better",
+    "stem": "better",
+    "lemma": "well"
+  },
+  {
+    "original": "AI",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "generated",
+    "corrected": "generated",
+    "stem": "gener",
+    "lemma": "generate"
+  },
+  {
+    "original": "text",
+    "corrected": "text",
+    "stem": "text",
+    "lemma": "text"
+  },
+  {
+    "original": "yes",
+    "corrected": "yes",
+    "stem": "ye",
+    "lemma": "yes"
+  },
+  {
+    "original": "ai",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "writes",
+    "corrected": "writes",
+    "stem": "write",
+    "lemma": "write"
+  },
+  {
+    "original": "sound",
+    "corrected": "sound",
+    "stem": "sound",
+    "lemma": "sound"
+  },
+  {
+    "original": "correct",
+    "corrected": "correct",
+    "stem": "correct",
+    "lemma": "correct"
+  },
+  {
+    "original": "humans",
+    "corrected": "humans",
+    "stem": "human",
+    "lemma": "human"
+  },
+  {
+    "original": "write",
+    "corrected": "write",
+    "stem": "write",
+    "lemma": "write"
+  },
+  {
+    "original": "figure",
+    "corrected": "figure",
+    "stem": "figur",
+    "lemma": "figure"
+  },
+  {
+    "original": "things",
+    "corrected": "things",
+    "stem": "thing",
+    "lemma": "thing"
+  },
+  {
+    "original": "Plus",
+    "corrected": "plus",
+    "stem": "plu",
+    "lemma": "plus"
+  },
+  {
+    "original": "tendency",
+    "corrected": "tendency",
+    "stem": "tendenc",
+    "lemma": "tendency"
+  },
+  {
+    "original": "formal",
+    "corrected": "formal",
+    "stem": "formal",
+    "lemma": "formal"
+  },
+  {
+    "original": "abstract",
+    "corrected": "abstract",
+    "stem": "abstract",
+    "lemma": "abstract"
+  },
+  {
+    "original": "makes",
+    "corrected": "makes",
+    "stem": "make",
+    "lemma": "make"
+  },
+  {
+    "original": "hard",
+    "corrected": "hard",
+    "stem": "hard",
+    "lemma": "hard"
+  },
+  {
+    "original": "digest",
+    "corrected": "digest",
+    "stem": "digest",
+    "lemma": "digest"
+  },
+  {
+    "original": "coz",
+    "corrected": "coz",
+    "stem": "coz",
+    "lemma": "coz"
+  },
+  {
+    "original": "difficult",
+    "corrected": "difficult",
+    "stem": "difficult",
+    "lemma": "difficult"
+  },
+  {
+    "original": "relate",
+    "corrected": "relate",
+    "stem": "relat",
+    "lemma": "relate"
+  },
+  {
+    "original": "abstractions",
+    "corrected": "abstractions",
+    "stem": "abstract",
+    "lemma": "abstraction"
+  },
+  {
+    "original": "tends",
+    "corrected": "tends",
+    "stem": "tend",
+    "lemma": "tend"
+  },
+  {
+    "original": "repetitive",
+    "corrected": "repetitive",
+    "stem": "repetit",
+    "lemma": "repetitive"
+  },
+  {
+    "original": "spot",
+    "corrected": "spot",
+    "stem": "spot",
+    "lemma": "spot"
+  },
+  {
+    "original": "AI",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "written",
+    "corrected": "written",
+    "stem": "written",
+    "lemma": "write"
+  },
+  {
+    "original": "text",
+    "corrected": "text",
+    "stem": "text",
+    "lemma": "text"
+  },
+  {
+    "original": "mile",
+    "corrected": "mile",
+    "stem": "mile",
+    "lemma": "mile"
+  },
+  {
+    "original": "away",
+    "corrected": "away",
+    "stem": "away",
+    "lemma": "away"
+  },
+  {
+    "original": "wrong",
+    "corrected": "wrong",
+    "stem": "wrong",
+    "lemma": "wrong"
+  },
+  {
+    "original": "incorrect",
+    "corrected": "incorrect",
+    "stem": "incorrect",
+    "lemma": "incorrect"
+  },
+  {
+    "original": "got",
+    "corrected": "got",
+    "stem": "got",
+    "lemma": "get"
+  },
+  {
+    "original": "robotic",
+    "corrected": "robotic",
+    "stem": "robot",
+    "lemma": "robotic"
+  },
+  {
+    "original": "robotic",
+    "corrected": "robotic",
+    "stem": "robot",
+    "lemma": "robotic"
+  },
+  {
+    "original": "exactly",
+    "corrected": "exactly",
+    "stem": "exactli",
+    "lemma": "exactly"
+  },
+  {
+    "original": "perfect",
+    "corrected": "perfect",
+    "stem": "perfect",
+    "lemma": "perfect"
+  },
+  {
+    "original": "structured",
+    "corrected": "structured",
+    "stem": "structur",
+    "lemma": "structured"
+  },
+  {
+    "original": "zero",
+    "corrected": "zero",
+    "stem": "zero",
+    "lemma": "zero"
+  },
+  {
+    "original": "rough",
+    "corrected": "rough",
+    "stem": "rough",
+    "lemma": "rough"
+  },
+  {
+    "original": "edges",
+    "corrected": "edges",
+    "stem": "edg",
+    "lemma": "edge"
+  },
+  {
+    "original": "humans",
+    "corrected": "humans",
+    "stem": "human",
+    "lemma": "human"
+  },
+  {
+    "original": "think",
+    "corrected": "think",
+    "stem": "think",
+    "lemma": "think"
+  },
+  {
+    "original": "loud",
+    "corrected": "loud",
+    "stem": "loud",
+    "lemma": "loud"
+  },
+  {
+    "original": "ai",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "writes",
+    "corrected": "writes",
+    "stem": "write",
+    "lemma": "write"
+  },
+  {
+    "original": "reports",
+    "corrected": "reports",
+    "stem": "report",
+    "lemma": "report"
+  },
+  {
+    "original": "challenge",
+    "corrected": "challenge",
+    "stem": "challeng",
+    "lemma": "challenge"
+  },
+  {
+    "original": "observation",
+    "corrected": "observation",
+    "stem": "observ",
+    "lemma": "observation"
+  },
+  {
+    "original": "Code",
+    "corrected": "code",
+    "stem": "code",
+    "lemma": "code"
+  },
+  {
+    "original": "thought",
+    "corrected": "thought",
+    "stem": "thought",
+    "lemma": "thought"
+  },
+  {
+    "original": "AI",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "new",
+    "corrected": "new",
+    "stem": "new",
+    "lemma": "new"
+  },
+  {
+    "original": "norm",
+    "corrected": "norm",
+    "stem": "norm",
+    "lemma": "norm"
+  },
+  {
+    "original": "requires",
+    "corrected": "requires",
+    "stem": "requir",
+    "lemma": "require"
+  },
+  {
+    "original": "know",
+    "corrected": "know",
+    "stem": "know",
+    "lemma": "know"
+  },
+  {
+    "original": "exactly",
+    "corrected": "exactly",
+    "stem": "exactli",
+    "lemma": "exactly"
+  },
+  {
+    "original": "want",
+    "corrected": "want",
+    "stem": "want",
+    "lemma": "want"
+  },
+  {
+    "original": "like",
+    "corrected": "like",
+    "stem": "like",
+    "lemma": "like"
+  },
+  {
+    "original": "developer",
+    "corrected": "developer",
+    "stem": "develop",
+    "lemma": "developer"
+  },
+  {
+    "original": "getting",
+    "corrected": "getting",
+    "stem": "get",
+    "lemma": "get"
+  },
+  {
+    "original": "understand",
+    "corrected": "understand",
+    "stem": "understand",
+    "lemma": "understand"
+  },
+  {
+    "original": "client",
+    "corrected": "client",
+    "stem": "client",
+    "lemma": "client"
+  },
+  {
+    "original": "wants",
+    "corrected": "wants",
+    "stem": "want",
+    "lemma": "want"
+  },
+  {
+    "original": "developers",
+    "corrected": "developers",
+    "stem": "develop",
+    "lemma": "developer"
+  },
+  {
+    "original": "AI",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "clients",
+    "corrected": "clients",
+    "stem": "client",
+    "lemma": "client"
+  },
+  {
+    "original": "Excellent",
+    "corrected": "excellent",
+    "stem": "excel",
+    "lemma": "excellent"
+  },
+  {
+    "original": "article",
+    "corrected": "article",
+    "stem": "articl",
+    "lemma": "article"
+  },
+  {
+    "original": "bottleneck",
+    "corrected": "bottleneck",
+    "stem": "bottleneck",
+    "lemma": "bottleneck"
+  },
+  {
+    "original": "moved",
+    "corrected": "moved",
+    "stem": "move",
+    "lemma": "move"
+  },
+  {
+    "original": "implementation",
+    "corrected": "implementation",
+    "stem": "implement",
+    "lemma": "implementation"
+  },
+  {
+    "original": "articulation",
+    "corrected": "articulation",
+    "stem": "articul",
+    "lemma": "articulation"
+  },
+  {
+    "original": "hit",
+    "corrected": "hit",
+    "stem": "hit",
+    "lemma": "hit"
+  },
+  {
+    "original": "close",
+    "corrected": "close",
+    "stem": "close",
+    "lemma": "close"
+  },
+  {
+    "original": "home",
+    "corrected": "home",
+    "stem": "home",
+    "lemma": "home"
+  },
+  {
+    "original": "community",
+    "corrected": "community",
+    "stem": "commun",
+    "lemma": "community"
+  },
+  {
+    "original": "knowledge",
+    "corrected": "knowledge",
+    "stem": "knowledg",
+    "lemma": "knowledge"
+  },
+  {
+    "original": "private",
+    "corrected": "private",
+    "stem": "privat",
+    "lemma": "private"
+  },
+  {
+    "original": "conversations",
+    "corrected": "conversations",
+    "stem": "convers",
+    "lemma": "conversation"
+  },
+  {
+    "original": "good",
+    "corrected": "good",
+    "stem": "good",
+    "lemma": "good"
+  },
+  {
+    "original": "point",
+    "corrected": "point",
+    "stem": "point",
+    "lemma": "point"
+  },
+  {
+    "original": "skepticism",
+    "corrected": "skepticism",
+    "stem": "skeptic",
+    "lemma": "skepticism"
+  },
+  {
+    "original": "accidentally",
+    "corrected": "accidentally",
+    "stem": "accident",
+    "lemma": "accidentally"
+  },
+  {
+    "original": "trained",
+    "corrected": "trained",
+    "stem": "train",
+    "lemma": "train"
+  },
+  {
+    "original": "bad",
+    "corrected": "bad",
+    "stem": "bad",
+    "lemma": "bad"
+  },
+  {
+    "original": "docs",
+    "corrected": "docs",
+    "stem": "doc",
+    "lemma": "doc"
+  },
+  {
+    "original": "interrogate",
+    "corrected": "interrogate",
+    "stem": "interrog",
+    "lemma": "interrogate"
+  },
+  {
+    "original": "answers",
+    "corrected": "answers",
+    "stem": "answer",
+    "lemma": "answer"
+  },
+  {
+    "original": "perfect",
+    "corrected": "perfect",
+    "stem": "perfect",
+    "lemma": "perfect"
+  },
+  {
+    "original": "framing",
+    "corrected": "framing",
+    "stem": "frame",
+    "lemma": "framing"
+  },
+  {
+    "original": "documention",
+    "corrected": "documentation",
+    "stem": "document",
+    "lemma": "documention"
+  },
+  {
+    "original": "tutorials",
+    "corrected": "tutorials",
+    "stem": "tutori",
+    "lemma": "tutorial"
+  },
+  {
+    "original": "Starting",
+    "corrected": "starting",
+    "stem": "start",
+    "lemma": "start"
+  },
+  {
+    "original": "believe",
+    "corrected": "believe",
+    "stem": "believ",
+    "lemma": "believe"
+  },
+  {
+    "original": "fundamentals",
+    "corrected": "fundamentals",
+    "stem": "fundament",
+    "lemma": "fundamental"
+  },
+  {
+    "original": "remain",
+    "corrected": "remain",
+    "stem": "remain",
+    "lemma": "remain"
+  },
+  {
+    "original": "important",
+    "corrected": "important",
+    "stem": "import",
+    "lemma": "important"
+  },
+  {
+    "original": "firm",
+    "corrected": "firm",
+    "stem": "firm",
+    "lemma": "firm"
+  },
+  {
+    "original": "foundation",
+    "corrected": "foundation",
+    "stem": "foundat",
+    "lemma": "foundation"
+  },
+  {
+    "original": "built",
+    "corrected": "built",
+    "stem": "built",
+    "lemma": "build"
+  },
+  {
+    "original": "fundamentals",
+    "corrected": "fundamentals",
+    "stem": "fundament",
+    "lemma": "fundamental"
+  },
+  {
+    "original": "important",
+    "corrected": "important",
+    "stem": "import",
+    "lemma": "important"
+  },
+  {
+    "original": "imo",
+    "corrected": "limo",
+    "stem": "limo",
+    "lemma": "imo"
+  },
+  {
+    "original": "need",
+    "corrected": "need",
+    "stem": "need",
+    "lemma": "need"
+  },
+  {
+    "original": "know",
+    "corrected": "know",
+    "stem": "know",
+    "lemma": "know"
+  },
+  {
+    "original": "good",
+    "corrected": "good",
+    "stem": "good",
+    "lemma": "good"
+  },
+  {
+    "original": "code",
+    "corrected": "code",
+    "stem": "code",
+    "lemma": "code"
+  },
+  {
+    "original": "looks",
+    "corrected": "looks",
+    "stem": "look",
+    "lemma": "look"
+  },
+  {
+    "original": "like",
+    "corrected": "like",
+    "stem": "like",
+    "lemma": "like"
+  },
+  {
+    "original": "catch",
+    "corrected": "catch",
+    "stem": "catch",
+    "lemma": "catch"
+  },
+  {
+    "original": "AI",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "generates",
+    "corrected": "generates",
+    "stem": "gener",
+    "lemma": "generate"
+  },
+  {
+    "original": "garbage",
+    "corrected": "garbage",
+    "stem": "garbag",
+    "lemma": "garbage"
+  },
+  {
+    "original": "Currently",
+    "corrected": "currently",
+    "stem": "current",
+    "lemma": "currently"
+  },
+  {
+    "original": "working",
+    "corrected": "working",
+    "stem": "work",
+    "lemma": "work"
+  },
+  {
+    "original": "Responsive",
+    "corrected": "responsive",
+    "stem": "respons",
+    "lemma": "responsive"
+  },
+  {
+    "original": "Web",
+    "corrected": "web",
+    "stem": "web",
+    "lemma": "web"
+  },
+  {
+    "original": "Design",
+    "corrected": "design",
+    "stem": "design",
+    "lemma": "design"
+  },
+  {
+    "original": "certification",
+    "corrected": "certification",
+    "stem": "certif",
+    "lemma": "certification"
+  },
+  {
+    "original": "freeCodeCamp",
+    "corrected": "freecodecamp",
+    "stem": "freecodecamp",
+    "lemma": "freecodecamp"
+  },
+  {
+    "original": "love",
+    "corrected": "love",
+    "stem": "love",
+    "lemma": "love"
+  },
+  {
+    "original": "Python",
+    "corrected": "python",
+    "stem": "python",
+    "lemma": "python"
+  },
+  {
+    "original": "aim",
+    "corrected": "aim",
+    "stem": "aim",
+    "lemma": "aim"
+  },
+  {
+    "original": "complete",
+    "corrected": "complete",
+    "stem": "complet",
+    "lemma": "complete"
+  },
+  {
+    "original": "freeCodeCamp",
+    "corrected": "freecodecamp",
+    "stem": "freecodecamp",
+    "lemma": "freecodecamp"
+  },
+  {
+    "original": "Stack",
+    "corrected": "stack",
+    "stem": "stack",
+    "lemma": "stack"
+  },
+  {
+    "original": "curriculum",
+    "corrected": "curriculum",
+    "stem": "curriculum",
+    "lemma": "curriculum"
+  },
+  {
+    "original": "backend",
+    "corrected": "backed",
+    "stem": "back",
+    "lemma": "backend"
+  },
+  {
+    "original": "leaning",
+    "corrected": "leaning",
+    "stem": "lean",
+    "lemma": "lean"
+  },
+  {
+    "original": "Python",
+    "corrected": "python",
+    "stem": "python",
+    "lemma": "python"
+  },
+  {
+    "original": "favourite",
+    "corrected": "favorite",
+    "stem": "favorit",
+    "lemma": "favourite"
+  },
+  {
+    "original": "focus",
+    "corrected": "focus",
+    "stem": "focu",
+    "lemma": "focus"
+  },
+  {
+    "original": "keeping",
+    "corrected": "keeping",
+    "stem": "keep",
+    "lemma": "keep"
+  },
+  {
+    "original": "frontend",
+    "corrected": "fronted",
+    "stem": "front",
+    "lemma": "frontend"
+  },
+  {
+    "original": "basics",
+    "corrected": "basics",
+    "stem": "basic",
+    "lemma": "basic"
+  },
+  {
+    "original": "makes",
+    "corrected": "makes",
+    "stem": "make",
+    "lemma": "make"
+  },
+  {
+    "original": "sense",
+    "corrected": "sense",
+    "stem": "sens",
+    "lemma": "sense"
+  },
+  {
+    "original": "knowing",
+    "corrected": "knowing",
+    "stem": "know",
+    "lemma": "know"
+  },
+  {
+    "original": "frontend",
+    "corrected": "fronted",
+    "stem": "front",
+    "lemma": "frontend"
+  },
+  {
+    "original": "completely",
+    "corrected": "completely",
+    "stem": "complet",
+    "lemma": "completely"
+  },
+  {
+    "original": "lost",
+    "corrected": "lost",
+    "stem": "lost",
+    "lemma": "lose"
+  },
+  {
+    "original": "clutch",
+    "corrected": "clutch",
+    "stem": "clutch",
+    "lemma": "clutch"
+  },
+  {
+    "original": "backend",
+    "corrected": "backed",
+    "stem": "back",
+    "lemma": "backend"
+  },
+  {
+    "original": "dev",
+    "corrected": "de",
+    "stem": "de",
+    "lemma": "dev"
+  },
+  {
+    "original": "Appreciate",
+    "corrected": "appreciate",
+    "stem": "appreci",
+    "lemma": "appreciate"
+  },
+  {
+    "original": "heads",
+    "corrected": "heads",
+    "stem": "head",
+    "lemma": "head"
+  },
+  {
+    "original": "sure",
+    "corrected": "sure",
+    "stem": "sure",
+    "lemma": "sure"
+  },
+  {
+    "original": "prob",
+    "corrected": "rob",
+    "stem": "rob",
+    "lemma": "prob"
+  },
+  {
+    "original": "run",
+    "corrected": "run",
+    "stem": "run",
+    "lemma": "run"
+  },
+  {
+    "original": "eventually",
+    "corrected": "eventually",
+    "stem": "eventu",
+    "lemma": "eventually"
+  },
+  {
+    "original": "best",
+    "corrected": "best",
+    "stem": "best",
+    "lemma": "good"
+  },
+  {
+    "original": "comment",
+    "corrected": "comment",
+    "stem": "comment",
+    "lemma": "comment"
+  },
+  {
+    "original": "quote",
+    "corrected": "quote",
+    "stem": "quot",
+    "lemma": "quote"
+  },
+  {
+    "original": "Bob",
+    "corrected": "bob",
+    "stem": "bob",
+    "lemma": "bob"
+  },
+  {
+    "original": "Dylan",
+    "corrected": "dylan",
+    "stem": "dylan",
+    "lemma": "dylan"
+  },
+  {
+    "original": "song",
+    "corrected": "song",
+    "stem": "song",
+    "lemma": "song"
+  },
+  {
+    "original": "titled",
+    "corrected": "titled",
+    "stem": "titl",
+    "lemma": "title"
+  },
+  {
+    "original": "Times",
+    "corrected": "times",
+    "stem": "time",
+    "lemma": "times"
+  },
+  {
+    "original": "Changin",
+    "corrected": "changing",
+    "stem": "chang",
+    "lemma": "changin"
+  },
+  {
+    "original": "great",
+    "corrected": "great",
+    "stem": "great",
+    "lemma": "great"
+  },
+  {
+    "original": "quote",
+    "corrected": "quote",
+    "stem": "quot",
+    "lemma": "quote"
+  },
+  {
+    "original": "swimming",
+    "corrected": "swimming",
+    "stem": "swim",
+    "lemma": "swim"
+  },
+  {
+    "original": "sure",
+    "corrected": "sure",
+    "stem": "sure",
+    "lemma": "sure"
+  },
+  {
+    "original": "generally",
+    "corrected": "generally",
+    "stem": "gener",
+    "lemma": "generally"
+  },
+  {
+    "original": "share",
+    "corrected": "share",
+    "stem": "share",
+    "lemma": "share"
+  },
+  {
+    "original": "point",
+    "corrected": "point",
+    "stem": "point",
+    "lemma": "point"
+  },
+  {
+    "original": "view",
+    "corrected": "view",
+    "stem": "view",
+    "lemma": "view"
+  },
+  {
+    "original": "AI",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "convenient",
+    "corrected": "convenient",
+    "stem": "conveni",
+    "lemma": "convenient"
+  },
+  {
+    "original": "produce",
+    "corrected": "produce",
+    "stem": "produc",
+    "lemma": "produce"
+  },
+  {
+    "original": "clean",
+    "corrected": "clean",
+    "stem": "clean",
+    "lemma": "clean"
+  },
+  {
+    "original": "quick",
+    "corrected": "quick",
+    "stem": "quick",
+    "lemma": "quick"
+  },
+  {
+    "original": "usable",
+    "corrected": "usable",
+    "stem": "usabl",
+    "lemma": "usable"
+  },
+  {
+    "original": "answer",
+    "corrected": "answer",
+    "stem": "answer",
+    "lemma": "answer"
+  },
+  {
+    "original": "right",
+    "corrected": "right",
+    "stem": "right",
+    "lemma": "right"
+  },
+  {
+    "original": "away",
+    "corrected": "away",
+    "stem": "away",
+    "lemma": "away"
+  },
+  {
+    "original": "search",
+    "corrected": "search",
+    "stem": "search",
+    "lemma": "search"
+  },
+  {
+    "original": "Google",
+    "corrected": "google",
+    "stem": "googl",
+    "lemma": "google"
+  },
+  {
+    "original": "results",
+    "corrected": "results",
+    "stem": "result",
+    "lemma": "result"
+  },
+  {
+    "original": "overwhelming",
+    "corrected": "overwhelming",
+    "stem": "overwhelm",
+    "lemma": "overwhelming"
+  },
+  {
+    "original": "ambiguous",
+    "corrected": "ambiguous",
+    "stem": "ambigu",
+    "lemma": "ambiguous"
+  },
+  {
+    "original": "buried",
+    "corrected": "buried",
+    "stem": "buri",
+    "lemma": "bury"
+  },
+  {
+    "original": "long",
+    "corrected": "long",
+    "stem": "long",
+    "lemma": "long"
+  },
+  {
+    "original": "threads",
+    "corrected": "threads",
+    "stem": "thread",
+    "lemma": "thread"
+  },
+  {
+    "original": "failed",
+    "corrected": "failed",
+    "stem": "fail",
+    "lemma": "fail"
+  },
+  {
+    "original": "attempts",
+    "corrected": "attempts",
+    "stem": "attempt",
+    "lemma": "attempt"
+  },
+  {
+    "original": "useless",
+    "corrected": "useless",
+    "stem": "useless",
+    "lemma": "useless"
+  },
+  {
+    "original": "said",
+    "corrected": "said",
+    "stem": "said",
+    "lemma": "say"
+  },
+  {
+    "original": "forget",
+    "corrected": "forget",
+    "stem": "forget",
+    "lemma": "forget"
+  },
+  {
+    "original": "AI",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "models",
+    "corrected": "models",
+    "stem": "model",
+    "lemma": "model"
+  },
+  {
+    "original": "trained",
+    "corrected": "trained",
+    "stem": "train",
+    "lemma": "train"
+  },
+  {
+    "original": "years",
+    "corrected": "years",
+    "stem": "year",
+    "lemma": "year"
+  },
+  {
+    "original": "documentation",
+    "corrected": "documentation",
+    "stem": "document",
+    "lemma": "documentation"
+  },
+  {
+    "original": "questions",
+    "corrected": "questions",
+    "stem": "question",
+    "lemma": "question"
+  },
+  {
+    "original": "exploratory",
+    "corrected": "exploratory",
+    "stem": "exploratori",
+    "lemma": "exploratory"
+  },
+  {
+    "original": "content",
+    "corrected": "content",
+    "stem": "content",
+    "lemma": "content"
+  },
+  {
+    "original": "future",
+    "corrected": "future",
+    "stem": "futur",
+    "lemma": "future"
+  },
+  {
+    "original": "generations",
+    "corrected": "generations",
+    "stem": "gener",
+    "lemma": "generation"
+  },
+  {
+    "original": "benefit",
+    "corrected": "benefit",
+    "stem": "benefit",
+    "lemma": "benefit"
+  },
+  {
+    "original": "rich",
+    "corrected": "rich",
+    "stem": "rich",
+    "lemma": "rich"
+  },
+  {
+    "original": "source",
+    "corrected": "source",
+    "stem": "sourc",
+    "lemma": "source"
+  },
+  {
+    "original": "material",
+    "corrected": "material",
+    "stem": "materi",
+    "lemma": "material"
+  },
+  {
+    "original": "perspective",
+    "corrected": "perspective",
+    "stem": "perspect",
+    "lemma": "perspective"
+  },
+  {
+    "original": "good",
+    "corrected": "good",
+    "stem": "good",
+    "lemma": "good"
+  },
+  {
+    "original": "minimum",
+    "corrected": "minimum",
+    "stem": "minimum",
+    "lemma": "minimum"
+  },
+  {
+    "original": "solid",
+    "corrected": "solid",
+    "stem": "solid",
+    "lemma": "solid"
+  },
+  {
+    "original": "answers",
+    "corrected": "answers",
+    "stem": "answer",
+    "lemma": "answer"
+  },
+  {
+    "original": "AI",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "build",
+    "corrected": "build",
+    "stem": "build",
+    "lemma": "build"
+  },
+  {
+    "original": "clean",
+    "corrected": "clean",
+    "stem": "clean",
+    "lemma": "clean"
+  },
+  {
+    "original": "useful",
+    "corrected": "useful",
+    "stem": "use",
+    "lemma": "useful"
+  },
+  {
+    "original": "wikis",
+    "corrected": "wikis",
+    "stem": "wiki",
+    "lemma": "wiki"
+  },
+  {
+    "original": "helpful",
+    "corrected": "helpful",
+    "stem": "help",
+    "lemma": "helpful"
+  },
+  {
+    "original": "future",
+    "corrected": "future",
+    "stem": "futur",
+    "lemma": "future"
+  },
+  {
+    "original": "AI",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "systems",
+    "corrected": "systems",
+    "stem": "system",
+    "lemma": "system"
+  },
+  {
+    "original": "race",
+    "corrected": "race",
+    "stem": "race",
+    "lemma": "race"
+  },
+  {
+    "original": "profit",
+    "corrected": "profit",
+    "stem": "profit",
+    "lemma": "profit"
+  },
+  {
+    "original": "norm",
+    "corrected": "norm",
+    "stem": "norm",
+    "lemma": "norm"
+  },
+  {
+    "original": "hard",
+    "corrected": "hard",
+    "stem": "hard",
+    "lemma": "hard"
+  },
+  {
+    "original": "break",
+    "corrected": "break",
+    "stem": "break",
+    "lemma": "break"
+  },
+  {
+    "original": "away",
+    "corrected": "away",
+    "stem": "away",
+    "lemma": "away"
+  },
+  {
+    "original": "exactly",
+    "corrected": "exactly",
+    "stem": "exactli",
+    "lemma": "exactly"
+  },
+  {
+    "original": "future",
+    "corrected": "future",
+    "stem": "futur",
+    "lemma": "future"
+  },
+  {
+    "original": "generations",
+    "corrected": "generations",
+    "stem": "gener",
+    "lemma": "generation"
+  },
+  {
+    "original": "benefit",
+    "corrected": "benefit",
+    "stem": "benefit",
+    "lemma": "benefit"
+  },
+  {
+    "original": "rich",
+    "corrected": "rich",
+    "stem": "rich",
+    "lemma": "rich"
+  },
+  {
+    "original": "source",
+    "corrected": "source",
+    "stem": "sourc",
+    "lemma": "source"
+  },
+  {
+    "original": "material",
+    "corrected": "material",
+    "stem": "materi",
+    "lemma": "material"
+  },
+  {
+    "original": "knowledge",
+    "corrected": "knowledge",
+    "stem": "knowledg",
+    "lemma": "knowledge"
+  },
+  {
+    "original": "collapse",
+    "corrected": "collapse",
+    "stem": "collaps",
+    "lemma": "collapse"
+  },
+  {
+    "original": "problem",
+    "corrected": "problem",
+    "stem": "problem",
+    "lemma": "problem"
+  },
+  {
+    "original": "started",
+    "corrected": "started",
+    "stem": "start",
+    "lemma": "start"
+  },
+  {
+    "original": "learning",
+    "corrected": "learning",
+    "stem": "learn",
+    "lemma": "learn"
+  },
+  {
+    "original": "Linux",
+    "corrected": "linux",
+    "stem": "linux",
+    "lemma": "linux"
+  },
+  {
+    "original": "got",
+    "corrected": "got",
+    "stem": "got",
+    "lemma": "get"
+  },
+  {
+    "original": "stuck",
+    "corrected": "stuck",
+    "stem": "stuck",
+    "lemma": "stick"
+  },
+  {
+    "original": "Stack",
+    "corrected": "stack",
+    "stem": "stack",
+    "lemma": "stack"
+  },
+  {
+    "original": "Overflow",
+    "corrected": "overflow",
+    "stem": "overflow",
+    "lemma": "overflow"
+  },
+  {
+    "original": "find",
+    "corrected": "find",
+    "stem": "find",
+    "lemma": "find"
+  },
+  {
+    "original": "answer",
+    "corrected": "answer",
+    "stem": "answer",
+    "lemma": "answer"
+  },
+  {
+    "original": "find",
+    "corrected": "find",
+    "stem": "find",
+    "lemma": "find"
+  },
+  {
+    "original": "attacked",
+    "corrected": "attacked",
+    "stem": "attack",
+    "lemma": "attack"
+  },
+  {
+    "original": "asked",
+    "corrected": "asked",
+    "stem": "ask",
+    "lemma": "ask"
+  },
+  {
+    "original": "question",
+    "corrected": "question",
+    "stem": "question",
+    "lemma": "question"
+  },
+  {
+    "original": "ask",
+    "corrected": "ask",
+    "stem": "ask",
+    "lemma": "ask"
+  },
+  {
+    "original": "Claude",
+    "corrected": "claude",
+    "stem": "claud",
+    "lemma": "claude"
+  },
+  {
+    "original": "Perplexity",
+    "corrected": "perplexity",
+    "stem": "perplex",
+    "lemma": "perplexity"
+  },
+  {
+    "original": "clear",
+    "corrected": "clear",
+    "stem": "clear",
+    "lemma": "clear"
+  },
+  {
+    "original": "patient",
+    "corrected": "patient",
+    "stem": "patient",
+    "lemma": "patient"
+  },
+  {
+    "original": "explanation",
+    "corrected": "explanation",
+    "stem": "explan",
+    "lemma": "explanation"
+  },
+  {
+    "original": "judgment",
+    "corrected": "judgment",
+    "stem": "judgment",
+    "lemma": "judgment"
+  },
+  {
+    "original": "asked",
+    "corrected": "asked",
+    "stem": "ask",
+    "lemma": "ask"
+  },
+  {
+    "original": "downvotes",
+    "corrected": "downvotes",
+    "stem": "downvot",
+    "lemma": "downvote"
+  },
+  {
+    "original": "thing",
+    "corrected": "thing",
+    "stem": "thing",
+    "lemma": "thing"
+  },
+  {
+    "original": "know",
+    "corrected": "know",
+    "stem": "know",
+    "lemma": "know"
+  },
+  {
+    "original": "exactly",
+    "corrected": "exactly",
+    "stem": "exactli",
+    "lemma": "exactly"
+  },
+  {
+    "original": "models",
+    "corrected": "models",
+    "stem": "model",
+    "lemma": "model"
+  },
+  {
+    "original": "learned",
+    "corrected": "learned",
+    "stem": "learn",
+    "lemma": "learn"
+  },
+  {
+    "original": "Stack",
+    "corrected": "stack",
+    "stem": "stack",
+    "lemma": "stack"
+  },
+  {
+    "original": "Overflow",
+    "corrected": "overflow",
+    "stem": "overflow",
+    "lemma": "overflow"
+  },
+  {
+    "original": "Arch",
+    "corrected": "arch",
+    "stem": "arch",
+    "lemma": "arch"
+  },
+  {
+    "original": "Wiki",
+    "corrected": "wiki",
+    "stem": "wiki",
+    "lemma": "wiki"
+  },
+  {
+    "original": "forum",
+    "corrected": "forum",
+    "stem": "forum",
+    "lemma": "forum"
+  },
+  {
+    "original": "threads",
+    "corrected": "threads",
+    "stem": "thread",
+    "lemma": "thread"
+  },
+  {
+    "original": "got",
+    "corrected": "got",
+    "stem": "got",
+    "lemma": "get"
+  },
+  {
+    "original": "roasted",
+    "corrected": "roasted",
+    "stem": "roast",
+    "lemma": "roast"
+  },
+  {
+    "original": "reading",
+    "corrected": "reading",
+    "stem": "read",
+    "lemma": "read"
+  },
+  {
+    "original": "manual",
+    "corrected": "manual",
+    "stem": "manual",
+    "lemma": "manual"
+  },
+  {
+    "original": "communities",
+    "corrected": "communities",
+    "stem": "commun",
+    "lemma": "community"
+  },
+  {
+    "original": "gatekept",
+    "corrected": "gatekept",
+    "stem": "gatekept",
+    "lemma": "gatekept"
+  },
+  {
+    "original": "knowledge",
+    "corrected": "knowledge",
+    "stem": "knowledg",
+    "lemma": "knowledge"
+  },
+  {
+    "original": "ended",
+    "corrected": "ended",
+    "stem": "end",
+    "lemma": "end"
+  },
+  {
+    "original": "training",
+    "corrected": "training",
+    "stem": "train",
+    "lemma": "train"
+  },
+  {
+    "original": "tools",
+    "corrected": "tools",
+    "stem": "tool",
+    "lemma": "tool"
+  },
+  {
+    "original": "away",
+    "corrected": "away",
+    "stem": "away",
+    "lemma": "away"
+  },
+  {
+    "original": "freely",
+    "corrected": "freely",
+    "stem": "freeli",
+    "lemma": "freely"
+  },
+  {
+    "original": "sat",
+    "corrected": "sat",
+    "stem": "sat",
+    "lemma": "sit"
+  },
+  {
+    "original": "hostile",
+    "corrected": "hostile",
+    "stem": "hostil",
+    "lemma": "hostile"
+  },
+  {
+    "original": "experts",
+    "corrected": "experts",
+    "stem": "expert",
+    "lemma": "expert"
+  },
+  {
+    "original": "created",
+    "corrected": "created",
+    "stem": "creat",
+    "lemma": "create"
+  },
+  {
+    "original": "dataset",
+    "corrected": "dataset",
+    "stem": "dataset",
+    "lemma": "dataset"
+  },
+  {
+    "original": "patient",
+    "corrected": "patient",
+    "stem": "patient",
+    "lemma": "patient"
+  },
+  {
+    "original": "machines",
+    "corrected": "machines",
+    "stem": "machin",
+    "lemma": "machine"
+  },
+  {
+    "original": "Fair",
+    "corrected": "fair",
+    "stem": "fair",
+    "lemma": "fair"
+  },
+  {
+    "original": "point",
+    "corrected": "point",
+    "stem": "point",
+    "lemma": "point"
+  },
+  {
+    "original": "learnt",
+    "corrected": "learnt",
+    "stem": "learnt",
+    "lemma": "learn"
+  },
+  {
+    "original": "happy",
+    "corrected": "happy",
+    "stem": "happi",
+    "lemma": "happy"
+  },
+  {
+    "original": "grilled",
+    "corrected": "grilled",
+    "stem": "grill",
+    "lemma": "grill"
+  },
+  {
+    "original": "stack",
+    "corrected": "stack",
+    "stem": "stack",
+    "lemma": "stack"
+  },
+  {
+    "original": "overflow",
+    "corrected": "overflow",
+    "stem": "overflow",
+    "lemma": "overflow"
+  },
+  {
+    "original": "criticism",
+    "corrected": "criticism",
+    "stem": "critic",
+    "lemma": "criticism"
+  },
+  {
+    "original": "brutal",
+    "corrected": "brutal",
+    "stem": "brutal",
+    "lemma": "brutal"
+  },
+  {
+    "original": "stack",
+    "corrected": "stack",
+    "stem": "stack",
+    "lemma": "stack"
+  },
+  {
+    "original": "overflow",
+    "corrected": "overflow",
+    "stem": "overflow",
+    "lemma": "overflow"
+  },
+  {
+    "original": "best",
+    "corrected": "best",
+    "stem": "best",
+    "lemma": "good"
+  },
+  {
+    "original": "spot",
+    "corrected": "spot",
+    "stem": "spot",
+    "lemma": "spot"
+  },
+  {
+    "original": "help",
+    "corrected": "help",
+    "stem": "help",
+    "lemma": "help"
+  },
+  {
+    "original": "earlier",
+    "corrected": "earlier",
+    "stem": "earlier",
+    "lemma": "early"
+  },
+  {
+    "original": "Personally",
+    "corrected": "personally",
+    "stem": "person",
+    "lemma": "personally"
+  },
+  {
+    "original": "found",
+    "corrected": "found",
+    "stem": "found",
+    "lemma": "find"
+  },
+  {
+    "original": "Stack",
+    "corrected": "stack",
+    "stem": "stack",
+    "lemma": "stack"
+  },
+  {
+    "original": "Overflow",
+    "corrected": "overflow",
+    "stem": "overflow",
+    "lemma": "overflow"
+  },
+  {
+    "original": "significant",
+    "corrected": "significant",
+    "stem": "signific",
+    "lemma": "significant"
+  },
+  {
+    "original": "distraction",
+    "corrected": "distraction",
+    "stem": "distract",
+    "lemma": "distraction"
+  },
+  {
+    "original": "frequently",
+    "corrected": "frequently",
+    "stem": "frequent",
+    "lemma": "frequently"
+  },
+  {
+    "original": "wrong",
+    "corrected": "wrong",
+    "stem": "wrong",
+    "lemma": "wrong"
+  },
+  {
+    "original": "misguided",
+    "corrected": "misguided",
+    "stem": "misguid",
+    "lemma": "misguided"
+  },
+  {
+    "original": "conflicting",
+    "corrected": "conflicting",
+    "stem": "conflict",
+    "lemma": "conflicting"
+  },
+  {
+    "original": "advice",
+    "corrected": "advice",
+    "stem": "advic",
+    "lemma": "advice"
+  },
+  {
+    "original": "things",
+    "corrected": "things",
+    "stem": "thing",
+    "lemma": "thing"
+  },
+  {
+    "original": "needed",
+    "corrected": "needed",
+    "stem": "need",
+    "lemma": "need"
+  },
+  {
+    "original": "vital",
+    "corrected": "vital",
+    "stem": "vital",
+    "lemma": "vital"
+  },
+  {
+    "original": "work",
+    "corrected": "work",
+    "stem": "work",
+    "lemma": "work"
+  },
+  {
+    "original": "frustration",
+    "corrected": "frustration",
+    "stem": "frustrat",
+    "lemma": "frustration"
+  },
+  {
+    "original": "AI",
+    "corrected": "ai",
+    "stem": "ai",
+    "lemma": "ai"
+  },
+  {
+    "original": "removes",
+    "corrected": "removes",
+    "stem": "remov",
+    "lemma": "remove"
+  },
+  {
+    "original": "understanding",
+    "corrected": "understanding",
+    "stem": "understand",
+    "lemma": "understanding"
+  },
+  {
+    "original": "improved",
+    "corrected": "improved",
+    "stem": "improv",
+    "lemma": "improve"
+  },
+  {
+    "original": "fed",
+    "corrected": "fed",
+    "stem": "fed",
+    "lemma": "feed"
+  },
+  {
+    "original": "writing",
+    "corrected": "writing",
+    "stem": "write",
+    "lemma": "writing"
+  },
+  {
+    "original": "style",
+    "corrected": "style",
+    "stem": "style",
+    "lemma": "style"
+  },
+  {
+    "original": "jars",
+    "corrected": "jars",
+    "stem": "jar",
+    "lemma": "jar"
+  },
+  {
+    "original": "horse",
+    "corrected": "horse",
+    "stem": "hors",
+    "lemma": "horse"
+  },
+  {
+    "original": "ford",
+    "corrected": "ford",
+    "stem": "ford",
+    "lemma": "ford"
+  },
+  {
+    "original": "analogy",
+    "corrected": "analogy",
+    "stem": "analog",
+    "lemma": "analogy"
+  },
+  {
+    "original": "provocative",
+    "corrected": "provocative",
+    "stem": "provoc",
+    "lemma": "provocative"
+  },
+  {
+    "original": "honestly",
+    "corrected": "honestly",
+    "stem": "honestli",
+    "lemma": "honestly"
+  },
+  {
+    "original": "right",
+    "corrected": "right",
+    "stem": "right",
+    "lemma": "right"
+  },
+  {
+    "original": "hits",
+    "corrected": "hits",
+    "stem": "hit",
+    "lemma": "hit"
+  },
+  {
+    "original": "home",
+    "corrected": "home",
+    "stem": "home",
+    "lemma": "home"
+  },
+  {
+    "original": "Best",
+    "corrected": "best",
+    "stem": "best",
+    "lemma": "good"
+  },
+  {
+    "original": "article",
+    "corrected": "article",
+    "stem": "articl",
+    "lemma": "article"
+  },
+  {
+    "original": "relatable",
+    "corrected": "relatable",
+    "stem": "relat",
+    "lemma": "relatable"
+  },
+  {
+    "original": "points",
+    "corrected": "points",
+    "stem": "point",
+    "lemma": "point"
+  },
+  {
+    "original": "view",
+    "corrected": "view",
+    "stem": "view",
+    "lemma": "view"
+  },
+  {
+    "original": "new",
+    "corrected": "new",
+    "stem": "new",
+    "lemma": "new"
+  },
+  {
+    "original": "sad",
+    "corrected": "sad",
+    "stem": "sad",
+    "lemma": "sad"
+  },
+  {
+    "original": "reality",
+    "corrected": "reality",
+    "stem": "realiti",
+    "lemma": "reality"
+  },
+  {
+    "original": "live",
+    "corrected": "live",
+    "stem": "live",
+    "lemma": "live"
+  },
+  {
+    "original": "efficient",
+    "corrected": "efficient",
+    "stem": "effici",
+    "lemma": "efficient"
+  },
+  {
+    "original": "isolation",
+    "corrected": "isolation",
+    "stem": "isol",
+    "lemma": "isolation"
+  },
+  {
+    "original": "perfect",
+    "corrected": "perfect",
+    "stem": "perfect",
+    "lemma": "perfect"
+  },
+  {
+    "original": "pleasure",
+    "corrected": "pleasure",
+    "stem": "pleasur",
+    "lemma": "pleasure"
+  },
+  {
+    "original": "Marketing",
+    "corrected": "marketing",
+    "stem": "market",
+    "lemma": "marketing"
+  },
+  {
+    "original": "making",
+    "corrected": "making",
+    "stem": "make",
+    "lemma": "make"
+  },
+  {
+    "original": "money",
+    "corrected": "money",
+    "stem": "money",
+    "lemma": "money"
+  },
+  {
+    "original": "easier",
+    "corrected": "easier",
+    "stem": "easier",
+    "lemma": "easy"
+  },
+  {
+    "original": "user",
+    "corrected": "user",
+    "stem": "user",
+    "lemma": "user"
+  },
+  {
+    "original": "converts",
+    "corrected": "converts",
+    "stem": "convert",
+    "lemma": "convert"
+  },
+  {
+    "original": "registered",
+    "corrected": "registered",
+    "stem": "regist",
+    "lemma": "register"
+  },
+  {
+    "original": "customer",
+    "corrected": "customer",
+    "stem": "custom",
+    "lemma": "customer"
+  },
+  {
+    "original": "true",
+    "corrected": "true",
+    "stem": "true",
+    "lemma": "true"
+  },
+  {
+    "original": "registration",
+    "corrected": "registration",
+    "stem": "registr",
+    "lemma": "registration"
+  },
+  {
+    "original": "definitely",
+    "corrected": "definitely",
+    "stem": "definit",
+    "lemma": "definitely"
+  },
+  {
+    "original": "makes",
+    "corrected": "makes",
+    "stem": "make",
+    "lemma": "make"
+  },
+  {
+    "original": "monetization",
+    "corrected": "monetization",
+    "stem": "monet",
+    "lemma": "monetization"
+  },
+  {
+    "original": "marketing",
+    "corrected": "marketing",
+    "stem": "market",
+    "lemma": "marketing"
+  },
+  {
+    "original": "simpler",
+    "corrected": "simpler",
+    "stem": "simpler",
+    "lemma": "simple"
+  },
+  {
+    "original": "experimenting",
+    "corrected": "experimenting",
+    "stem": "experi",
+    "lemma": "experiment"
+  },
+  {
+    "original": "building",
+    "corrected": "building",
+    "stem": "build",
+    "lemma": "building"
+  },
+  {
+    "original": "tools",
+    "corrected": "tools",
+    "stem": "tool",
+    "lemma": "tool"
+  },
+  {
+    "original": "work",
+    "corrected": "work",
+    "stem": "work",
+    "lemma": "work"
+  },
+  {
+    "original": "entirely",
+    "corrected": "entirely",
+    "stem": "entir",
+    "lemma": "entirely"
+  },
+  {
+    "original": "browser",
+    "corrected": "browser",
+    "stem": "browser",
+    "lemma": "browser"
+  },
+  {
+    "original": "zero",
+    "corrected": "zero",
+    "stem": "zero",
+    "lemma": "zero"
+  },
+  {
+    "original": "accounts",
+    "corrected": "accounts",
+    "stem": "account",
+    "lemma": "account"
+  },
+  {
+    "original": "hardest",
+    "corrected": "hardest",
+    "stem": "hardest",
+    "lemma": "hard"
+  },
+  {
+    "original": "tech",
+    "corrected": "teach",
+    "stem": "teach",
+    "lemma": "tech"
+  },
+  {
+    "original": "deciding",
+    "corrected": "deciding",
+    "stem": "decid",
+    "lemma": "decide"
+  },
+  {
+    "original": "add",
+    "corrected": "add",
+    "stem": "add",
+    "lemma": "add"
+  },
+  {
+    "original": "worked",
+    "corrected": "worked",
+    "stem": "work",
+    "lemma": "work"
+  },
+  {
+    "original": "project",
+    "corrected": "project",
+    "stem": "project",
+    "lemma": "project"
+  },
+  {
+    "original": "Improved",
+    "corrected": "improved",
+    "stem": "improv",
+    "lemma": "improve"
+  },
+  {
+    "original": "UI",
+    "corrected": "i",
+    "stem": "i",
+    "lemma": "ui"
+  },
+  {
+    "original": "added",
+    "corrected": "added",
+    "stem": "ad",
+    "lemma": "add"
+  },
+  {
+    "original": "features",
+    "corrected": "features",
+    "stem": "featur",
+    "lemma": "feature"
+  },
+  {
+    "original": "need",
+    "corrected": "need",
+    "stem": "need",
+    "lemma": "need"
+  },
+  {
+    "original": "turn",
+    "corrected": "turn",
+    "stem": "turn",
+    "lemma": "turn"
+  },
+  {
+    "original": "helped",
+    "corrected": "helped",
+    "stem": "help",
+    "lemma": "help"
+  },
+  {
+    "original": "improve",
+    "corrected": "improve",
+    "stem": "improv",
+    "lemma": "improve"
+  },
+  {
+    "original": "starter",
+    "corrected": "starter",
+    "stem": "starter",
+    "lemma": "starter"
+  },
+  {
+    "original": "template",
+    "corrected": "template",
+    "stem": "templat",
+    "lemma": "template"
+  },
+  {
+    "original": "built",
+    "corrected": "built",
+    "stem": "built",
+    "lemma": "build"
+  },
+  {
+    "original": "quickly",
+    "corrected": "quickly",
+    "stem": "quickli",
+    "lemma": "quickly"
+  },
+  {
+    "original": "running",
+    "corrected": "running",
+    "stem": "run",
+    "lemma": "run"
+  },
+  {
+    "original": "new",
+    "corrected": "new",
+    "stem": "new",
+    "lemma": "new"
+  },
+  {
+    "original": "projects",
+    "corrected": "projects",
+    "stem": "project",
+    "lemma": "project"
+  },
+  {
+    "original": "Sound",
+    "corrected": "sound",
+    "stem": "sound",
+    "lemma": "sound"
+  },
+  {
+    "original": "great",
+    "corrected": "great",
+    "stem": "great",
+    "lemma": "great"
+  },
+  {
+    "original": "Paras",
+    "corrected": "paras",
+    "stem": "para",
+    "lemma": "paras"
+  },
+  {
+    "original": "project",
+    "corrected": "project",
+    "stem": "project",
+    "lemma": "project"
+  },
+  {
+    "original": "hosted",
+    "corrected": "hosted",
+    "stem": "host",
+    "lemma": "host"
+  },
+  {
+    "original": "moment",
+    "corrected": "moment",
+    "stem": "moment",
+    "lemma": "moment"
+  },
+  {
+    "original": "Yes",
+    "corrected": "yes",
+    "stem": "ye",
+    "lemma": "yes"
+  },
+  {
+    "original": "hosted",
+    "corrected": "hosted",
+    "stem": "host",
+    "lemma": "host"
+  },
+  {
+    "original": "netlify",
+    "corrected": "notify",
+    "stem": "notifi",
+    "lemma": "netlify"
+  },
+  {
+    "original": "currently",
+    "corrected": "currently",
+    "stem": "current",
+    "lemma": "currently"
+  },
+  {
+    "original": "catered",
+    "corrected": "catered",
+    "stem": "cater",
+    "lemma": "cater"
+  },
+  {
+    "original": "requirements",
+    "corrected": "requirements",
+    "stem": "requir",
+    "lemma": "requirement"
+  },
+  {
+    "original": "love",
+    "corrected": "love",
+    "stem": "love",
+    "lemma": "love"
+  },
+  {
+    "original": "share",
+    "corrected": "share",
+    "stem": "share",
+    "lemma": "share"
+  },
+  {
+    "original": "Ah",
+    "corrected": "ah",
+    "stem": "ah",
+    "lemma": "ah"
+  },
+  {
+    "original": "great",
+    "corrected": "great",
+    "stem": "great",
+    "lemma": "great"
+  },
+  {
+    "original": "privacy",
+    "corrected": "privacy",
+    "stem": "privaci",
+    "lemma": "privacy"
+  },
+  {
+    "original": "focused",
+    "corrected": "focused",
+    "stem": "focus",
+    "lemma": "focus"
+  },
+  {
+    "original": "years",
+    "corrected": "years",
+    "stem": "year",
+    "lemma": "year"
+  },
+  {
+    "original": "fact",
+    "corrected": "fact",
+    "stem": "fact",
+    "lemma": "fact"
+  },
+  {
+    "original": "majority",
+    "corrected": "majority",
+    "stem": "major",
+    "lemma": "majority"
+  },
+  {
+    "original": "applications",
+    "corrected": "applications",
+    "stem": "applic",
+    "lemma": "application"
+  },
+  {
+    "original": "services",
+    "corrected": "services",
+    "stem": "servic",
+    "lemma": "service"
+  },
+  {
+    "original": "focused",
+    "corrected": "focused",
+    "stem": "focus",
+    "lemma": "focus"
+  },
+  {
+    "original": "way",
+    "corrected": "way",
+    "stem": "way",
+    "lemma": "way"
+  },
+  {
+    "original": "Coool",
+    "corrected": "cool",
+    "stem": "cool",
+    "lemma": "coool"
+  },
+  {
+    "original": "Good",
+    "corrected": "good",
+    "stem": "good",
+    "lemma": "good"
+  },
+  {
+    "original": "hear",
+    "corrected": "hear",
+    "stem": "hear",
+    "lemma": "hear"
+  },
+  {
+    "original": "Nice",
+    "corrected": "nice",
+    "stem": "nice",
+    "lemma": "nice"
+  },
+  {
+    "original": "work",
+    "corrected": "work",
+    "stem": "work",
+    "lemma": "work"
+  },
+  {
+    "original": "far",
+    "corrected": "far",
+    "stem": "far",
+    "lemma": "far"
+  },
+  {
+    "original": "checked",
+    "corrected": "checked",
+    "stem": "check",
+    "lemma": "check"
+  },
+  {
+    "original": "profile",
+    "corrected": "profile",
+    "stem": "profil",
+    "lemma": "profile"
+  },
+  {
+    "original": "liked",
+    "corrected": "liked",
+    "stem": "like",
+    "lemma": "like"
+  },
+  {
+    "original": "built",
+    "corrected": "built",
+    "stem": "built",
+    "lemma": "build"
+  },
+  {
+    "original": "things",
+    "corrected": "things",
+    "stem": "thing",
+    "lemma": "thing"
+  },
+  {
+    "original": "awesome",
+    "corrected": "awesome",
+    "stem": "awesom",
+    "lemma": "awesome"
+  },
+  {
+    "original": "great",
+    "corrected": "great",
+    "stem": "great",
+    "lemma": "great"
+  },
+  {
+    "original": "learning",
+    "corrected": "learning",
+    "stem": "learn",
+    "lemma": "learn"
+  },
+  {
+    "original": "sharing",
+    "corrected": "sharing",
+    "stem": "share",
+    "lemma": "share"
+  },
+  {
+    "original": "journey",
+    "corrected": "journey",
+    "stem": "journey",
+    "lemma": "journey"
+  },
+  {
+    "original": "openly",
+    "corrected": "openly",
+    "stem": "openli",
+    "lemma": "openly"
+  },
+  {
+    "original": "Thank",
+    "corrected": "thank",
+    "stem": "thank",
+    "lemma": "thank"
+  },
+  {
+    "original": "Paras",
+    "corrected": "paras",
+    "stem": "para",
+    "lemma": "paras"
+  },
+  {
+    "original": "means",
+    "corrected": "means",
+    "stem": "mean",
+    "lemma": "mean"
+  },
+  {
+    "original": "alot",
+    "corrected": "lot",
+    "stem": "lot",
+    "lemma": "alot"
+  },
+  {
+    "original": "main",
+    "corrected": "main",
+    "stem": "main",
+    "lemma": "main"
+  },
+  {
+    "original": "reason",
+    "corrected": "reason",
+    "stem": "reason",
+    "lemma": "reason"
+  },
+  {
+    "original": "joined",
+    "corrected": "joined",
+    "stem": "join",
+    "lemma": "join"
+  },
+  {
+    "original": "DEV",
+    "corrected": "de",
+    "stem": "de",
+    "lemma": "dev"
+  },
+  {
+    "original": "year",
+    "corrected": "year",
+    "stem": "year",
+    "lemma": "year"
+  },
+  {
+    "original": "stay",
+    "corrected": "stay",
+    "stem": "stay",
+    "lemma": "stay"
+  },
+  {
+    "original": "consistent",
+    "corrected": "consistent",
+    "stem": "consist",
+    "lemma": "consistent"
+  },
+  {
+    "original": "want",
+    "corrected": "want",
+    "stem": "want",
+    "lemma": "want"
+  },
+  {
+    "original": "better",
+    "corrected": "better",
+    "stem": "better",
+    "lemma": "well"
+  },
+  {
+    "original": "word",
+    "corrected": "word",
+    "stem": "word",
+    "lemma": "word"
+  },
+  {
+    "original": "honest",
+    "corrected": "honest",
+    "stem": "honest",
+    "lemma": "honest"
+  },
+  {
+    "original": "learning",
+    "corrected": "learning",
+    "stem": "learn",
+    "lemma": "learning"
+  },
+  {
+    "original": "enjoying",
+    "corrected": "enjoying",
+    "stem": "enjoy",
+    "lemma": "enjoy"
+  },
+  {
+    "original": "latest",
+    "corrected": "latest",
+    "stem": "latest",
+    "lemma": "late"
+  },
+  {
+    "original": "version",
+    "corrected": "version",
+    "stem": "version",
+    "lemma": "version"
+  },
+  {
+    "original": "freeCodeCamp",
+    "corrected": "freecodecamp",
+    "stem": "freecodecamp",
+    "lemma": "freecodecamp"
+  },
+  {
+    "original": "curriculum",
+    "corrected": "curriculum",
+    "stem": "curriculum",
+    "lemma": "curriculum"
+  },
+  {
+    "original": "received",
+    "corrected": "received",
+    "stem": "receiv",
+    "lemma": "receive"
+  },
+  {
+    "original": "node",
+    "corrected": "node",
+    "stem": "node",
+    "lemma": "node"
+  },
+  {
+    "original": "badge",
+    "corrected": "badge",
+    "stem": "badg",
+    "lemma": "badge"
+  },
+  {
+    "original": "post",
+    "corrected": "post",
+    "stem": "post",
+    "lemma": "post"
+  },
+  {
+    "original": "express",
+    "corrected": "express",
+    "stem": "express",
+    "lemma": "express"
+  },
+  {
+    "original": "Andrew",
+    "corrected": "andrew",
+    "stem": "andrew",
+    "lemma": "andrew"
+  },
+  {
+    "original": "language",
+    "corrected": "language",
+    "stem": "languag",
+    "lemma": "language"
+  },
+  {
+    "original": "specific",
+    "corrected": "specific",
+    "stem": "specif",
+    "lemma": "specific"
+  },
+  {
+    "original": "badges",
+    "corrected": "badges",
+    "stem": "badg",
+    "lemma": "badge"
+  },
+  {
+    "original": "pretty",
+    "corrected": "pretty",
+    "stem": "pretti",
+    "lemma": "pretty"
+  },
+  {
+    "original": "coveted",
+    "corrected": "coveted",
+    "stem": "covet",
+    "lemma": "coveted"
+  },
+  {
+    "original": "got",
+    "corrected": "got",
+    "stem": "got",
+    "lemma": "get"
+  },
+  {
+    "original": "Python",
+    "corrected": "python",
+    "stem": "python",
+    "lemma": "python"
+  },
+  {
+    "original": "badge",
+    "corrected": "badge",
+    "stem": "badg",
+    "lemma": "badge"
+  },
+  {
+    "original": "post",
+    "corrected": "post",
+    "stem": "post",
+    "lemma": "post"
+  },
+  {
+    "original": "stats",
+    "corrected": "stats",
+    "stem": "stat",
+    "lemma": "stat"
+  },
+  {
+    "original": "personal",
+    "corrected": "personal",
+    "stem": "person",
+    "lemma": "personal"
+  },
+  {
+    "original": "win",
+    "corrected": "win",
+    "stem": "win",
+    "lemma": "win"
+  },
+  {
+    "original": "quiet",
+    "corrected": "quiet",
+    "stem": "quiet",
+    "lemma": "quiet"
+  },
+  {
+    "original": "joy",
+    "corrected": "joy",
+    "stem": "joy",
+    "lemma": "joy"
+  },
+  {
+    "original": "reward",
+    "corrected": "reward",
+    "stem": "reward",
+    "lemma": "reward"
+  },
+  {
+    "original": "fact",
+    "corrected": "fact",
+    "stem": "fact",
+    "lemma": "fact"
+  },
+  {
+    "original": "earned",
+    "corrected": "earned",
+    "stem": "earn",
+    "lemma": "earn"
+  },
+  {
+    "original": "article",
+    "corrected": "article",
+    "stem": "articl",
+    "lemma": "article"
+  },
+  {
+    "original": "understanding",
+    "corrected": "understanding",
+    "stem": "understand",
+    "lemma": "understand"
+  },
+  {
+    "original": "life",
+    "corrected": "life",
+    "stem": "life",
+    "lemma": "life"
+  },
+  {
+    "original": "post",
+    "corrected": "post",
+    "stem": "post",
+    "lemma": "post"
+  },
+  {
+    "original": "feels",
+    "corrected": "feels",
+    "stem": "feel",
+    "lemma": "feel"
+  },
+  {
+    "original": "right",
+    "corrected": "right",
+    "stem": "right",
+    "lemma": "right"
+  },
+  {
+    "original": "resonates",
+    "corrected": "resonates",
+    "stem": "reson",
+    "lemma": "resonate"
+  },
+  {
+    "original": "wrote",
+    "corrected": "wrote",
+    "stem": "wrote",
+    "lemma": "write"
+  },
+  {
+    "original": "place",
+    "corrected": "place",
+    "stem": "place",
+    "lemma": "place"
+  },
+  {
+    "original": "Congratulations",
+    "corrected": "congratulations",
+    "stem": "congratul",
+    "lemma": "congratulations"
+  },
+  {
+    "original": "Pascal",
+    "corrected": "pascal",
+    "stem": "pascal",
+    "lemma": "pascal"
+  },
+  {
+    "original": "truly",
+    "corrected": "truly",
+    "stem": "truli",
+    "lemma": "truly"
+  },
+  {
+    "original": "excellent",
+    "corrected": "excellent",
+    "stem": "excel",
+    "lemma": "excellent"
+  },
+  {
+    "original": "post",
+    "corrected": "post",
+    "stem": "post",
+    "lemma": "post"
+  },
+  {
+    "original": "language",
+    "corrected": "language",
+    "stem": "languag",
+    "lemma": "language"
+  },
+  {
+    "original": "specific",
+    "corrected": "specific",
+    "stem": "specif",
+    "lemma": "specific"
+  },
+  {
+    "original": "badges",
+    "corrected": "badges",
+    "stem": "badg",
+    "lemma": "badge"
+  },
+  {
+    "original": "hope",
+    "corrected": "hope",
+    "stem": "hope",
+    "lemma": "hope"
+  },
+  {
+    "original": "earn",
+    "corrected": "earn",
+    "stem": "earn",
+    "lemma": "earn"
+  },
+  {
+    "original": "day",
+    "corrected": "day",
+    "stem": "day",
+    "lemma": "day"
+  },
+  {
+    "original": "job",
+    "corrected": "job",
+    "stem": "job",
+    "lemma": "job"
+  },
+  {
+    "original": "fixing",
+    "corrected": "fixing",
+    "stem": "fix",
+    "lemma": "fix"
+  },
+  {
+    "original": "legacy",
+    "corrected": "legacy",
+    "stem": "legaci",
+    "lemma": "legacy"
+  },
+  {
+    "original": "world",
+    "corrected": "world",
+    "stem": "world",
+    "lemma": "world"
+  },
+  {
+    "original": "scale",
+    "corrected": "scale",
+    "stem": "scale",
+    "lemma": "scale"
+  },
+  {
+    "original": "webapp",
+    "corrected": "webapp",
+    "stem": "webapp",
+    "lemma": "webapp"
+  },
+  {
+    "original": "system",
+    "corrected": "system",
+    "stem": "system",
+    "lemma": "system"
+  },
+  {
+    "original": "including",
+    "corrected": "including",
+    "stem": "includ",
+    "lemma": "include"
+  },
+  {
+    "original": "inhouse",
+    "corrected": "unhouse",
+    "stem": "unhous",
+    "lemma": "inhouse"
+  },
+  {
+    "original": "version",
+    "corrected": "version",
+    "stem": "version",
+    "lemma": "version"
+  },
+  {
+    "original": "handling",
+    "corrected": "handling",
+    "stem": "handl",
+    "lemma": "handling"
+  },
+  {
+    "original": "system",
+    "corrected": "system",
+    "stem": "system",
+    "lemma": "system"
+  },
+  {
+    "original": "codbase",
+    "corrected": "codas",
+    "stem": "coda",
+    "lemma": "codbase"
+  },
+  {
+    "original": "old",
+    "corrected": "old",
+    "stem": "old",
+    "lemma": "old"
+  },
+  {
+    "original": "mistace",
+    "corrected": "mistake",
+    "stem": "mistak",
+    "lemma": "mistace"
+  },
+  {
+    "original": "architectual",
+    "corrected": "architectural",
+    "stem": "architectur",
+    "lemma": "architectual"
+  },
+  {
+    "original": "decision",
+    "corrected": "decision",
+    "stem": "decis",
+    "lemma": "decision"
+  },
+  {
+    "original": "CVD",
+    "corrected": "cod",
+    "stem": "cod",
+    "lemma": "cvd"
+  },
+  {
+    "original": "CV",
+    "corrected": "ca",
+    "stem": "ca",
+    "lemma": "cv"
+  },
+  {
+    "original": "Driven",
+    "corrected": "driven",
+    "stem": "driven",
+    "lemma": "driven"
+  },
+  {
+    "original": "coding",
+    "corrected": "coding",
+    "stem": "code",
+    "lemma": "cod"
+  },
+  {
+    "original": "method",
+    "corrected": "method",
+    "stem": "method",
+    "lemma": "method"
+  },
+  {
+    "original": "Initialy",
+    "corrected": "initial",
+    "stem": "initi",
+    "lemma": "initialy"
+  },
+  {
+    "original": "lines",
+    "corrected": "lines",
+    "stem": "line",
+    "lemma": "line"
+  },
+  {
+    "original": "AWS",
+    "corrected": "was",
+    "stem": "wa",
+    "lemma": "aws"
+  },
+  {
+    "original": "cloud",
+    "corrected": "cloud",
+    "stem": "cloud",
+    "lemma": "cloud"
+  },
+  {
+    "original": "infrastructure",
+    "corrected": "infrastructure",
+    "stem": "infrastructur",
+    "lemma": "infrastructure"
+  },
+  {
+    "original": "bad",
+    "corrected": "bad",
+    "stem": "bad",
+    "lemma": "bad"
+  },
+  {
+    "original": "decision",
+    "corrected": "decision",
+    "stem": "decis",
+    "lemma": "decision"
+  },
+  {
+    "original": "real",
+    "corrected": "real",
+    "stem": "real",
+    "lemma": "real"
+  },
+  {
+    "original": "challenging",
+    "corrected": "challenging",
+    "stem": "challeng",
+    "lemma": "challenging"
+  },
+  {
+    "original": "program",
+    "corrected": "program",
+    "stem": "program",
+    "lemma": "program"
+  },
+  {
+    "original": "DEV",
+    "corrected": "de",
+    "stem": "de",
+    "lemma": "dev"
+  },
+  {
+    "original": "realize",
+    "corrected": "realize",
+    "stem": "realiz",
+    "lemma": "realize"
+  },
+  {
+    "original": "DEV",
+    "corrected": "de",
+    "stem": "de",
+    "lemma": "dev"
+  },
+  {
+    "original": "exsist",
+    "corrected": "exist",
+    "stem": "exist",
+    "lemma": "exsist"
+  },
+  {
+    "original": "weeks",
+    "corrected": "weeks",
+    "stem": "week",
+    "lemma": "week"
+  },
+  {
+    "original": "fight",
+    "corrected": "fight",
+    "stem": "fight",
+    "lemma": "fight"
+  },
+  {
+    "original": "devops",
+    "corrected": "devons",
+    "stem": "devon",
+    "lemma": "devop"
+  },
+  {
+    "original": "team",
+    "corrected": "team",
+    "stem": "team",
+    "lemma": "team"
+  },
+  {
+    "original": "new",
+    "corrected": "new",
+    "stem": "new",
+    "lemma": "new"
+  },
+  {
+    "original": "DEV",
+    "corrected": "de",
+    "stem": "de",
+    "lemma": "dev"
+  },
+  {
+    "original": "environment",
+    "corrected": "environment",
+    "stem": "environ",
+    "lemma": "environment"
+  },
+  {
+    "original": "version",
+    "corrected": "version",
+    "stem": "version",
+    "lemma": "version"
+  },
+  {
+    "original": "handling",
+    "corrected": "handling",
+    "stem": "handl",
+    "lemma": "handling"
+  },
+  {
+    "original": "tool",
+    "corrected": "tool",
+    "stem": "tool",
+    "lemma": "tool"
+  },
+  {
+    "original": "complex",
+    "corrected": "complex",
+    "stem": "complex",
+    "lemma": "complex"
+  },
+  {
+    "original": "fail",
+    "corrected": "fail",
+    "stem": "fail",
+    "lemma": "fail"
+  },
+  {
+    "original": "start",
+    "corrected": "start",
+    "stem": "start",
+    "lemma": "start"
+  },
+  {
+    "original": "resonate",
+    "corrected": "resonate",
+    "stem": "reson",
+    "lemma": "resonate"
+  },
+  {
+    "original": "AWS",
+    "corrected": "was",
+    "stem": "wa",
+    "lemma": "aws"
+  },
+  {
+    "original": "bad",
+    "corrected": "bad",
+    "stem": "bad",
+    "lemma": "bad"
+  },
+  {
+    "original": "practices",
+    "corrected": "practices",
+    "stem": "practic",
+    "lemma": "practice"
+  },
+  {
+    "original": "remember",
+    "corrected": "remember",
+    "stem": "rememb",
+    "lemma": "remember"
+  },
+  {
+    "original": "New",
+    "corrected": "new",
+    "stem": "new",
+    "lemma": "new"
+  },
+  {
+    "original": "Year",
+    "corrected": "year",
+    "stem": "year",
+    "lemma": "year"
+  },
+  {
+    "original": "resolution",
+    "corrected": "resolution",
+    "stem": "resolut",
+    "lemma": "resolution"
+  },
+  {
+    "original": "speaking",
+    "corrected": "speaking",
+    "stem": "speak",
+    "lemma": "speak"
+  },
+  {
+    "original": "conference",
+    "corrected": "conference",
+    "stem": "confer",
+    "lemma": "conference"
+  },
+  {
+    "original": "bit",
+    "corrected": "bit",
+    "stem": "bit",
+    "lemma": "bit"
+  },
+  {
+    "original": "unofficial",
+    "corrected": "unofficial",
+    "stem": "unoffici",
+    "lemma": "unofficial"
+  },
+  {
+    "original": "hmm",
+    "corrected": "hmm",
+    "stem": "hmm",
+    "lemma": "hmm"
+  },
+  {
+    "original": "early",
+    "corrected": "early",
+    "stem": "earli",
+    "lemma": "early"
+  },
+  {
+    "original": "spring",
+    "corrected": "spring",
+    "stem": "spring",
+    "lemma": "spring"
+  },
+  {
+    "original": "Bologna",
+    "corrected": "bologna",
+    "stem": "bologna",
+    "lemma": "bologna"
+  },
+  {
+    "original": "sounds",
+    "corrected": "sounds",
+    "stem": "sound",
+    "lemma": "sound"
+  },
+  {
+    "original": "AWESOME",
+    "corrected": "awesome",
+    "stem": "awesom",
+    "lemma": "awesome"
+  },
+  {
+    "original": "happy",
+    "corrected": "happy",
+    "stem": "happi",
+    "lemma": "happy"
+  },
+  {
+    "original": "Incredible",
+    "corrected": "incredible",
+    "stem": "incred",
+    "lemma": "incredible"
+  },
+  {
+    "original": "news",
+    "corrected": "news",
+    "stem": "news",
+    "lemma": "news"
+  },
+  {
+    "original": "Sylwia",
+    "corrected": "sylvia",
+    "stem": "sylvia",
+    "lemma": "sylwia"
+  },
+  {
+    "original": "wish",
+    "corrected": "wish",
+    "stem": "wish",
+    "lemma": "wish"
+  },
+  {
+    "original": "best",
+    "corrected": "best",
+    "stem": "best",
+    "lemma": "good"
+  },
+  {
+    "original": "luck",
+    "corrected": "luck",
+    "stem": "luck",
+    "lemma": "luck"
+  },
+  {
+    "original": "sure",
+    "corrected": "sure",
+    "stem": "sure",
+    "lemma": "sure"
+  },
+  {
+    "original": "wo",
+    "corrected": "wo",
+    "stem": "wo",
+    "lemma": "will"
+  },
+  {
+    "original": "need",
+    "corrected": "need",
+    "stem": "need",
+    "lemma": "need"
+  },
+  {
+    "original": "Attempting",
+    "corrected": "attempting",
+    "stem": "attempt",
+    "lemma": "attempt"
+  },
+  {
+    "original": "StackOverflow",
+    "corrected": "stackoverflow",
+    "stem": "stackoverflow",
+    "lemma": "stackoverflow"
+  },
+  {
+    "original": "challenge",
+    "corrected": "challenge",
+    "stem": "challeng",
+    "lemma": "challenge"
+  },
+  {
+    "original": "alphabet",
+    "corrected": "alphabet",
+    "stem": "alphabet",
+    "lemma": "alphabet"
+  },
+  {
+    "original": "decoder",
+    "corrected": "decoder",
+    "stem": "decod",
+    "lemma": "decoder"
+  },
+  {
+    "original": "Thanks",
+    "corrected": "thanks",
+    "stem": "thank",
+    "lemma": "thank"
+  },
+  {
+    "original": "writing",
+    "corrected": "writing",
+    "stem": "write",
+    "lemma": "write"
+  },
+  {
+    "original": "posts",
+    "corrected": "posts",
+    "stem": "post",
+    "lemma": "post"
+  },
+  {
+    "original": "progress",
+    "corrected": "progress",
+    "stem": "progress",
+    "lemma": "progress"
+  },
+  {
+    "original": "freeCodeCamp",
+    "corrected": "freecodecamp",
+    "stem": "freecodecamp",
+    "lemma": "freecodecamp"
+  },
+  {
+    "original": "curriculum",
+    "corrected": "curriculum",
+    "stem": "curriculum",
+    "lemma": "curriculum"
+  },
+  {
+    "original": "DEV",
+    "corrected": "de",
+    "stem": "de",
+    "lemma": "dev"
+  },
+  {
+    "original": "completed",
+    "corrected": "completed",
+    "stem": "complet",
+    "lemma": "complete"
+  },
+  {
+    "original": "goals",
+    "corrected": "goals",
+    "stem": "goal",
+    "lemma": "goal"
+  },
+  {
+    "original": "Responsive",
+    "corrected": "responsive",
+    "stem": "respons",
+    "lemma": "responsive"
+  },
+  {
+    "original": "Web",
+    "corrected": "web",
+    "stem": "web",
+    "lemma": "web"
+  },
+  {
+    "original": "Design",
+    "corrected": "design",
+    "stem": "design",
+    "lemma": "design"
+  },
+  {
+    "original": "certification",
+    "corrected": "certification",
+    "stem": "certif",
+    "lemma": "certification"
+  },
+  {
+    "original": "single",
+    "corrected": "single",
+    "stem": "singl",
+    "lemma": "single"
+  },
+  {
+    "original": "day",
+    "corrected": "day",
+    "stem": "day",
+    "lemma": "day"
+  },
+  {
+    "original": "year",
+    "corrected": "year",
+    "stem": "year",
+    "lemma": "year"
+  },
+  {
+    "original": "far",
+    "corrected": "far",
+    "stem": "far",
+    "lemma": "far"
+  },
+  {
+    "original": "Congrats",
+    "corrected": "congrats",
+    "stem": "congrat",
+    "lemma": "congrat"
+  },
+  {
+    "original": "winners",
+    "corrected": "winners",
+    "stem": "winner",
+    "lemma": "winner"
+  },
+  {
+    "original": "best",
+    "corrected": "best",
+    "stem": "best",
+    "lemma": "good"
+  },
+  {
+    "original": "Refreshing",
+    "corrected": "refreshing",
+    "stem": "refresh",
+    "lemma": "refreshing"
+  },
+  {
+    "original": "cloud",
+    "corrected": "cloud",
+    "stem": "cloud",
+    "lemma": "cloud"
+  },
+  {
+    "original": "Kubernetes",
+    "corrected": "kubernetes",
+    "stem": "kubernet",
+    "lemma": "kubernetes"
+  },
+  {
+    "original": "PaaS",
+    "corrected": "pass",
+    "stem": "pass",
+    "lemma": "paas"
+  },
+  {
+    "original": "serverless",
+    "corrected": "serveries",
+    "stem": "serveri",
+    "lemma": "serverless"
+  },
+  {
+    "original": "etc",
+    "corrected": "et",
+    "stem": "et",
+    "lemma": "etc"
+  },
+  {
+    "original": "etc",
+    "corrected": "et",
+    "stem": "et",
+    "lemma": "etc"
+  },
+  {
+    "original": "Thanks",
+    "corrected": "thanks",
+    "stem": "thank",
+    "lemma": "thank"
+  },
+  {
+    "original": "leob",
+    "corrected": "leo",
+    "stem": "leo",
+    "lemma": "leob"
+  },
+  {
+    "original": "good",
+    "corrected": "good",
+    "stem": "good",
+    "lemma": "good"
+  },
+  {
+    "original": "comments",
+    "corrected": "comments",
+    "stem": "comment",
+    "lemma": "comment"
+  },
+  {
+    "original": "welcome",
+    "corrected": "welcome",
+    "stem": "welcom",
+    "lemma": "welcome"
+  },
+  {
+    "original": "question",
+    "corrected": "question",
+    "stem": "question",
+    "lemma": "question"
+  },
+  {
+    "original": "Good",
+    "corrected": "good",
+    "stem": "good",
+    "lemma": "good"
+  },
+  {
+    "original": "question",
+    "corrected": "question",
+    "stem": "question",
+    "lemma": "question"
+  },
+  {
+    "original": "expect",
+    "corrected": "expect",
+    "stem": "expect",
+    "lemma": "expect"
+  },
+  {
+    "original": "heavy",
+    "corrected": "heavy",
+    "stem": "heavi",
+    "lemma": "heavy"
+  },
+  {
+    "original": "write",
+    "corrected": "write",
+    "stem": "write",
+    "lemma": "write"
+  },
+  {
+    "original": "traffic",
+    "corrected": "traffic",
+    "stem": "traffic",
+    "lemma": "traffic"
+  },
+  {
+    "original": "lots",
+    "corrected": "lots",
+    "stem": "lot",
+    "lemma": "lot"
+  },
+  {
+    "original": "concurrent",
+    "corrected": "concurrent",
+    "stem": "concurr",
+    "lemma": "concurrent"
+  },
+  {
+    "original": "transactions",
+    "corrected": "transactions",
+    "stem": "transact",
+    "lemma": "transaction"
+  },
+  {
+    "original": "day",
+    "corrected": "day",
+    "stem": "day",
+    "lemma": "day"
+  },
+  {
+    "original": "start",
+    "corrected": "start",
+    "stem": "start",
+    "lemma": "start"
+  },
+  {
+    "original": "Postgres",
+    "corrected": "postures",
+    "stem": "postur",
+    "lemma": "postgres"
+  },
+  {
+    "original": "MySQL",
+    "corrected": "myself",
+    "stem": "myself",
+    "lemma": "mysql"
+  },
+  {
+    "original": "Running",
+    "corrected": "running",
+    "stem": "run",
+    "lemma": "run"
+  },
+  {
+    "original": "app",
+    "corrected": "ape",
+    "stem": "ape",
+    "lemma": "app"
+  },
+  {
+    "original": "DB",
+    "corrected": "db",
+    "stem": "db",
+    "lemma": "db"
+  },
+  {
+    "original": "VPS",
+    "corrected": "ups",
+    "stem": "up",
+    "lemma": "vps"
+  },
+  {
+    "original": "totally",
+    "corrected": "totally",
+    "stem": "total",
+    "lemma": "totally"
+  },
+  {
+    "original": "doable",
+    "corrected": "doable",
+    "stem": "doabl",
+    "lemma": "doable"
+  },
+  {
+    "original": "point",
+    "corrected": "point",
+    "stem": "point",
+    "lemma": "point"
+  },
+  {
+    "original": "early",
+    "corrected": "early",
+    "stem": "earli",
+    "lemma": "early"
+  },
+  {
+    "original": "SaaS",
+    "corrected": "says",
+    "stem": "say",
+    "lemma": "saas"
+  },
+  {
+    "original": "apps",
+    "corrected": "apes",
+    "stem": "ape",
+    "lemma": "app"
+  },
+  {
+    "original": "SQLite",
+    "corrected": "quite",
+    "stem": "quit",
+    "lemma": "sqlite"
+  },
+  {
+    "original": "WAL",
+    "corrected": "wal",
+    "stem": "wal",
+    "lemma": "wal"
+  },
+  {
+    "original": "mode",
+    "corrected": "mode",
+    "stem": "mode",
+    "lemma": "mode"
+  },
+  {
+    "original": "keeps",
+    "corrected": "keeps",
+    "stem": "keep",
+    "lemma": "keep"
+  },
+  {
+    "original": "ops",
+    "corrected": "ops",
+    "stem": "op",
+    "lemma": "op"
+  },
+  {
+    "original": "simple",
+    "corrected": "simple",
+    "stem": "simpl",
+    "lemma": "simple"
+  },
+  {
+    "original": "file",
+    "corrected": "file",
+    "stem": "file",
+    "lemma": "file"
+  },
+  {
+    "original": "easy",
+    "corrected": "easy",
+    "stem": "easi",
+    "lemma": "easy"
+  },
+  {
+    "original": "backups",
+    "corrected": "backups",
+    "stem": "backup",
+    "lemma": "backup"
+  },
+  {
+    "original": "easy",
+    "corrected": "easy",
+    "stem": "easi",
+    "lemma": "easy"
+  },
+  {
+    "original": "restores",
+    "corrected": "restores",
+    "stem": "restor",
+    "lemma": "restore"
+  },
+  {
+    "original": "stops",
+    "corrected": "stops",
+    "stem": "stop",
+    "lemma": "stop"
+  },
+  {
+    "original": "Postgres",
+    "corrected": "postures",
+    "stem": "postur",
+    "lemma": "postgre"
+  },
+  {
+    "original": "later",
+    "corrected": "later",
+    "stem": "later",
+    "lemma": "later"
+  },
+  {
+    "original": "rewriting",
+    "corrected": "rewriting",
+    "stem": "rewrit",
+    "lemma": "rewrite"
+  },
+  {
+    "original": "app",
+    "corrected": "ape",
+    "stem": "ape",
+    "lemma": "app"
+  },
+  {
+    "original": "kind",
+    "corrected": "kind",
+    "stem": "kind",
+    "lemma": "kind"
+  },
+  {
+    "original": "workload",
+    "corrected": "workload",
+    "stem": "workload",
+    "lemma": "workload"
+  },
+  {
+    "original": "thinking",
+    "corrected": "thinking",
+    "stem": "think",
+    "lemma": "think"
+  },
+  {
+    "original": "transactions",
+    "corrected": "transactions",
+    "stem": "transact",
+    "lemma": "transaction"
+  },
+  {
+    "original": "Point",
+    "corrected": "point",
+    "stem": "point",
+    "lemma": "point"
+  },
+  {
+    "original": "concurrent",
+    "corrected": "concurrent",
+    "stem": "concurr",
+    "lemma": "concurrent"
+  },
+  {
+    "original": "ACID",
+    "corrected": "acid",
+    "stem": "acid",
+    "lemma": "acid"
+  },
+  {
+    "original": "transactions",
+    "corrected": "transactions",
+    "stem": "transact",
+    "lemma": "transaction"
+  },
+  {
+    "original": "low",
+    "corrected": "low",
+    "stem": "low",
+    "lemma": "low"
+  },
+  {
+    "original": "traffic",
+    "corrected": "traffic",
+    "stem": "traffic",
+    "lemma": "traffic"
+  },
+  {
+    "original": "app",
+    "corrected": "ape",
+    "stem": "ape",
+    "lemma": "app"
+  },
+  {
+    "original": "completely",
+    "corrected": "completely",
+    "stem": "complet",
+    "lemma": "completely"
+  },
+  {
+    "original": "reliable",
+    "corrected": "reliable",
+    "stem": "reliabl",
+    "lemma": "reliable"
+  },
+  {
+    "original": "SQLite",
+    "corrected": "quite",
+    "stem": "quit",
+    "lemma": "sqlite"
+  },
+  {
+    "original": "Thrilled",
+    "corrected": "thrilled",
+    "stem": "thrill",
+    "lemma": "thrill"
+  },
+  {
+    "original": "Gemini",
+    "corrected": "gemini",
+    "stem": "gemini",
+    "lemma": "gemini"
+  },
+  {
+    "original": "powering",
+    "corrected": "powering",
+    "stem": "power",
+    "lemma": "power"
+  },
+  {
+    "original": "safety",
+    "corrected": "safety",
+    "stem": "safeti",
+    "lemma": "safety"
+  },
+  {
+    "original": "DEV",
+    "corrected": "de",
+    "stem": "de",
+    "lemma": "dev"
+  },
+  {
+    "original": "community",
+    "corrected": "community",
+    "stem": "commun",
+    "lemma": "community"
+  },
+  {
+    "original": "making",
+    "corrected": "making",
+    "stem": "make",
+    "lemma": "make"
+  },
+  {
+    "original": "easier",
+    "corrected": "easier",
+    "stem": "easier",
+    "lemma": "easy"
+  },
+  {
+    "original": "human",
+    "corrected": "human",
+    "stem": "human",
+    "lemma": "human"
+  },
+  {
+    "original": "moderators",
+    "corrected": "moderators",
+    "stem": "moder",
+    "lemma": "moderator"
+  },
+  {
+    "original": "amazing",
+    "corrected": "amazing",
+    "stem": "amaz",
+    "lemma": "amazing"
+  },
+  {
+    "original": "improve",
+    "corrected": "improve",
+    "stem": "improv",
+    "lemma": "improve"
+  },
+  {
+    "original": "quality",
+    "corrected": "quality",
+    "stem": "qualiti",
+    "lemma": "quality"
+  },
+  {
+    "original": "posts",
+    "corrected": "posts",
+    "stem": "post",
+    "lemma": "post"
+  },
+  {
+    "original": "website",
+    "corrected": "website",
+    "stem": "websit",
+    "lemma": "website"
+  },
+  {
+    "original": "Thanks",
+    "corrected": "thanks",
+    "stem": "thank",
+    "lemma": "thank"
+  },
+  {
+    "original": "sharing",
+    "corrected": "sharing",
+    "stem": "share",
+    "lemma": "sharing"
+  },
+  {
+    "original": "Great",
+    "corrected": "great",
+    "stem": "great",
+    "lemma": "great"
+  },
+  {
+    "original": "job",
+    "corrected": "job",
+    "stem": "job",
+    "lemma": "job"
+  },
+  {
+    "original": "implementing",
+    "corrected": "implementing",
+    "stem": "implement",
+    "lemma": "implement"
+  },
+  {
+    "original": "support",
+    "corrected": "support",
+    "stem": "support",
+    "lemma": "support"
+  },
+  {
+    "original": "building",
+    "corrected": "building",
+    "stem": "build",
+    "lemma": "building"
+  },
+  {
+    "original": "community",
+    "corrected": "community",
+    "stem": "commun",
+    "lemma": "community"
+  },
+  {
+    "original": "completely",
+    "corrected": "completely",
+    "stem": "complet",
+    "lemma": "completely"
+  },
+  {
+    "original": "topic",
+    "corrected": "topic",
+    "stem": "topic",
+    "lemma": "topic"
+  },
+  {
+    "original": "posts",
+    "corrected": "posts",
+    "stem": "post",
+    "lemma": "post"
+  },
+  {
+    "original": "considered",
+    "corrected": "considered",
+    "stem": "consid",
+    "lemma": "consider"
+  },
+  {
+    "original": "spam",
+    "corrected": "spam",
+    "stem": "spam",
+    "lemma": "spam"
+  },
+  {
+    "original": "seeing",
+    "corrected": "seeing",
+    "stem": "see",
+    "lemma": "see"
+  },
+  {
+    "original": "obvious",
+    "corrected": "obvious",
+    "stem": "obviou",
+    "lemma": "obvious"
+  },
+  {
+    "original": "SEO",
+    "corrected": "so",
+    "stem": "so",
+    "lemma": "seo"
+  },
+  {
+    "original": "posts",
+    "corrected": "posts",
+    "stem": "post",
+    "lemma": "post"
+  },
+  {
+    "original": "gemini",
+    "corrected": "gemini",
+    "stem": "gemini",
+    "lemma": "gemini"
+  },
+  {
+    "original": "awsome",
+    "corrected": "awesome",
+    "stem": "awesom",
+    "lemma": "awsome"
+  },
+  {
+    "original": "believe",
+    "corrected": "believe",
+    "stem": "believ",
+    "lemma": "believe"
+  },
+  {
+    "original": "dropped",
+    "corrected": "dropped",
+    "stem": "drop",
+    "lemma": "drop"
+  },
+  {
+    "original": "day",
+    "corrected": "day",
+    "stem": "day",
+    "lemma": "day"
+  },
+  {
+    "original": "coding",
+    "corrected": "coding",
+    "stem": "code",
+    "lemma": "cod"
+  },
+  {
+    "original": "past",
+    "corrected": "past",
+    "stem": "past",
+    "lemma": "past"
+  },
+  {
+    "original": "couple",
+    "corrected": "couple",
+    "stem": "coupl",
+    "lemma": "couple"
+  },
+  {
+    "original": "weeks",
+    "corrected": "weeks",
+    "stem": "week",
+    "lemma": "week"
+  },
+  {
+    "original": "maybe",
+    "corrected": "maybe",
+    "stem": "mayb",
+    "lemma": "maybe"
+  },
+  {
+    "original": "time",
+    "corrected": "time",
+    "stem": "time",
+    "lemma": "time"
+  },
+  {
+    "original": "break",
+    "corrected": "break",
+    "stem": "break",
+    "lemma": "break"
+  },
+  {
+    "original": "articles",
+    "corrected": "articles",
+    "stem": "articl",
+    "lemma": "article"
+  },
+  {
+    "original": "smaller",
+    "corrected": "smaller",
+    "stem": "smaller",
+    "lemma": "small"
+  },
+  {
+    "original": "ones",
+    "corrected": "ones",
+    "stem": "one",
+    "lemma": "one"
+  },
+  {
+    "original": "Yeah",
+    "corrected": "yeah",
+    "stem": "yeah",
+    "lemma": "yeah"
+  },
+  {
+    "original": "means",
+    "corrected": "means",
+    "stem": "mean",
+    "lemma": "mean"
+  },
+  {
+    "original": "nowadays",
+    "corrected": "nowadays",
+    "stem": "nowaday",
+    "lemma": "nowadays"
+  },
+  {
+    "original": "vibe",
+    "corrected": "vibe",
+    "stem": "vibe",
+    "lemma": "vibe"
+  },
+  {
+    "original": "code",
+    "corrected": "code",
+    "stem": "code",
+    "lemma": "code"
+  },
+  {
+    "original": "literally",
+    "corrected": "literally",
+    "stem": "liter",
+    "lemma": "literally"
+  },
+  {
+    "original": "create",
+    "corrected": "create",
+    "stem": "creat",
+    "lemma": "create"
+  },
+  {
+    "original": "non",
+    "corrected": "non",
+    "stem": "non",
+    "lemma": "non"
+  },
+  {
+    "original": "trivial",
+    "corrected": "trivial",
+    "stem": "trivial",
+    "lemma": "trivial"
+  },
+  {
+    "original": "weekend",
+    "corrected": "weekend",
+    "stem": "weekend",
+    "lemma": "weekend"
+  },
+  {
+    "original": "Haha",
+    "corrected": "hah",
+    "stem": "hah",
+    "lemma": "haha"
+  },
+  {
+    "original": "exactly",
+    "corrected": "exactly",
+    "stem": "exactli",
+    "lemma": "exactly"
+  },
+  {
+    "original": "coded",
+    "corrected": "coded",
+    "stem": "code",
+    "lemma": "cod"
+  },
+  {
+    "original": "small",
+    "corrected": "small",
+    "stem": "small",
+    "lemma": "small"
+  },
+  {
+    "original": "score",
+    "corrected": "score",
+    "stem": "score",
+    "lemma": "score"
+  },
+  {
+    "original": "tracker",
+    "corrected": "tracker",
+    "stem": "tracker",
+    "lemma": "tracker"
+  },
+  {
+    "original": "card",
+    "corrected": "card",
+    "stem": "card",
+    "lemma": "card"
+  },
+  {
+    "original": "game",
+    "corrected": "game",
+    "stem": "game",
+    "lemma": "game"
+  },
+  {
+    "original": "learned",
+    "corrected": "learned",
+    "stem": "learn",
+    "lemma": "learn"
+  },
+  {
+    "original": "video",
+    "corrected": "video",
+    "stem": "video",
+    "lemma": "video"
+  },
+  {
+    "original": "youtube",
+    "corrected": "youtube",
+    "stem": "youtub",
+    "lemma": "youtube"
+  },
+  {
+    "original": "build",
+    "corrected": "build",
+    "stem": "build",
+    "lemma": "build"
+  },
+  {
+    "original": "mobile",
+    "corrected": "mobile",
+    "stem": "mobil",
+    "lemma": "mobile"
+  },
+  {
+    "original": "gpt",
+    "corrected": "get",
+    "stem": "get",
+    "lemma": "gpt"
+  },
+  {
+    "original": "claude",
+    "corrected": "claude",
+    "stem": "claud",
+    "lemma": "claude"
+  },
+  {
+    "original": "Tweaked",
+    "corrected": "tweaked",
+    "stem": "tweak",
+    "lemma": "tweak"
+  },
+  {
+    "original": "gotchas",
+    "corrected": "gotcha",
+    "stem": "gotcha",
+    "lemma": "gotcha"
+  },
+  {
+    "original": "editor",
+    "corrected": "editor",
+    "stem": "editor",
+    "lemma": "editor"
+  },
+  {
+    "original": "hours",
+    "corrected": "hours",
+    "stem": "hour",
+    "lemma": "hour"
+  },
+  {
+    "original": "worked",
+    "corrected": "worked",
+    "stem": "work",
+    "lemma": "work"
+  },
+  {
+    "original": "great",
+    "corrected": "great",
+    "stem": "great",
+    "lemma": "great"
+  },
+  {
+    "original": "Nice",
+    "corrected": "nice",
+    "stem": "nice",
+    "lemma": "nice"
+  },
+  {
+    "original": "cool",
+    "corrected": "cool",
+    "stem": "cool",
+    "lemma": "cool"
+  },
+  {
+    "original": "hosting",
+    "corrected": "hosting",
+    "stem": "host",
+    "lemma": "host"
+  },
+  {
+    "original": "free",
+    "corrected": "free",
+    "stem": "free",
+    "lemma": "free"
+  },
+  {
+    "original": "Netlify",
+    "corrected": "notify",
+    "stem": "notifi",
+    "lemma": "netlify"
+  },
+  {
+    "original": "emphasis",
+    "corrected": "emphasis",
+    "stem": "emphasi",
+    "lemma": "emphasis"
+  },
+  {
+    "original": "systems",
+    "corrected": "systems",
+    "stem": "system",
+    "lemma": "system"
+  },
+  {
+    "original": "motivation",
+    "corrected": "motivation",
+    "stem": "motiv",
+    "lemma": "motivation"
+  },
+  {
+    "original": "founders",
+    "corrected": "founders",
+    "stem": "founder",
+    "lemma": "founder"
+  },
+  {
+    "original": "pay",
+    "corrected": "pay",
+    "stem": "pay",
+    "lemma": "pay"
+  },
+  {
+    "original": "attention",
+    "corrected": "attention",
+    "stem": "attent",
+    "lemma": "attention"
+  },
+  {
+    "original": "feels",
+    "corrected": "feels",
+    "stem": "feel",
+    "lemma": "feel"
+  },
+  {
+    "original": "like",
+    "corrected": "like",
+    "stem": "like",
+    "lemma": "like"
+  },
+  {
+    "original": "advice",
+    "corrected": "advice",
+    "stem": "advic",
+    "lemma": "advice"
+  },
+  {
+    "original": "meant",
+    "corrected": "meant",
+    "stem": "meant",
+    "lemma": "mean"
+  },
+  {
+    "original": "help",
+    "corrected": "help",
+    "stem": "help",
+    "lemma": "help"
+  },
+  {
+    "original": "people",
+    "corrected": "people",
+    "stem": "peopl",
+    "lemma": "people"
+  },
+  {
+    "original": "avoid",
+    "corrected": "avoid",
+    "stem": "avoid",
+    "lemma": "avoid"
+  },
+  {
+    "original": "mistakes",
+    "corrected": "mistakes",
+    "stem": "mistak",
+    "lemma": "mistake"
+  },
+  {
+    "original": "impress",
+    "corrected": "impress",
+    "stem": "impress",
+    "lemma": "impress"
+  },
+  {
+    "original": "captures",
+    "corrected": "captures",
+    "stem": "captur",
+    "lemma": "capture"
+  },
+  {
+    "original": "remote",
+    "corrected": "remote",
+    "stem": "remot",
+    "lemma": "remote"
+  },
+  {
+    "original": "work",
+    "corrected": "work",
+    "stem": "work",
+    "lemma": "work"
+  },
+  {
+    "original": "looks",
+    "corrected": "looks",
+    "stem": "look",
+    "lemma": "look"
+  },
+  {
+    "original": "great",
+    "corrected": "great",
+    "stem": "great",
+    "lemma": "great"
+  },
+  {
+    "original": "surface",
+    "corrected": "surface",
+    "stem": "surfac",
+    "lemma": "surface"
+  },
+  {
+    "original": "requires",
+    "corrected": "requires",
+    "stem": "requir",
+    "lemma": "require"
+  },
+  {
+    "original": "deeper",
+    "corrected": "deeper",
+    "stem": "deeper",
+    "lemma": "deep"
+  },
+  {
+    "original": "thinking",
+    "corrected": "thinking",
+    "stem": "think",
+    "lemma": "thinking"
+  },
+  {
+    "original": "sustainable",
+    "corrected": "sustainable",
+    "stem": "sustain",
+    "lemma": "sustainable"
+  },
+  {
+    "original": "section",
+    "corrected": "section",
+    "stem": "section",
+    "lemma": "section"
+  },
+  {
+    "original": "unplugging",
+    "corrected": "unplugging",
+    "stem": "unplug",
+    "lemma": "unplug"
+  },
+  {
+    "original": "fully",
+    "corrected": "fully",
+    "stem": "fulli",
+    "lemma": "fully"
+  },
+  {
+    "original": "especially",
+    "corrected": "especially",
+    "stem": "especi",
+    "lemma": "especially"
+  },
+  {
+    "original": "relevant",
+    "corrected": "relevant",
+    "stem": "relev",
+    "lemma": "relevant"
+  },
+  {
+    "original": "founders",
+    "corrected": "founders",
+    "stem": "founder",
+    "lemma": "founder"
+  },
+  {
+    "original": "struggle",
+    "corrected": "struggle",
+    "stem": "struggl",
+    "lemma": "struggle"
+  },
+  {
+    "original": "step",
+    "corrected": "step",
+    "stem": "step",
+    "lemma": "step"
+  },
+  {
+    "original": "away",
+    "corrected": "away",
+    "stem": "away",
+    "lemma": "away"
+  },
+  {
+    "original": "reads",
+    "corrected": "reads",
+    "stem": "read",
+    "lemma": "read"
+  },
+  {
+    "original": "like",
+    "corrected": "like",
+    "stem": "like",
+    "lemma": "like"
+  },
+  {
+    "original": "advice",
+    "corrected": "advice",
+    "stem": "advic",
+    "lemma": "advice"
+  },
+  {
+    "original": "comes",
+    "corrected": "comes",
+    "stem": "come",
+    "lemma": "come"
+  },
+  {
+    "original": "years",
+    "corrected": "years",
+    "stem": "year",
+    "lemma": "year"
+  },
+  {
+    "original": "things",
+    "corrected": "things",
+    "stem": "thing",
+    "lemma": "thing"
+  },
+  {
+    "original": "hard",
+    "corrected": "hard",
+    "stem": "hard",
+    "lemma": "hard"
+  },
+  {
+    "original": "way",
+    "corrected": "way",
+    "stem": "way",
+    "lemma": "way"
+  },
+  {
+    "original": "aligns",
+    "corrected": "aligns",
+    "stem": "align",
+    "lemma": "align"
+  },
+  {
+    "original": "Ashkan",
+    "corrected": "ashcan",
+    "stem": "ashcan",
+    "lemma": "ashkan"
+  },
+  {
+    "original": "Rajaee",
+    "corrected": "ravage",
+    "stem": "ravag",
+    "lemma": "rajaee"
+  },
+  {
+    "original": "view",
+    "corrected": "view",
+    "stem": "view",
+    "lemma": "view"
+  },
+  {
+    "original": "remote",
+    "corrected": "remote",
+    "stem": "remot",
+    "lemma": "remote"
+  },
+  {
+    "original": "work",
+    "corrected": "work",
+    "stem": "work",
+    "lemma": "work"
+  },
+  {
+    "original": "discipline",
+    "corrected": "discipline",
+    "stem": "disciplin",
+    "lemma": "discipline"
+  },
+  {
+    "original": "lifestyle",
+    "corrected": "lifestyle",
+    "stem": "lifestyl",
+    "lemma": "lifestyle"
+  },
+  {
+    "original": "perk",
+    "corrected": "perk",
+    "stem": "perk",
+    "lemma": "perk"
+  },
+  {
+    "original": "idea",
+    "corrected": "idea",
+    "stem": "idea",
+    "lemma": "idea"
+  },
+  {
+    "original": "article",
+    "corrected": "article",
+    "stem": "articl",
+    "lemma": "article"
+  },
+  {
+    "original": "stood",
+    "corrected": "stood",
+    "stem": "stood",
+    "lemma": "stand"
+  },
+  {
+    "original": "emphasis",
+    "corrected": "emphasis",
+    "stem": "emphasi",
+    "lemma": "emphasis"
+  },
+  {
+    "original": "choosing",
+    "corrected": "choosing",
+    "stem": "choos",
+    "lemma": "choose"
+  },
+  {
+    "original": "decide",
+    "corrected": "decide",
+    "stem": "decid",
+    "lemma": "decide"
+  },
+  {
+    "original": "making",
+    "corrected": "making",
+    "stem": "make",
+    "lemma": "make"
+  },
+  {
+    "original": "decision",
+    "corrected": "decision",
+    "stem": "decis",
+    "lemma": "decision"
+  },
+  {
+    "original": "digital",
+    "corrected": "digital",
+    "stem": "digit",
+    "lemma": "digital"
+  },
+  {
+    "original": "professional",
+    "corrected": "professional",
+    "stem": "profession",
+    "lemma": "professional"
+  },
+  {
+    "original": "environments",
+    "corrected": "environments",
+    "stem": "environ",
+    "lemma": "environment"
+  },
+  {
+    "original": "constantly",
+    "corrected": "constantly",
+    "stem": "constantli",
+    "lemma": "constantly"
+  },
+  {
+    "original": "surrounded",
+    "corrected": "surrounded",
+    "stem": "surround",
+    "lemma": "surround"
+  },
+  {
+    "original": "information",
+    "corrected": "information",
+    "stem": "inform",
+    "lemma": "information"
+  },
+  {
+    "original": "tools",
+    "corrected": "tools",
+    "stem": "tool",
+    "lemma": "tool"
+  },
+  {
+    "original": "opinions",
+    "corrected": "opinions",
+    "stem": "opinion",
+    "lemma": "opinion"
+  },
+  {
+    "original": "easily",
+    "corrected": "easily",
+    "stem": "easili",
+    "lemma": "easily"
+  },
+  {
+    "original": "lead",
+    "corrected": "lead",
+    "stem": "lead",
+    "lemma": "lead"
+  },
+  {
+    "original": "rushed",
+    "corrected": "rushed",
+    "stem": "rush",
+    "lemma": "rush"
+  },
+  {
+    "original": "poorly",
+    "corrected": "poorly",
+    "stem": "poorli",
+    "lemma": "poorly"
+  },
+  {
+    "original": "informed",
+    "corrected": "informed",
+    "stem": "inform",
+    "lemma": "inform"
+  },
+  {
+    "original": "choices",
+    "corrected": "choices",
+    "stem": "choic",
+    "lemma": "choice"
+  },
+  {
+    "original": "thinking",
+    "corrected": "thinking",
+    "stem": "think",
+    "lemma": "think"
+  },
+  {
+    "original": "imperatively",
+    "corrected": "imperatively",
+    "stem": "imper",
+    "lemma": "imperatively"
+  },
+  {
+    "original": "React",
+    "corrected": "react",
+    "stem": "react",
+    "lemma": "react"
+  },
+  {
+    "original": "naturally",
+    "corrected": "naturally",
+    "stem": "natur",
+    "lemma": "naturally"
+  },
+  {
+    "original": "declarative",
+    "corrected": "declarative",
+    "stem": "declar",
+    "lemma": "declarative"
+  },
+  {
+    "original": "thinking",
+    "corrected": "thinking",
+    "stem": "think",
+    "lemma": "think"
+  },
+  {
+    "original": "code",
+    "corrected": "code",
+    "stem": "code",
+    "lemma": "code"
+  },
+  {
+    "original": "run",
+    "corrected": "run",
+    "stem": "run",
+    "lemma": "run"
+  },
+  {
+    "original": "time",
+    "corrected": "time",
+    "stem": "time",
+    "lemma": "time"
+  },
+  {
+    "original": "declaring",
+    "corrected": "declaring",
+    "stem": "declar",
+    "lemma": "declare"
+  },
+  {
+    "original": "code",
+    "corrected": "code",
+    "stem": "code",
+    "lemma": "code"
+  },
+  {
+    "original": "caring",
+    "corrected": "caring",
+    "stem": "care",
+    "lemma": "care"
+  },
+  {
+    "original": "run",
+    "corrected": "run",
+    "stem": "run",
+    "lemma": "run"
+  },
+  {
+    "original": "natural",
+    "corrected": "natural",
+    "stem": "natur",
+    "lemma": "natural"
+  },
+  {
+    "original": "feel",
+    "corrected": "feel",
+    "stem": "feel",
+    "lemma": "feel"
+  },
+  {
+    "original": "odd",
+    "corrected": "odd",
+    "stem": "odd",
+    "lemma": "odd"
+  },
+  {
+    "original": "learning",
+    "corrected": "learning",
+    "stem": "learn",
+    "lemma": "learn"
+  },
+  {
+    "original": "pattern",
+    "corrected": "pattern",
+    "stem": "pattern",
+    "lemma": "pattern"
+  },
+  {
+    "original": "constantly",
+    "corrected": "constantly",
+    "stem": "constantli",
+    "lemma": "constantly"
+  },
+  {
+    "original": "use",
+    "corrected": "use",
+    "stem": "use",
+    "lemma": "use"
+  },
+  {
+    "original": "architecture",
+    "corrected": "architecture",
+    "stem": "architectur",
+    "lemma": "architecture"
+  },
+  {
+    "original": "design",
+    "corrected": "design",
+    "stem": "design",
+    "lemma": "design"
+  },
+  {
+    "original": "reason",
+    "corrected": "reason",
+    "stem": "reason",
+    "lemma": "reason"
+  },
+  {
+    "original": "power",
+    "corrected": "power",
+    "stem": "power",
+    "lemma": "power"
+  },
+  {
+    "original": "ability",
+    "corrected": "ability",
+    "stem": "abil",
+    "lemma": "ability"
+  },
+  {
+    "original": "decouple",
+    "corrected": "decouple",
+    "stem": "decoupl",
+    "lemma": "decouple"
+  },
+  {
+    "original": "things",
+    "corrected": "things",
+    "stem": "thing",
+    "lemma": "thing"
+  },
+  {
+    "original": "confusing",
+    "corrected": "confusing",
+    "stem": "confus",
+    "lemma": "confusing"
+  },
+  {
+    "original": "aspects",
+    "corrected": "aspects",
+    "stem": "aspect",
+    "lemma": "aspect"
+  },
+  {
+    "original": "React",
+    "corrected": "react",
+    "stem": "react",
+    "lemma": "react"
+  },
+  {
+    "original": "form",
+    "corrected": "form",
+    "stem": "form",
+    "lemma": "form"
+  },
+  {
+    "original": "perspective",
+    "corrected": "perspective",
+    "stem": "perspect",
+    "lemma": "perspective"
+  },
+  {
+    "original": "beginner",
+    "corrected": "beginner",
+    "stem": "beginn",
+    "lemma": "beginner"
+  },
+  {
+    "original": "summarized",
+    "corrected": "summarized",
+    "stem": "summar",
+    "lemma": "summarize"
+  },
+  {
+    "original": "Hot",
+    "corrected": "hot",
+    "stem": "hot",
+    "lemma": "hot"
+  },
+  {
+    "original": "Points",
+    "corrected": "points",
+    "stem": "point",
+    "lemma": "points"
+  },
+  {
+    "original": "State",
+    "corrected": "state",
+    "stem": "state",
+    "lemma": "state"
+  },
+  {
+    "original": "Variables",
+    "corrected": "variables",
+    "stem": "variabl",
+    "lemma": "variables"
+  },
+  {
+    "original": "render",
+    "corrected": "render",
+    "stem": "render",
+    "lemma": "render"
+  },
+  {
+    "original": "Trigger",
+    "corrected": "trigger",
+    "stem": "trigger",
+    "lemma": "trigger"
+  },
+  {
+    "original": "React",
+    "corrected": "react",
+    "stem": "react",
+    "lemma": "react"
+  },
+  {
+    "original": "code",
+    "corrected": "code",
+    "stem": "code",
+    "lemma": "code"
+  },
+  {
+    "original": "easier",
+    "corrected": "easier",
+    "stem": "easier",
+    "lemma": "easy"
+  },
+  {
+    "original": "following",
+    "corrected": "following",
+    "stem": "follow",
+    "lemma": "follow"
+  },
+  {
+    "original": "follow",
+    "corrected": "follow",
+    "stem": "follow",
+    "lemma": "follow"
+  },
+  {
+    "original": "Hot",
+    "corrected": "hot",
+    "stem": "hot",
+    "lemma": "hot"
+  },
+  {
+    "original": "Points",
+    "corrected": "points",
+    "stem": "point",
+    "lemma": "points"
+  },
+  {
+    "original": "React",
+    "corrected": "react",
+    "stem": "react",
+    "lemma": "react"
+  },
+  {
+    "original": "problems",
+    "corrected": "problems",
+    "stem": "problem",
+    "lemma": "problem"
+  },
+  {
+    "original": "unique",
+    "corrected": "unique",
+    "stem": "uniqu",
+    "lemma": "unique"
+  },
+  {
+    "original": "React",
+    "corrected": "react",
+    "stem": "react",
+    "lemma": "react"
+  },
+  {
+    "original": "JavaScript",
+    "corrected": "javascript",
+    "stem": "javascript",
+    "lemma": "javascript"
+  },
+  {
+    "original": "TypeScript",
+    "corrected": "typescript",
+    "stem": "typescript",
+    "lemma": "typescript"
+  },
+  {
+    "original": "come",
+    "corrected": "come",
+    "stem": "come",
+    "lemma": "come"
+  },
+  {
+    "original": "long",
+    "corrected": "long",
+    "stem": "long",
+    "lemma": "long"
+  },
+  {
+    "original": "way",
+    "corrected": "way",
+    "stem": "way",
+    "lemma": "way"
+  },
+  {
+    "original": "historically",
+    "corrected": "historically",
+    "stem": "histor",
+    "lemma": "historically"
+  },
+  {
+    "original": "resulting",
+    "corrected": "resulting",
+    "stem": "result",
+    "lemma": "result"
+  },
+  {
+    "original": "inconsistent",
+    "corrected": "inconsistent",
+    "stem": "inconsist",
+    "lemma": "inconsistent"
+  },
+  {
+    "original": "concepts",
+    "corrected": "concepts",
+    "stem": "concept",
+    "lemma": "concept"
+  },
+  {
+    "original": "different",
+    "corrected": "different",
+    "stem": "differ",
+    "lemma": "different"
+  },
+  {
+    "original": "possible",
+    "corrected": "possible",
+    "stem": "possibl",
+    "lemma": "possible"
+  },
+  {
+    "original": "syntax",
+    "corrected": "syntax",
+    "stem": "syntax",
+    "lemma": "syntax"
+  },
+  {
+    "original": "achieve",
+    "corrected": "achieve",
+    "stem": "achiev",
+    "lemma": "achieve"
+  },
+  {
+    "original": "thing",
+    "corrected": "thing",
+    "stem": "thing",
+    "lemma": "thing"
+  },
+  {
+    "original": "Syntax",
+    "corrected": "syntax",
+    "stem": "syntax",
+    "lemma": "syntax"
+  },
+  {
+    "original": "matter",
+    "corrected": "matter",
+    "stem": "matter",
+    "lemma": "matter"
+  },
+  {
+    "original": "taste",
+    "corrected": "taste",
+    "stem": "tast",
+    "lemma": "taste"
+  },
+  {
+    "original": "learned",
+    "corrected": "learned",
+    "stem": "learn",
+    "lemma": "learn"
+  },
+  {
+    "original": "like",
+    "corrected": "like",
+    "stem": "like",
+    "lemma": "like"
+  },
+  {
+    "original": "classic",
+    "corrected": "classic",
+    "stem": "classic",
+    "lemma": "classic"
+  },
+  {
+    "original": "arrow",
+    "corrected": "arrow",
+    "stem": "arrow",
+    "lemma": "arrow"
+  },
+  {
+    "original": "functions",
+    "corrected": "functions",
+    "stem": "function",
+    "lemma": "function"
+  },
+  {
+    "original": "developers",
+    "corrected": "developers",
+    "stem": "develop",
+    "lemma": "developer"
+  },
+  {
+    "original": "prefer",
+    "corrected": "prefer",
+    "stem": "prefer",
+    "lemma": "prefer"
+  },
+  {
+    "original": "React",
+    "corrected": "react",
+    "stem": "react",
+    "lemma": "react"
+  },
+  {
+    "original": "hooks",
+    "corrected": "hooks",
+    "stem": "hook",
+    "lemma": "hook"
+  },
+  {
+    "original": "legacy",
+    "corrected": "legacy",
+    "stem": "legaci",
+    "lemma": "legacy"
+  },
+  {
+    "original": "lifecycle",
+    "corrected": "lifecycle",
+    "stem": "lifecycl",
+    "lemma": "lifecycle"
+  },
+  {
+    "original": "methods",
+    "corrected": "methods",
+    "stem": "method",
+    "lemma": "method"
+  },
+  {
+    "original": "miss",
+    "corrected": "miss",
+    "stem": "miss",
+    "lemma": "miss"
+  },
+  {
+    "original": "descriptive",
+    "corrected": "descriptive",
+    "stem": "descript",
+    "lemma": "descriptive"
+  },
+  {
+    "original": "names",
+    "corrected": "names",
+    "stem": "name",
+    "lemma": "name"
+  },
+  {
+    "original": "obvious",
+    "corrected": "obvious",
+    "stem": "obviou",
+    "lemma": "obvious"
+  },
+  {
+    "original": "logic",
+    "corrected": "logic",
+    "stem": "logic",
+    "lemma": "logic"
+  },
+  {
+    "original": "despite",
+    "corrected": "despite",
+    "stem": "despit",
+    "lemma": "despite"
+  },
+  {
+    "original": "verbosity",
+    "corrected": "verbosity",
+    "stem": "verbos",
+    "lemma": "verbosity"
+  },
+  {
+    "original": "missing",
+    "corrected": "missing",
+    "stem": "miss",
+    "lemma": "miss"
+  },
+  {
+    "original": "customization",
+    "corrected": "customization",
+    "stem": "custom",
+    "lemma": "customization"
+  },
+  {
+    "original": "JSX",
+    "corrected": "is",
+    "stem": "is",
+    "lemma": "jsx"
+  },
+  {
+    "original": "optional",
+    "corrected": "optional",
+    "stem": "option",
+    "lemma": "optional"
+  },
+  {
+    "original": "theory",
+    "corrected": "theory",
+    "stem": "theori",
+    "lemma": "theory"
+  },
+  {
+    "original": "libraries",
+    "corrected": "libraries",
+    "stem": "librari",
+    "lemma": "library"
+  },
+  {
+    "original": "frameworks",
+    "corrected": "frameworks",
+    "stem": "framework",
+    "lemma": "framework"
+  },
+  {
+    "original": "use",
+    "corrected": "use",
+    "stem": "use",
+    "lemma": "use"
+  },
+  {
+    "original": "JSX",
+    "corrected": "is",
+    "stem": "is",
+    "lemma": "jsx"
+  },
+  {
+    "original": "MDX",
+    "corrected": "mix",
+    "stem": "mix",
+    "lemma": "mdx"
+  },
+  {
+    "original": "syntax",
+    "corrected": "syntax",
+    "stem": "syntax",
+    "lemma": "syntax"
+  },
+  {
+    "original": "ass",
+    "corrected": "ass",
+    "stem": "ass",
+    "lemma": "ass"
+  },
+  {
+    "original": "Great",
+    "corrected": "great",
+    "stem": "great",
+    "lemma": "great"
+  },
+  {
+    "original": "breakdown",
+    "corrected": "breakdown",
+    "stem": "breakdown",
+    "lemma": "breakdown"
+  },
+  {
+    "original": "captures",
+    "corrected": "captures",
+    "stem": "captur",
+    "lemma": "capture"
+  },
+  {
+    "original": "shift",
+    "corrected": "shift",
+    "stem": "shift",
+    "lemma": "shift"
+  },
+  {
+    "original": "typing",
+    "corrected": "typing",
+    "stem": "type",
+    "lemma": "type"
+  },
+  {
+    "original": "code",
+    "corrected": "code",
+    "stem": "code",
+    "lemma": "code"
+  },
+  {
+    "original": "delegating",
+    "corrected": "delegating",
+    "stem": "deleg",
+    "lemma": "delegate"
+  },
+  {
+    "original": "outcomes",
+    "corrected": "outcomes",
+    "stem": "outcom",
+    "lemma": "outcome"
+  },
+  {
+    "original": "Copilot",
+    "corrected": "copilot",
+    "stem": "copilot",
+    "lemma": "copilot"
+  },
+  {
+    "original": "accelerates",
+    "corrected": "accelerates",
+    "stem": "acceler",
+    "lemma": "accelerate"
+  },
+  {
+    "original": "execution",
+    "corrected": "execution",
+    "stem": "execut",
+    "lemma": "execution"
+  },
+  {
+    "original": "Antigravity",
+    "corrected": "antigravity",
+    "stem": "antigrav",
+    "lemma": "antigravity"
+  },
+  {
+    "original": "changes",
+    "corrected": "changes",
+    "stem": "chang",
+    "lemma": "change"
+  },
+  {
+    "original": "abstraction",
+    "corrected": "abstraction",
+    "stem": "abstract",
+    "lemma": "abstraction"
+  },
+  {
+    "original": "level",
+    "corrected": "level",
+    "stem": "level",
+    "lemma": "level"
+  },
+  {
+    "original": "entirely",
+    "corrected": "entirely",
+    "stem": "entir",
+    "lemma": "entirely"
+  },
+  {
+    "original": "right",
+    "corrected": "right",
+    "stem": "right",
+    "lemma": "right"
+  },
+  {
+    "original": "summed",
+    "corrected": "summed",
+    "stem": "sum",
+    "lemma": "sum"
+  },
+  {
+    "original": "exactly",
+    "corrected": "exactly",
+    "stem": "exactli",
+    "lemma": "exactly"
+  },
+  {
+    "original": "thrilled",
+    "corrected": "thrilled",
+    "stem": "thrill",
+    "lemma": "thrilled"
+  },
+  {
+    "original": "upgrading",
+    "corrected": "upgrading",
+    "stem": "upgrad",
+    "lemma": "upgrade"
+  },
+  {
+    "original": "Serverless",
+    "corrected": "serveries",
+    "stem": "serveri",
+    "lemma": "serverless"
+  },
+  {
+    "original": "Framework",
+    "corrected": "framework",
+    "stem": "framework",
+    "lemma": "framework"
+  },
+  {
+    "original": "aware",
+    "corrected": "aware",
+    "stem": "awar",
+    "lemma": "aware"
+  },
+  {
+    "original": "alternative",
+    "corrected": "alternative",
+    "stem": "altern",
+    "lemma": "alternative"
+  },
+  {
+    "original": "cool",
+    "corrected": "cool",
+    "stem": "cool",
+    "lemma": "cool"
+  },
+  {
+    "original": "Good",
+    "corrected": "good",
+    "stem": "good",
+    "lemma": "good"
+  },
+  {
+    "original": "luck",
+    "corrected": "luck",
+    "stem": "luck",
+    "lemma": "luck"
+  },
+  {
+    "original": "participants",
+    "corrected": "participants",
+    "stem": "particip",
+    "lemma": "participant"
+  },
+  {
+    "original": "looks",
+    "corrected": "looks",
+    "stem": "look",
+    "lemma": "look"
+  },
+  {
+    "original": "great",
+    "corrected": "great",
+    "stem": "great",
+    "lemma": "great"
+  },
+  {
+    "original": "good",
+    "corrected": "good",
+    "stem": "good",
+    "lemma": "good"
+  },
+  {
+    "original": "luck",
+    "corrected": "luck",
+    "stem": "luck",
+    "lemma": "luck"
+  },
+  {
+    "original": "copilot",
+    "corrected": "copilot",
+    "stem": "copilot",
+    "lemma": "copilot"
+  },
+  {
+    "original": "bunch",
+    "corrected": "bunch",
+    "stem": "bunch",
+    "lemma": "bunch"
+  },
+  {
+    "original": "ways",
+    "corrected": "ways",
+    "stem": "way",
+    "lemma": "way"
+  },
+  {
+    "original": "actually",
+    "corrected": "actually",
+    "stem": "actual",
+    "lemma": "actually"
+  },
+  {
+    "original": "use",
+    "corrected": "use",
+    "stem": "use",
+    "lemma": "use"
+  },
+  {
+    "original": "CLI",
+    "corrected": "clip",
+    "stem": "clip",
+    "lemma": "cli"
+  },
+  {
+    "original": "looks",
+    "corrected": "looks",
+    "stem": "look",
+    "lemma": "look"
+  },
+  {
+    "original": "like",
+    "corrected": "like",
+    "stem": "like",
+    "lemma": "like"
+  },
+  {
+    "original": "fun",
+    "corrected": "fun",
+    "stem": "fun",
+    "lemma": "fun"
+  },
+  {
+    "original": "challenge",
+    "corrected": "challenge",
+    "stem": "challeng",
+    "lemma": "challenge"
+  },
+  {
+    "original": "solid",
+    "corrected": "solid",
+    "stem": "solid",
+    "lemma": "solid"
+  },
+  {
+    "original": "incentives",
+    "corrected": "incentives",
+    "stem": "incent",
+    "lemma": "incentive"
+  },
+  {
+    "original": "Bringing",
+    "corrected": "bringing",
+    "stem": "bring",
+    "lemma": "bring"
+  },
+  {
+    "original": "Copilot",
+    "corrected": "copilot",
+    "stem": "copilot",
+    "lemma": "copilot"
+  },
+  {
+    "original": "directly",
+    "corrected": "directly",
+    "stem": "directli",
+    "lemma": "directly"
+  },
+  {
+    "original": "CLI",
+    "corrected": "clip",
+    "stem": "clip",
+    "lemma": "cli"
+  },
+  {
+    "original": "feels",
+    "corrected": "feels",
+    "stem": "feel",
+    "lemma": "feel"
+  },
+  {
+    "original": "like",
+    "corrected": "like",
+    "stem": "like",
+    "lemma": "like"
+  },
+  {
+    "original": "natural",
+    "corrected": "natural",
+    "stem": "natur",
+    "lemma": "natural"
+  },
+  {
+    "original": "step",
+    "corrected": "step",
+    "stem": "step",
+    "lemma": "step"
+  },
+  {
+    "original": "open",
+    "corrected": "open",
+    "stem": "open",
+    "lemma": "open"
+  },
+  {
+    "original": "ended",
+    "corrected": "ended",
+    "stem": "end",
+    "lemma": "end"
+  },
+  {
+    "original": "prompt",
+    "corrected": "prompt",
+    "stem": "prompt",
+    "lemma": "prompt"
+  },
+  {
+    "original": "makes",
+    "corrected": "makes",
+    "stem": "make",
+    "lemma": "make"
+  },
+  {
+    "original": "easy",
+    "corrected": "easy",
+    "stem": "easi",
+    "lemma": "easy"
+  },
+  {
+    "original": "experiment",
+    "corrected": "experiment",
+    "stem": "experi",
+    "lemma": "experiment"
+  },
+  {
+    "original": "real",
+    "corrected": "real",
+    "stem": "real",
+    "lemma": "real"
+  },
+  {
+    "original": "workflows",
+    "corrected": "workflows",
+    "stem": "workflow",
+    "lemma": "workflow"
+  },
+  {
+    "original": "instead",
+    "corrected": "instead",
+    "stem": "instead",
+    "lemma": "instead"
+  },
+  {
+    "original": "forced",
+    "corrected": "forced",
+    "stem": "forc",
+    "lemma": "force"
+  },
+  {
+    "original": "demos",
+    "corrected": "demos",
+    "stem": "demo",
+    "lemma": "demos"
+  },
+  {
+    "original": "Definitely",
+    "corrected": "definitely",
+    "stem": "definit",
+    "lemma": "definitely"
+  },
+  {
+    "original": "tempting",
+    "corrected": "tempting",
+    "stem": "tempt",
+    "lemma": "tempting"
+  },
+  {
+    "original": "build",
+    "corrected": "build",
+    "stem": "build",
+    "lemma": "build"
+  },
+  {
+    "original": "small",
+    "corrected": "small",
+    "stem": "small",
+    "lemma": "small"
+  },
+  {
+    "original": "genuinely",
+    "corrected": "genuinely",
+    "stem": "genuin",
+    "lemma": "genuinely"
+  },
+  {
+    "original": "useful",
+    "corrected": "useful",
+    "stem": "use",
+    "lemma": "useful"
+  },
+  {
+    "original": "Sounds",
+    "corrected": "sounds",
+    "stem": "sound",
+    "lemma": "sound"
+  },
+  {
+    "original": "like",
+    "corrected": "like",
+    "stem": "like",
+    "lemma": "like"
+  },
+  {
+    "original": "try",
+    "corrected": "try",
+    "stem": "tri",
+    "lemma": "try"
+  },
+  {
+    "original": "Good",
+    "corrected": "good",
+    "stem": "good",
+    "lemma": "good"
+  },
+  {
+    "original": "luck",
+    "corrected": "luck",
+    "stem": "luck",
+    "lemma": "luck"
+  },
+  {
+    "original": "LetsServe",
+    "corrected": "letsserve",
+    "stem": "letsserv",
+    "lemma": "letsserve"
+  },
+  {
+    "original": "challenge",
+    "corrected": "challenge",
+    "stem": "challeng",
+    "lemma": "challenge"
+  },
+  {
+    "original": "Copilot",
+    "corrected": "copilot",
+    "stem": "copilot",
+    "lemma": "copilot"
+  },
+  {
+    "original": "terminal",
+    "corrected": "terminal",
+    "stem": "termin",
+    "lemma": "terminal"
+  },
+  {
+    "original": "total",
+    "corrected": "total",
+    "stem": "total",
+    "lemma": "total"
+  },
+  {
+    "original": "game",
+    "corrected": "game",
+    "stem": "game",
+    "lemma": "game"
+  },
+  {
+    "original": "changer",
+    "corrected": "changer",
+    "stem": "changer",
+    "lemma": "changer"
+  },
+  {
+    "original": "wait",
+    "corrected": "wait",
+    "stem": "wait",
+    "lemma": "wait"
+  },
+  {
+    "original": "creative",
+    "corrected": "creative",
+    "stem": "creativ",
+    "lemma": "creative"
+  },
+  {
+    "original": "CLI",
+    "corrected": "clip",
+    "stem": "clip",
+    "lemma": "cli"
+  },
+  {
+    "original": "tools",
+    "corrected": "tools",
+    "stem": "tool",
+    "lemma": "tool"
+  },
+  {
+    "original": "people",
+    "corrected": "people",
+    "stem": "peopl",
+    "lemma": "people"
+  },
+  {
+    "original": "build",
+    "corrected": "build",
+    "stem": "build",
+    "lemma": "build"
+  },
+  {
+    "original": "Good",
+    "corrected": "good",
+    "stem": "good",
+    "lemma": "good"
+  },
+  {
+    "original": "luck",
+    "corrected": "luck",
+    "stem": "luck",
+    "lemma": "luck"
+  },
+  {
+    "original": "happy",
+    "corrected": "happy",
+    "stem": "happi",
+    "lemma": "happy"
+  },
+  {
+    "original": "hacking",
+    "corrected": "hacking",
+    "stem": "hack",
+    "lemma": "hacking"
+  },
+  {
+    "original": "interesting",
+    "corrected": "interesting",
+    "stem": "interest",
+    "lemma": "interesting"
+  },
+  {
+    "original": "Let",
+    "corrected": "let",
+    "stem": "let",
+    "lemma": "let"
+  },
+  {
+    "original": "try",
+    "corrected": "try",
+    "stem": "tri",
+    "lemma": "try"
+  },
+  {
+    "original": "great",
+    "corrected": "great",
+    "stem": "great",
+    "lemma": "great"
+  },
+  {
+    "original": "want",
+    "corrected": "want",
+    "stem": "want",
+    "lemma": "want"
+  },
+  {
+    "original": "test",
+    "corrected": "test",
+    "stem": "test",
+    "lemma": "test"
+  }
+]

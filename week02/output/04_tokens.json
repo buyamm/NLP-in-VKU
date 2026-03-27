@@ -1,0 +1,3570 @@
+[
+  {
+    "sentence": "This is such a clean way to explain a mistake almost everyone makes at some point.",
+    "tokens": [
+      "This",
+      "is",
+      "such",
+      "a",
+      "clean",
+      "way",
+      "to",
+      "explain",
+      "a",
+      "mistake",
+      "almost",
+      "everyone",
+      "makes",
+      "at",
+      "some",
+      "point"
+    ]
+  },
+  {
+    "sentence": "The “Dave stole Charlie’s ID” moment is exactly how these bugs feel in real code — confusing and slightly terrifying 😄",
+    "tokens": [
+      "The",
+      "Dave",
+      "stole",
+      "Charlie",
+      "ID",
+      "moment",
+      "is",
+      "exactly",
+      "how",
+      "these",
+      "bugs",
+      "feel",
+      "in",
+      "real",
+      "code",
+      "confusing",
+      "and",
+      "slightly",
+      "terrifying"
+    ]
+  },
+  {
+    "sentence": "I remember when I began learning the Linux OS back in 2012.",
+    "tokens": [
+      "I",
+      "remember",
+      "when",
+      "I",
+      "began",
+      "learning",
+      "the",
+      "Linux",
+      "OS",
+      "back",
+      "in"
+    ]
+  },
+  {
+    "sentence": "I'd get stuck and go on Stack Overflow for answers.",
+    "tokens": [
+      "I",
+      "get",
+      "stuck",
+      "and",
+      "go",
+      "on",
+      "Stack",
+      "Overflow",
+      "for",
+      "answers"
+    ]
+  },
+  {
+    "sentence": "Sometimes I'd get the answer, sometimes I'd get 10 answers and sometimes I'd get attacked for how I phrased my question.",
+    "tokens": [
+      "Sometimes",
+      "I",
+      "get",
+      "the",
+      "answer",
+      "sometimes",
+      "I",
+      "get",
+      "answers",
+      "and",
+      "sometimes",
+      "I",
+      "get",
+      "attacked",
+      "for",
+      "how",
+      "I",
+      "phrased",
+      "my",
+      "question"
+    ]
+  },
+  {
+    "sentence": "I like things better now - how all of the AI models (even Perplexity) know most everything there is to know about Linux - and I know where they learned it from.",
+    "tokens": [
+      "I",
+      "like",
+      "things",
+      "better",
+      "now",
+      "how",
+      "all",
+      "of",
+      "the",
+      "AI",
+      "models",
+      "even",
+      "Perplexity",
+      "know",
+      "most",
+      "everything",
+      "there",
+      "is",
+      "to",
+      "know",
+      "about",
+      "Linux",
+      "and",
+      "I",
+      "know",
+      "where",
+      "they",
+      "learned",
+      "it",
+      "from"
+    ]
+  },
+  {
+    "sentence": "the stackoverflow gatekeeping was painful fr.",
+    "tokens": [
+      "the",
+      "stackoverflow",
+      "gatekeeping",
+      "was",
+      "painful",
+      "fr"
+    ]
+  },
+  {
+    "sentence": "The \"where they learned it from\" sources are running dry.",
+    "tokens": [
+      "The",
+      "where",
+      "they",
+      "learned",
+      "it",
+      "from",
+      "sources",
+      "are",
+      "running",
+      "dry"
+    ]
+  },
+  {
+    "sentence": "The bad docs, mentioned in another discussion, are still there.",
+    "tokens": [
+      "The",
+      "bad",
+      "docs",
+      "mentioned",
+      "in",
+      "another",
+      "discussion",
+      "are",
+      "still",
+      "there"
+    ]
+  },
+  {
+    "sentence": "There are still forums and social media.",
+    "tokens": [
+      "There",
+      "are",
+      "still",
+      "forums",
+      "and",
+      "social",
+      "media"
+    ]
+  },
+  {
+    "sentence": "We can still discuss and ask questions and we still do.",
+    "tokens": [
+      "We",
+      "can",
+      "still",
+      "discuss",
+      "and",
+      "ask",
+      "questions",
+      "and",
+      "we",
+      "still",
+      "do"
+    ]
+  },
+  {
+    "sentence": "However, if the shift towards private AI conversations continues, new AI generations will have less trustworthy source material to learn from, so their answers will likely deteriorate.",
+    "tokens": [
+      "However",
+      "if",
+      "the",
+      "shift",
+      "towards",
+      "private",
+      "AI",
+      "conversations",
+      "continues",
+      "new",
+      "AI",
+      "generations",
+      "will",
+      "have",
+      "less",
+      "trustworthy",
+      "source",
+      "material",
+      "to",
+      "learn",
+      "from",
+      "so",
+      "their",
+      "answers",
+      "will",
+      "likely",
+      "deteriorate"
+    ]
+  },
+  {
+    "sentence": "Right - critical thinking, learning by doing, and as you say, we're all talking and exchanging information with each other here on this forum.",
+    "tokens": [
+      "Right",
+      "critical",
+      "thinking",
+      "learning",
+      "by",
+      "doing",
+      "and",
+      "as",
+      "you",
+      "say",
+      "we",
+      "all",
+      "talking",
+      "and",
+      "exchanging",
+      "information",
+      "with",
+      "each",
+      "other",
+      "here",
+      "on",
+      "this",
+      "forum"
+    ]
+  },
+  {
+    "sentence": "We used slide rules in 1971 in my electronics classes and studied electron tubes - calculators were just arriving on the scene.",
+    "tokens": [
+      "We",
+      "used",
+      "slide",
+      "rules",
+      "in",
+      "in",
+      "my",
+      "electronics",
+      "classes",
+      "and",
+      "studied",
+      "electron",
+      "tubes",
+      "calculators",
+      "were",
+      "just",
+      "arriving",
+      "on",
+      "the",
+      "scene"
+    ]
+  },
+  {
+    "sentence": "Now there are smartphones and wireless and I can run AI on my laptop - I've learned to roll with the tech.",
+    "tokens": [
+      "Now",
+      "there",
+      "are",
+      "smartphones",
+      "and",
+      "wireless",
+      "and",
+      "I",
+      "can",
+      "run",
+      "AI",
+      "on",
+      "my",
+      "laptop",
+      "I",
+      "learned",
+      "to",
+      "roll",
+      "with",
+      "the",
+      "tech"
+    ]
+  },
+  {
+    "sentence": "\"knowledge running dry\" is exactly it.",
+    "tokens": [
+      "knowledge",
+      "running",
+      "dry",
+      "is",
+      "exactly",
+      "it"
+    ]
+  },
+  {
+    "sentence": "I don't think private is the biggest problem, at least the AI companies could use private chats for training, but only with feedback and curation.",
+    "tokens": [
+      "I",
+      "do",
+      "think",
+      "private",
+      "is",
+      "the",
+      "biggest",
+      "problem",
+      "at",
+      "least",
+      "the",
+      "AI",
+      "companies",
+      "could",
+      "use",
+      "private",
+      "chats",
+      "for",
+      "training",
+      "but",
+      "only",
+      "with",
+      "feedback",
+      "and",
+      "curation"
+    ]
+  },
+  {
+    "sentence": "If all AI chats were public, indexed and searchable, they would still contain all the failed steps with incomple code and misleading suggestions: much harder to make sense of than StackOverflow with its strict voting system (and outdated answers, but that's often obvious and commented) or forums where senior members can edit titles and people often share their final solution and mark a topic as solved.",
+    "tokens": [
+      "If",
+      "all",
+      "AI",
+      "chats",
+      "were",
+      "public",
+      "indexed",
+      "and",
+      "searchable",
+      "they",
+      "would",
+      "still",
+      "contain",
+      "all",
+      "the",
+      "failed",
+      "steps",
+      "with",
+      "incomple",
+      "code",
+      "and",
+      "misleading",
+      "suggestions",
+      "much",
+      "harder",
+      "to",
+      "make",
+      "sense",
+      "of",
+      "than",
+      "StackOverflow",
+      "with",
+      "its",
+      "strict",
+      "voting",
+      "system",
+      "and",
+      "outdated",
+      "answers",
+      "but",
+      "that",
+      "often",
+      "obvious",
+      "and",
+      "commented",
+      "or",
+      "forums",
+      "where",
+      "senior",
+      "members",
+      "can",
+      "edit",
+      "titles",
+      "and",
+      "people",
+      "often",
+      "share",
+      "their",
+      "final",
+      "solution",
+      "and",
+      "mark",
+      "a",
+      "topic",
+      "as",
+      "solved"
+    ]
+  },
+  {
+    "sentence": "Most AI chats are too conversational to become part of a new knowledge library.",
+    "tokens": [
+      "Most",
+      "AI",
+      "chats",
+      "are",
+      "too",
+      "conversational",
+      "to",
+      "become",
+      "part",
+      "of",
+      "a",
+      "new",
+      "knowledge",
+      "library"
+    ]
+  },
+  {
+    "sentence": "fair point.",
+    "tokens": [
+      "fair",
+      "point"
+    ]
+  },
+  {
+    "sentence": "ai chat transcripts would be as messy as my git history.",
+    "tokens": [
+      "ai",
+      "chat",
+      "transcripts",
+      "would",
+      "be",
+      "as",
+      "messy",
+      "as",
+      "my",
+      "git",
+      "history"
+    ]
+  },
+  {
+    "sentence": "technically a record but not actually useful 😂",
+    "tokens": [
+      "technically",
+      "a",
+      "record",
+      "but",
+      "not",
+      "actually",
+      "useful"
+    ]
+  },
+  {
+    "sentence": "appreciate that 🙏",
+    "tokens": [
+      "appreciate",
+      "that"
+    ]
+  },
+  {
+    "sentence": "This article explains why human-written texts are often still a lot better than AI-generated text:",
+    "tokens": [
+      "This",
+      "article",
+      "explains",
+      "why",
+      "human",
+      "written",
+      "texts",
+      "are",
+      "often",
+      "still",
+      "a",
+      "lot",
+      "better",
+      "than",
+      "AI",
+      "generated",
+      "text"
+    ]
+  },
+  {
+    "sentence": "yes, ai writes to sound correct.",
+    "tokens": [
+      "yes",
+      "ai",
+      "writes",
+      "to",
+      "sound",
+      "correct"
+    ]
+  },
+  {
+    "sentence": "humans write to figure things out",
+    "tokens": [
+      "humans",
+      "write",
+      "to",
+      "figure",
+      "things",
+      "out"
+    ]
+  },
+  {
+    "sentence": "Plus it has a tendency to be formal, and abstract - which makes it hard to digest, coz it's difficult to relate to the abstractions ... and tends to be repetitive as well - often you can spot AI-written text from a mile away, not because it's wrong or incorrect, but because it's got something \"robotic\" :-)",
+    "tokens": [
+      "Plus",
+      "it",
+      "has",
+      "a",
+      "tendency",
+      "to",
+      "be",
+      "formal",
+      "and",
+      "abstract",
+      "which",
+      "makes",
+      "it",
+      "hard",
+      "to",
+      "digest",
+      "coz",
+      "it",
+      "difficult",
+      "to",
+      "relate",
+      "to",
+      "the",
+      "abstractions",
+      "and",
+      "tends",
+      "to",
+      "be",
+      "repetitive",
+      "as",
+      "well",
+      "often",
+      "you",
+      "can",
+      "spot",
+      "AI",
+      "written",
+      "text",
+      "from",
+      "a",
+      "mile",
+      "away",
+      "not",
+      "because",
+      "it",
+      "wrong",
+      "or",
+      "incorrect",
+      "but",
+      "because",
+      "it",
+      "got",
+      "something",
+      "robotic"
+    ]
+  },
+  {
+    "sentence": "\"robotic\" is exactly it.",
+    "tokens": [
+      "robotic",
+      "is",
+      "exactly",
+      "it"
+    ]
+  },
+  {
+    "sentence": "too perfect, too structured, zero rough edges.\n",
+    "tokens": [
+      "too",
+      "perfect",
+      "too",
+      "structured",
+      "zero",
+      "rough",
+      "edges"
+    ]
+  },
+  {
+    "sentence": "humans think out loud.",
+    "tokens": [
+      "humans",
+      "think",
+      "out",
+      "loud"
+    ]
+  },
+  {
+    "sentence": "ai writes reports.",
+    "tokens": [
+      "ai",
+      "writes",
+      "reports"
+    ]
+  },
+  {
+    "sentence": "Is this a challenge?",
+    "tokens": [
+      "Is",
+      "this",
+      "a",
+      "challenge"
+    ]
+  },
+  {
+    "sentence": ";)",
+    "tokens": []
+  },
+  {
+    "sentence": "No, it's just an observation ... :)",
+    "tokens": [
+      "No",
+      "it",
+      "just",
+      "an",
+      "observation"
+    ]
+  },
+  {
+    "sentence": "Code for thought.",
+    "tokens": [
+      "Code",
+      "for",
+      "thought"
+    ]
+  },
+  {
+    "sentence": "Even though AI is becoming the new norm, it still requires us to know what exactly do we want.",
+    "tokens": [
+      "Even",
+      "though",
+      "AI",
+      "is",
+      "becoming",
+      "the",
+      "new",
+      "norm",
+      "it",
+      "still",
+      "requires",
+      "us",
+      "to",
+      "know",
+      "what",
+      "exactly",
+      "do",
+      "we",
+      "want"
+    ]
+  },
+  {
+    "sentence": "It's like a developer getting to understand what the client wants.",
+    "tokens": [
+      "It",
+      "like",
+      "a",
+      "developer",
+      "getting",
+      "to",
+      "understand",
+      "what",
+      "the",
+      "client",
+      "wants"
+    ]
+  },
+  {
+    "sentence": "Now developers are AI's clients.",
+    "tokens": [
+      "Now",
+      "developers",
+      "are",
+      "AI",
+      "clients"
+    ]
+  },
+  {
+    "sentence": "Excellent article.",
+    "tokens": [
+      "Excellent",
+      "article"
+    ]
+  },
+  {
+    "sentence": "100%.",
+    "tokens": []
+  },
+  {
+    "sentence": "the bottleneck moved from implementation to articulation",
+    "tokens": [
+      "the",
+      "bottleneck",
+      "moved",
+      "from",
+      "implementation",
+      "to",
+      "articulation"
+    ]
+  },
+  {
+    "sentence": "This really hit close to home.",
+    "tokens": [
+      "This",
+      "really",
+      "hit",
+      "close",
+      "to",
+      "home"
+    ]
+  },
+  {
+    "sentence": "this is it.",
+    "tokens": [
+      "this",
+      "is",
+      "it"
+    ]
+  },
+  {
+    "sentence": "\"less community knowledge, more private conversations\"",
+    "tokens": [
+      "less",
+      "community",
+      "knowledge",
+      "more",
+      "private",
+      "conversations"
+    ]
+  },
+  {
+    "sentence": "That’s such a good point about skepticism being “accidentally” trained by bad docs.",
+    "tokens": [
+      "That",
+      "such",
+      "a",
+      "good",
+      "point",
+      "about",
+      "skepticism",
+      "being",
+      "accidentally",
+      "trained",
+      "by",
+      "bad",
+      "docs"
+    ]
+  },
+  {
+    "sentence": "\"interrogate answers\" is the perfect framing.",
+    "tokens": [
+      "interrogate",
+      "answers",
+      "is",
+      "the",
+      "perfect",
+      "framing"
+    ]
+  },
+  {
+    "sentence": "Still using documention and tutorials myself.",
+    "tokens": [
+      "Still",
+      "using",
+      "documention",
+      "and",
+      "tutorials",
+      "myself"
+    ]
+  },
+  {
+    "sentence": "Starting out, I do believe fundamentals remain important for a firm foundation that can be built on.",
+    "tokens": [
+      "Starting",
+      "out",
+      "I",
+      "do",
+      "believe",
+      "fundamentals",
+      "remain",
+      "important",
+      "for",
+      "a",
+      "firm",
+      "foundation",
+      "that",
+      "can",
+      "be",
+      "built",
+      "on"
+    ]
+  },
+  {
+    "sentence": "100%.",
+    "tokens": []
+  },
+  {
+    "sentence": "fundamentals are even more important now imo.",
+    "tokens": [
+      "fundamentals",
+      "are",
+      "even",
+      "more",
+      "important",
+      "now",
+      "imo"
+    ]
+  },
+  {
+    "sentence": "you need to know what good code looks like to catch when AI generates garbage.",
+    "tokens": [
+      "you",
+      "need",
+      "to",
+      "know",
+      "what",
+      "good",
+      "code",
+      "looks",
+      "like",
+      "to",
+      "catch",
+      "when",
+      "AI",
+      "generates",
+      "garbage"
+    ]
+  },
+  {
+    "sentence": "Currently working through the Responsive Web Design certification at freeCodeCamp but my first love is Python!",
+    "tokens": [
+      "Currently",
+      "working",
+      "through",
+      "the",
+      "Responsive",
+      "Web",
+      "Design",
+      "certification",
+      "at",
+      "freeCodeCamp",
+      "but",
+      "my",
+      "first",
+      "love",
+      "is",
+      "Python"
+    ]
+  },
+  {
+    "sentence": "I aim to complete the freeCodeCamp Full Stack curriculum, though I’m more backend-leaning.",
+    "tokens": [
+      "I",
+      "aim",
+      "to",
+      "complete",
+      "the",
+      "freeCodeCamp",
+      "Full",
+      "Stack",
+      "curriculum",
+      "though",
+      "I",
+      "more",
+      "backend",
+      "leaning"
+    ]
+  },
+  {
+    "sentence": "Python's my favourite, so I'll focus there while still keeping up with the frontend basics.",
+    "tokens": [
+      "Python",
+      "my",
+      "favourite",
+      "so",
+      "I",
+      "focus",
+      "there",
+      "while",
+      "still",
+      "keeping",
+      "up",
+      "with",
+      "the",
+      "frontend",
+      "basics"
+    ]
+  },
+  {
+    "sentence": "makes sense.",
+    "tokens": [
+      "makes",
+      "sense"
+    ]
+  },
+  {
+    "sentence": "knowing enough frontend to not be completely lost is clutch even as a backend dev",
+    "tokens": [
+      "knowing",
+      "enough",
+      "frontend",
+      "to",
+      "not",
+      "be",
+      "completely",
+      "lost",
+      "is",
+      "clutch",
+      "even",
+      "as",
+      "a",
+      "backend",
+      "dev"
+    ]
+  },
+  {
+    "sentence": "No, I haven't as of yet.",
+    "tokens": [
+      "No",
+      "I",
+      "have",
+      "as",
+      "of",
+      "yet"
+    ]
+  },
+  {
+    "sentence": "Appreciate the heads-up though!",
+    "tokens": [
+      "Appreciate",
+      "the",
+      "heads",
+      "up",
+      "though"
+    ]
+  },
+  {
+    "sentence": "for sure!",
+    "tokens": [
+      "for",
+      "sure"
+    ]
+  },
+  {
+    "sentence": "you'll prob run into it eventually, it's everywhere now",
+    "tokens": [
+      "you",
+      "prob",
+      "run",
+      "into",
+      "it",
+      "eventually",
+      "it",
+      "everywhere",
+      "now"
+    ]
+  },
+  {
+    "sentence": "My best comment on this would be a quote from a 1964 Bob Dylan's song, titled \"The Times They Are A-Changin'\":",
+    "tokens": [
+      "My",
+      "best",
+      "comment",
+      "on",
+      "this",
+      "would",
+      "be",
+      "a",
+      "quote",
+      "from",
+      "a",
+      "Bob",
+      "Dylan",
+      "song",
+      "titled",
+      "The",
+      "Times",
+      "They",
+      "Are",
+      "A",
+      "Changin"
+    ]
+  },
+  {
+    "sentence": "great quote.",
+    "tokens": [
+      "great",
+      "quote"
+    ]
+  },
+  {
+    "sentence": "we're swimming for sure.",
+    "tokens": [
+      "we",
+      "swimming",
+      "for",
+      "sure"
+    ]
+  },
+  {
+    "sentence": "I generally share the same point of view.",
+    "tokens": [
+      "I",
+      "generally",
+      "share",
+      "the",
+      "same",
+      "point",
+      "of",
+      "view"
+    ]
+  },
+  {
+    "sentence": "AI is really convenient and can produce a clean, quick, usable answer right away.",
+    "tokens": [
+      "AI",
+      "is",
+      "really",
+      "convenient",
+      "and",
+      "can",
+      "produce",
+      "a",
+      "clean",
+      "quick",
+      "usable",
+      "answer",
+      "right",
+      "away"
+    ]
+  },
+  {
+    "sentence": "I still often search with Google, but the results can be overwhelming, ambiguous, or buried in long threads of failed attempts — which isn’t useless either.",
+    "tokens": [
+      "I",
+      "still",
+      "often",
+      "search",
+      "with",
+      "Google",
+      "but",
+      "the",
+      "results",
+      "can",
+      "be",
+      "overwhelming",
+      "ambiguous",
+      "or",
+      "buried",
+      "in",
+      "long",
+      "threads",
+      "of",
+      "failed",
+      "attempts",
+      "which",
+      "is",
+      "useless",
+      "either"
+    ]
+  },
+  {
+    "sentence": "That said, we shouldn’t forget that AI models are trained on years of documentation, questions, and exploratory content… and future generations might not benefit from such rich source material.",
+    "tokens": [
+      "That",
+      "said",
+      "we",
+      "should",
+      "forget",
+      "that",
+      "AI",
+      "models",
+      "are",
+      "trained",
+      "on",
+      "years",
+      "of",
+      "documentation",
+      "questions",
+      "and",
+      "exploratory",
+      "content",
+      "and",
+      "future",
+      "generations",
+      "might",
+      "not",
+      "benefit",
+      "from",
+      "such",
+      "rich",
+      "source",
+      "material"
+    ]
+  },
+  {
+    "sentence": "From my perspective, a good minimum would be using the solid answers we get from AI to build clean, useful wikis that are helpful both to us and to future AI systems.",
+    "tokens": [
+      "From",
+      "my",
+      "perspective",
+      "a",
+      "good",
+      "minimum",
+      "would",
+      "be",
+      "using",
+      "the",
+      "solid",
+      "answers",
+      "we",
+      "get",
+      "from",
+      "AI",
+      "to",
+      "build",
+      "clean",
+      "useful",
+      "wikis",
+      "that",
+      "are",
+      "helpful",
+      "both",
+      "to",
+      "us",
+      "and",
+      "to",
+      "future",
+      "AI",
+      "systems"
+    ]
+  },
+  {
+    "sentence": "But the race for profit has become the norm, and it’s hard to break away from that.",
+    "tokens": [
+      "But",
+      "the",
+      "race",
+      "for",
+      "profit",
+      "has",
+      "become",
+      "the",
+      "norm",
+      "and",
+      "it",
+      "hard",
+      "to",
+      "break",
+      "away",
+      "from",
+      "that"
+    ]
+  },
+  {
+    "sentence": "exactly.",
+    "tokens": [
+      "exactly"
+    ]
+  },
+  {
+    "sentence": "\"future generations might not benefit from such rich source material\" .",
+    "tokens": [
+      "future",
+      "generations",
+      "might",
+      "not",
+      "benefit",
+      "from",
+      "such",
+      "rich",
+      "source",
+      "material"
+    ]
+  },
+  {
+    "sentence": "this is the knowledge collapse problem",
+    "tokens": [
+      "this",
+      "is",
+      "the",
+      "knowledge",
+      "collapse",
+      "problem"
+    ]
+  },
+  {
+    "sentence": "I started learning Linux in 2012.",
+    "tokens": [
+      "I",
+      "started",
+      "learning",
+      "Linux",
+      "in"
+    ]
+  },
+  {
+    "sentence": "When I got stuck, I'd go to Stack Overflow.",
+    "tokens": [
+      "When",
+      "I",
+      "got",
+      "stuck",
+      "I",
+      "go",
+      "to",
+      "Stack",
+      "Overflow"
+    ]
+  },
+  {
+    "sentence": "Sometimes I'd find an answer.",
+    "tokens": [
+      "Sometimes",
+      "I",
+      "find",
+      "an",
+      "answer"
+    ]
+  },
+  {
+    "sentence": "Sometimes I'd find ten.",
+    "tokens": [
+      "Sometimes",
+      "I",
+      "find",
+      "ten"
+    ]
+  },
+  {
+    "sentence": "Sometimes I'd just get attacked for how I asked the question.\n",
+    "tokens": [
+      "Sometimes",
+      "I",
+      "just",
+      "get",
+      "attacked",
+      "for",
+      "how",
+      "I",
+      "asked",
+      "the",
+      "question"
+    ]
+  },
+  {
+    "sentence": "Now I ask Claude or Perplexity and get a clear, patient explanation—no judgment, no \"this has been asked before,\" no downvotes.\n",
+    "tokens": [
+      "Now",
+      "I",
+      "ask",
+      "Claude",
+      "or",
+      "Perplexity",
+      "and",
+      "get",
+      "a",
+      "clear",
+      "patient",
+      "explanation",
+      "no",
+      "judgment",
+      "no",
+      "this",
+      "has",
+      "been",
+      "asked",
+      "before",
+      "no",
+      "downvotes"
+    ]
+  },
+  {
+    "sentence": "And here's the thing: I know exactly where these models learned it all.",
+    "tokens": [
+      "And",
+      "here",
+      "the",
+      "thing",
+      "I",
+      "know",
+      "exactly",
+      "where",
+      "these",
+      "models",
+      "learned",
+      "it",
+      "all"
+    ]
+  },
+  {
+    "sentence": "From Stack Overflow.",
+    "tokens": [
+      "From",
+      "Stack",
+      "Overflow"
+    ]
+  },
+  {
+    "sentence": "From the Arch Wiki.",
+    "tokens": [
+      "From",
+      "the",
+      "Arch",
+      "Wiki"
+    ]
+  },
+  {
+    "sentence": "From all those forum threads where someone got roasted for not reading the manual first.\n",
+    "tokens": [
+      "From",
+      "all",
+      "those",
+      "forum",
+      "threads",
+      "where",
+      "someone",
+      "got",
+      "roasted",
+      "for",
+      "not",
+      "reading",
+      "the",
+      "manual",
+      "first"
+    ]
+  },
+  {
+    "sentence": "The communities that gatekept knowledge ended up training the tools that now give it away freely.\n",
+    "tokens": [
+      "The",
+      "communities",
+      "that",
+      "gatekept",
+      "knowledge",
+      "ended",
+      "up",
+      "training",
+      "the",
+      "tools",
+      "that",
+      "now",
+      "give",
+      "it",
+      "away",
+      "freely"
+    ]
+  },
+  {
+    "sentence": "We haven't really sat with that yet.",
+    "tokens": [
+      "We",
+      "have",
+      "really",
+      "sat",
+      "with",
+      "that",
+      "yet"
+    ]
+  },
+  {
+    "sentence": "\"hostile experts created the dataset for patient machines\"",
+    "tokens": [
+      "hostile",
+      "experts",
+      "created",
+      "the",
+      "dataset",
+      "for",
+      "patient",
+      "machines"
+    ]
+  },
+  {
+    "sentence": "Fair point...",
+    "tokens": [
+      "Fair",
+      "point"
+    ]
+  },
+  {
+    "sentence": "we learnt and were happy being grilled on stack overflow, the criticism was brutal... still stack overflow was the best spot for help earlier",
+    "tokens": [
+      "we",
+      "learnt",
+      "and",
+      "were",
+      "happy",
+      "being",
+      "grilled",
+      "on",
+      "stack",
+      "overflow",
+      "the",
+      "criticism",
+      "was",
+      "brutal",
+      "still",
+      "stack",
+      "overflow",
+      "was",
+      "the",
+      "best",
+      "spot",
+      "for",
+      "help",
+      "earlier"
+    ]
+  },
+  {
+    "sentence": "Personally, I found Stack Overflow a significant distraction, frequently wrong, misguided, and with conflicting advice on the things I needed most.",
+    "tokens": [
+      "Personally",
+      "I",
+      "found",
+      "Stack",
+      "Overflow",
+      "a",
+      "significant",
+      "distraction",
+      "frequently",
+      "wrong",
+      "misguided",
+      "and",
+      "with",
+      "conflicting",
+      "advice",
+      "on",
+      "the",
+      "things",
+      "I",
+      "needed",
+      "most"
+    ]
+  },
+  {
+    "sentence": "A vital part of my work, but a frustration.",
+    "tokens": [
+      "A",
+      "vital",
+      "part",
+      "of",
+      "my",
+      "work",
+      "but",
+      "a",
+      "frustration"
+    ]
+  },
+  {
+    "sentence": "AI removes that for me; my understanding is much improved, though I get fed up with the writing style, which jars with me.",
+    "tokens": [
+      "AI",
+      "removes",
+      "that",
+      "for",
+      "me",
+      "my",
+      "understanding",
+      "is",
+      "much",
+      "improved",
+      "though",
+      "I",
+      "get",
+      "fed",
+      "up",
+      "with",
+      "the",
+      "writing",
+      "style",
+      "which",
+      "jars",
+      "with",
+      "me"
+    ]
+  },
+  {
+    "sentence": "the horse/ford analogy is provocative and honestly might be right.",
+    "tokens": [
+      "the",
+      "horse",
+      "ford",
+      "analogy",
+      "is",
+      "provocative",
+      "and",
+      "honestly",
+      "might",
+      "be",
+      "right"
+    ]
+  },
+  {
+    "sentence": "This hits home…\nBest article and also very relatable points of view.",
+    "tokens": [
+      "This",
+      "hits",
+      "home",
+      "Best",
+      "article",
+      "and",
+      "also",
+      "very",
+      "relatable",
+      "points",
+      "of",
+      "view"
+    ]
+  },
+  {
+    "sentence": "It’s a new and sad reality that we live in.",
+    "tokens": [
+      "It",
+      "a",
+      "new",
+      "and",
+      "sad",
+      "reality",
+      "that",
+      "we",
+      "live",
+      "in"
+    ]
+  },
+  {
+    "sentence": "\"efficient isolation\" is perfect",
+    "tokens": [
+      "efficient",
+      "isolation",
+      "is",
+      "perfect"
+    ]
+  },
+  {
+    "sentence": "I was a pleasure",
+    "tokens": [
+      "I",
+      "was",
+      "a",
+      "pleasure"
+    ]
+  },
+  {
+    "sentence": "Marketing and making money is easier when every user converts to a registered customer.",
+    "tokens": [
+      "Marketing",
+      "and",
+      "making",
+      "money",
+      "is",
+      "easier",
+      "when",
+      "every",
+      "user",
+      "converts",
+      "to",
+      "a",
+      "registered",
+      "customer"
+    ]
+  },
+  {
+    "sentence": "That’s true — registration definitely makes monetization and marketing simpler.",
+    "tokens": [
+      "That",
+      "true",
+      "registration",
+      "definitely",
+      "makes",
+      "monetization",
+      "and",
+      "marketing",
+      "simpler"
+    ]
+  },
+  {
+    "sentence": "I’m experimenting with building tools that work entirely in the browser with zero accounts.\n",
+    "tokens": [
+      "I",
+      "experimenting",
+      "with",
+      "building",
+      "tools",
+      "that",
+      "work",
+      "entirely",
+      "in",
+      "the",
+      "browser",
+      "with",
+      "zero",
+      "accounts"
+    ]
+  },
+  {
+    "sentence": "The hardest part isn’t the tech — it’s deciding what not to add.",
+    "tokens": [
+      "The",
+      "hardest",
+      "part",
+      "is",
+      "the",
+      "tech",
+      "it",
+      "deciding",
+      "what",
+      "not",
+      "to",
+      "add"
+    ]
+  },
+  {
+    "sentence": "I worked on one side project of mine.",
+    "tokens": [
+      "I",
+      "worked",
+      "on",
+      "one",
+      "side",
+      "project",
+      "of",
+      "mine"
+    ]
+  },
+  {
+    "sentence": "Improved its UI and added some features that I need.\n",
+    "tokens": [
+      "Improved",
+      "its",
+      "UI",
+      "and",
+      "added",
+      "some",
+      "features",
+      "that",
+      "I",
+      "need"
+    ]
+  },
+  {
+    "sentence": "In turn it helped me improve my starter template that I built to get quickly up and running on new projects.",
+    "tokens": [
+      "In",
+      "turn",
+      "it",
+      "helped",
+      "me",
+      "improve",
+      "my",
+      "starter",
+      "template",
+      "that",
+      "I",
+      "built",
+      "to",
+      "get",
+      "quickly",
+      "up",
+      "and",
+      "running",
+      "on",
+      "new",
+      "projects"
+    ]
+  },
+  {
+    "sentence": "Sound great, Paras!",
+    "tokens": [
+      "Sound",
+      "great",
+      "Paras"
+    ]
+  },
+  {
+    "sentence": "If the side project hosted anywhere at the moment?",
+    "tokens": [
+      "If",
+      "the",
+      "side",
+      "project",
+      "hosted",
+      "anywhere",
+      "at",
+      "the",
+      "moment"
+    ]
+  },
+  {
+    "sentence": "Yes, it is hosted on netlify for now.\n",
+    "tokens": [
+      "Yes",
+      "it",
+      "is",
+      "hosted",
+      "on",
+      "netlify",
+      "for",
+      "now"
+    ]
+  },
+  {
+    "sentence": "It is currently very much catered towards my requirements :p\nbut would love to share here as well.\nsteadyox.netlify.app/",
+    "tokens": [
+      "It",
+      "is",
+      "currently",
+      "very",
+      "much",
+      "catered",
+      "towards",
+      "my",
+      "requirements",
+      "but",
+      "would",
+      "love",
+      "to",
+      "share",
+      "here",
+      "as",
+      "well"
+    ]
+  },
+  {
+    "sentence": "Ah, that is great!",
+    "tokens": [
+      "Ah",
+      "that",
+      "is",
+      "great"
+    ]
+  },
+  {
+    "sentence": "I have become more and more privacy-focused over the years myself.",
+    "tokens": [
+      "I",
+      "have",
+      "become",
+      "more",
+      "and",
+      "more",
+      "privacy",
+      "focused",
+      "over",
+      "the",
+      "years",
+      "myself"
+    ]
+  },
+  {
+    "sentence": "In fact, the majority of the applications and services I now used are focused that way.",
+    "tokens": [
+      "In",
+      "fact",
+      "the",
+      "majority",
+      "of",
+      "the",
+      "applications",
+      "and",
+      "services",
+      "I",
+      "now",
+      "used",
+      "are",
+      "focused",
+      "that",
+      "way"
+    ]
+  },
+  {
+    "sentence": "Coool.",
+    "tokens": [
+      "Coool"
+    ]
+  },
+  {
+    "sentence": "Good to hear that.",
+    "tokens": [
+      "Good",
+      "to",
+      "hear",
+      "that"
+    ]
+  },
+  {
+    "sentence": "Indeed!",
+    "tokens": [
+      "Indeed"
+    ]
+  },
+  {
+    "sentence": "Nice work so far!",
+    "tokens": [
+      "Nice",
+      "work",
+      "so",
+      "far"
+    ]
+  },
+  {
+    "sentence": "Also, I checked your dev.to profile, really liked that you built so many things.",
+    "tokens": [
+      "Also",
+      "I",
+      "checked",
+      "your",
+      "profile",
+      "really",
+      "liked",
+      "that",
+      "you",
+      "built",
+      "so",
+      "many",
+      "things"
+    ]
+  },
+  {
+    "sentence": "That's awesome!\n",
+    "tokens": [
+      "That",
+      "awesome"
+    ]
+  },
+  {
+    "sentence": "It’s great to see how you are learning and sharing the journey openly.",
+    "tokens": [
+      "It",
+      "great",
+      "to",
+      "see",
+      "how",
+      "you",
+      "are",
+      "learning",
+      "and",
+      "sharing",
+      "the",
+      "journey",
+      "openly"
+    ]
+  },
+  {
+    "sentence": "🔥🔥🔥",
+    "tokens": []
+  },
+  {
+    "sentence": "Thank you, Paras - means alot!",
+    "tokens": [
+      "Thank",
+      "you",
+      "Paras",
+      "means",
+      "alot"
+    ]
+  },
+  {
+    "sentence": "The main reason I joined DEV this year was to stay consistent and - for want of a better word - honest with my learning.",
+    "tokens": [
+      "The",
+      "main",
+      "reason",
+      "I",
+      "joined",
+      "DEV",
+      "this",
+      "year",
+      "was",
+      "to",
+      "stay",
+      "consistent",
+      "and",
+      "for",
+      "want",
+      "of",
+      "a",
+      "better",
+      "word",
+      "honest",
+      "with",
+      "my",
+      "learning"
+    ]
+  },
+  {
+    "sentence": "I'm really enjoying the latest version of the freeCodeCamp curriculum too!",
+    "tokens": [
+      "I",
+      "really",
+      "enjoying",
+      "the",
+      "latest",
+      "version",
+      "of",
+      "the",
+      "freeCodeCamp",
+      "curriculum",
+      "too"
+    ]
+  },
+  {
+    "sentence": "I received the node badge on Dev.to for my post on express!",
+    "tokens": [
+      "I",
+      "received",
+      "the",
+      "node",
+      "badge",
+      "on",
+      "for",
+      "my",
+      "post",
+      "on",
+      "express"
+    ]
+  },
+  {
+    "sentence": "Well done, Andrew!",
+    "tokens": [
+      "Well",
+      "done",
+      "Andrew"
+    ]
+  },
+  {
+    "sentence": "Those language-specific badges are pretty coveted!",
+    "tokens": [
+      "Those",
+      "language",
+      "specific",
+      "badges",
+      "are",
+      "pretty",
+      "coveted"
+    ]
+  },
+  {
+    "sentence": "I've got the Python badge on DEV.to for my post about DEV.to stats.\n",
+    "tokens": [
+      "I",
+      "got",
+      "the",
+      "Python",
+      "badge",
+      "on",
+      "for",
+      "my",
+      "post",
+      "about",
+      "stats"
+    ]
+  },
+  {
+    "sentence": "It’s a personal win — more of a quiet joy than a reward.",
+    "tokens": [
+      "It",
+      "a",
+      "personal",
+      "win",
+      "more",
+      "of",
+      "a",
+      "quiet",
+      "joy",
+      "than",
+      "a",
+      "reward"
+    ]
+  },
+  {
+    "sentence": "And the fact that I earned it with an article about understanding the “life” of a post on DEV.to just feels right.",
+    "tokens": [
+      "And",
+      "the",
+      "fact",
+      "that",
+      "I",
+      "earned",
+      "it",
+      "with",
+      "an",
+      "article",
+      "about",
+      "understanding",
+      "the",
+      "life",
+      "of",
+      "a",
+      "post",
+      "on",
+      "just",
+      "feels",
+      "right"
+    ]
+  },
+  {
+    "sentence": "It resonates with why I wrote it in the first place.",
+    "tokens": [
+      "It",
+      "resonates",
+      "with",
+      "why",
+      "I",
+      "wrote",
+      "it",
+      "in",
+      "the",
+      "first",
+      "place"
+    ]
+  },
+  {
+    "sentence": "Congratulations, Pascal.",
+    "tokens": [
+      "Congratulations",
+      "Pascal"
+    ]
+  },
+  {
+    "sentence": "Well done - it was a truly excellent post!",
+    "tokens": [
+      "Well",
+      "done",
+      "it",
+      "was",
+      "a",
+      "truly",
+      "excellent",
+      "post"
+    ]
+  },
+  {
+    "sentence": "Of all the language-specific badges that's the one I hope to earn one day!",
+    "tokens": [
+      "Of",
+      "all",
+      "the",
+      "language",
+      "specific",
+      "badges",
+      "that",
+      "the",
+      "one",
+      "I",
+      "hope",
+      "to",
+      "earn",
+      "one",
+      "day"
+    ]
+  },
+  {
+    "sentence": "Our job is fixing two quite same legacy world scale webapp system - including inhouse version handling system.",
+    "tokens": [
+      "Our",
+      "job",
+      "is",
+      "fixing",
+      "two",
+      "quite",
+      "same",
+      "legacy",
+      "world",
+      "scale",
+      "webapp",
+      "system",
+      "including",
+      "inhouse",
+      "version",
+      "handling",
+      "system"
+    ]
+  },
+  {
+    "sentence": "Each of these codbase was old, do so many mistace in architectual decision to a CVD ( CV Driven ) coding method ( Initialy package.json was 300 + lines ).",
+    "tokens": [
+      "Each",
+      "of",
+      "these",
+      "codbase",
+      "was",
+      "old",
+      "do",
+      "so",
+      "many",
+      "mistace",
+      "in",
+      "architectual",
+      "decision",
+      "to",
+      "a",
+      "CVD",
+      "CV",
+      "Driven",
+      "coding",
+      "method",
+      "Initialy",
+      "was",
+      "lines"
+    ]
+  },
+  {
+    "sentence": "The AWS cloud infrastructure also have a bad decision, so a real challenging is put that program to DEV - then we realize DEV is not exsist.",
+    "tokens": [
+      "The",
+      "AWS",
+      "cloud",
+      "infrastructure",
+      "also",
+      "have",
+      "a",
+      "bad",
+      "decision",
+      "so",
+      "a",
+      "real",
+      "challenging",
+      "is",
+      "put",
+      "that",
+      "program",
+      "to",
+      "DEV",
+      "then",
+      "we",
+      "realize",
+      "DEV",
+      "is",
+      "not",
+      "exsist"
+    ]
+  },
+  {
+    "sentence": "After few weeks fight with devops team, we get a new DEV environment.",
+    "tokens": [
+      "After",
+      "few",
+      "weeks",
+      "fight",
+      "with",
+      "devops",
+      "team",
+      "we",
+      "get",
+      "a",
+      "new",
+      "DEV",
+      "environment"
+    ]
+  },
+  {
+    "sentence": "-> version handling tool is so complex to fail to start and this is resonate AWS bad practices.",
+    "tokens": [
+      "version",
+      "handling",
+      "tool",
+      "is",
+      "so",
+      "complex",
+      "to",
+      "fail",
+      "to",
+      "start",
+      "and",
+      "this",
+      "is",
+      "resonate",
+      "AWS",
+      "bad",
+      "practices"
+    ]
+  },
+  {
+    "sentence": "Some of you might remember my “New Year’s resolution” about speaking at a conference.\n",
+    "tokens": [
+      "Some",
+      "of",
+      "you",
+      "might",
+      "remember",
+      "my",
+      "New",
+      "Year",
+      "resolution",
+      "about",
+      "speaking",
+      "at",
+      "a",
+      "conference"
+    ]
+  },
+  {
+    "sentence": "This might still be a bit unofficial, but hmm… early spring in Bologna sounds AWESOME 😄",
+    "tokens": [
+      "This",
+      "might",
+      "still",
+      "be",
+      "a",
+      "bit",
+      "unofficial",
+      "but",
+      "hmm",
+      "early",
+      "spring",
+      "in",
+      "Bologna",
+      "sounds",
+      "AWESOME"
+    ]
+  },
+  {
+    "sentence": "!!!",
+    "tokens": []
+  },
+  {
+    "sentence": "So happy for you!",
+    "tokens": [
+      "So",
+      "happy",
+      "for",
+      "you"
+    ]
+  },
+  {
+    "sentence": "Incredible news, Sylwia!",
+    "tokens": [
+      "Incredible",
+      "news",
+      "Sylwia"
+    ]
+  },
+  {
+    "sentence": "May I wish you the very best of luck - though I'm sure you won't need it!",
+    "tokens": [
+      "May",
+      "I",
+      "wish",
+      "you",
+      "the",
+      "very",
+      "best",
+      "of",
+      "luck",
+      "though",
+      "I",
+      "sure",
+      "you",
+      "wo",
+      "need",
+      "it"
+    ]
+  },
+  {
+    "sentence": "Attempting the StackOverflow challenge for alphabet decoder.",
+    "tokens": [
+      "Attempting",
+      "the",
+      "StackOverflow",
+      "challenge",
+      "for",
+      "alphabet",
+      "decoder"
+    ]
+  },
+  {
+    "sentence": "Thanks to writing posts about my progress with the freeCodeCamp curriculum here on DEV, I’ve completed goals within their Responsive Web Design certification every single day of the year so far!",
+    "tokens": [
+      "Thanks",
+      "to",
+      "writing",
+      "posts",
+      "about",
+      "my",
+      "progress",
+      "with",
+      "the",
+      "freeCodeCamp",
+      "curriculum",
+      "here",
+      "on",
+      "DEV",
+      "I",
+      "completed",
+      "goals",
+      "within",
+      "their",
+      "Responsive",
+      "Web",
+      "Design",
+      "certification",
+      "every",
+      "single",
+      "day",
+      "of",
+      "the",
+      "year",
+      "so",
+      "far"
+    ]
+  },
+  {
+    "sentence": "Congrats to both winners!\n",
+    "tokens": [
+      "Congrats",
+      "to",
+      "both",
+      "winners"
+    ]
+  },
+  {
+    "sentence": "All the best.",
+    "tokens": [
+      "All",
+      "the",
+      "best"
+    ]
+  },
+  {
+    "sentence": "Refreshing!",
+    "tokens": [
+      "Refreshing"
+    ]
+  },
+  {
+    "sentence": "No cloud, Kubernetes, PaaS, serverless etc etc ...",
+    "tokens": [
+      "No",
+      "cloud",
+      "Kubernetes",
+      "PaaS",
+      "serverless",
+      "etc",
+      "etc"
+    ]
+  },
+  {
+    "sentence": "Thanks leob!",
+    "tokens": [
+      "Thanks",
+      "leob"
+    ]
+  },
+  {
+    "sentence": "Always good comments from you!",
+    "tokens": [
+      "Always",
+      "good",
+      "comments",
+      "from",
+      "you"
+    ]
+  },
+  {
+    "sentence": "You're welcome - still a question though:",
+    "tokens": [
+      "You",
+      "welcome",
+      "still",
+      "a",
+      "question",
+      "though"
+    ]
+  },
+  {
+    "sentence": "Good question.\n",
+    "tokens": [
+      "Good",
+      "question"
+    ]
+  },
+  {
+    "sentence": "If you expect heavy write traffic or lots of concurrent transactions from day one, I’d start with Postgres/MySQL.",
+    "tokens": [
+      "If",
+      "you",
+      "expect",
+      "heavy",
+      "write",
+      "traffic",
+      "or",
+      "lots",
+      "of",
+      "concurrent",
+      "transactions",
+      "from",
+      "day",
+      "one",
+      "I",
+      "start",
+      "with",
+      "Postgres",
+      "MySQL"
+    ]
+  },
+  {
+    "sentence": "Running app + DB on one VPS is totally doable.\n",
+    "tokens": [
+      "Running",
+      "app",
+      "DB",
+      "on",
+      "one",
+      "VPS",
+      "is",
+      "totally",
+      "doable"
+    ]
+  },
+  {
+    "sentence": "My point is just that for many early SaaS apps, SQLite in WAL mode is enough and keeps ops simple.",
+    "tokens": [
+      "My",
+      "point",
+      "is",
+      "just",
+      "that",
+      "for",
+      "many",
+      "early",
+      "SaaS",
+      "apps",
+      "SQLite",
+      "in",
+      "WAL",
+      "mode",
+      "is",
+      "enough",
+      "and",
+      "keeps",
+      "ops",
+      "simple"
+    ]
+  },
+  {
+    "sentence": "One file, easy backups, easy restores.\n",
+    "tokens": [
+      "One",
+      "file",
+      "easy",
+      "backups",
+      "easy",
+      "restores"
+    ]
+  },
+  {
+    "sentence": "And if it stops being enough, you can move to Postgres later without rewriting the whole app.\n",
+    "tokens": [
+      "And",
+      "if",
+      "it",
+      "stops",
+      "being",
+      "enough",
+      "you",
+      "can",
+      "move",
+      "to",
+      "Postgres",
+      "later",
+      "without",
+      "rewriting",
+      "the",
+      "whole",
+      "app"
+    ]
+  },
+  {
+    "sentence": "What kind of workload are you thinking of when you say serious transactions?",
+    "tokens": [
+      "What",
+      "kind",
+      "of",
+      "workload",
+      "are",
+      "you",
+      "thinking",
+      "of",
+      "when",
+      "you",
+      "say",
+      "serious",
+      "transactions"
+    ]
+  },
+  {
+    "sentence": "Point is just whether concurrent ACID transactions (which you can even have with a low traffic app) are \"completely\" reliable with SQLite ...",
+    "tokens": [
+      "Point",
+      "is",
+      "just",
+      "whether",
+      "concurrent",
+      "ACID",
+      "transactions",
+      "which",
+      "you",
+      "can",
+      "even",
+      "have",
+      "with",
+      "a",
+      "low",
+      "traffic",
+      "app",
+      "are",
+      "completely",
+      "reliable",
+      "with",
+      "SQLite"
+    ]
+  },
+  {
+    "sentence": "Thrilled to see Gemini powering the safety of the DEV community and making it easier for human moderators!",
+    "tokens": [
+      "Thrilled",
+      "to",
+      "see",
+      "Gemini",
+      "powering",
+      "the",
+      "safety",
+      "of",
+      "the",
+      "DEV",
+      "community",
+      "and",
+      "making",
+      "it",
+      "easier",
+      "for",
+      "human",
+      "moderators"
+    ]
+  },
+  {
+    "sentence": "This is amazing!",
+    "tokens": [
+      "This",
+      "is",
+      "amazing"
+    ]
+  },
+  {
+    "sentence": "And something that'll improve the quality of posts on this website.",
+    "tokens": [
+      "And",
+      "something",
+      "that",
+      "improve",
+      "the",
+      "quality",
+      "of",
+      "posts",
+      "on",
+      "this",
+      "website"
+    ]
+  },
+  {
+    "sentence": "Already has :)",
+    "tokens": [
+      "Already",
+      "has"
+    ]
+  },
+  {
+    "sentence": "Thanks for sharing! :)",
+    "tokens": [
+      "Thanks",
+      "for",
+      "sharing"
+    ]
+  },
+  {
+    "sentence": "Great job on implementing this to support building community!",
+    "tokens": [
+      "Great",
+      "job",
+      "on",
+      "implementing",
+      "this",
+      "to",
+      "support",
+      "building",
+      "community"
+    ]
+  },
+  {
+    "sentence": "Are completely off topic posts considered spam?",
+    "tokens": [
+      "Are",
+      "completely",
+      "off",
+      "topic",
+      "posts",
+      "considered",
+      "spam"
+    ]
+  },
+  {
+    "sentence": "I keep seeing obvious SEO posts.",
+    "tokens": [
+      "I",
+      "keep",
+      "seeing",
+      "obvious",
+      "SEO",
+      "posts"
+    ]
+  },
+  {
+    "sentence": "would never say there's gemini behind it, awsome!",
+    "tokens": [
+      "would",
+      "never",
+      "say",
+      "there",
+      "gemini",
+      "behind",
+      "it",
+      "awsome"
+    ]
+  },
+  {
+    "sentence": "I cannot believe you just dropped 50 of these in one day!!",
+    "tokens": [
+      "I",
+      "can",
+      "not",
+      "believe",
+      "you",
+      "just",
+      "dropped",
+      "of",
+      "these",
+      "in",
+      "one",
+      "day"
+    ]
+  },
+  {
+    "sentence": "I've been coding them for the past couple of weeks...",
+    "tokens": [
+      "I",
+      "been",
+      "coding",
+      "them",
+      "for",
+      "the",
+      "past",
+      "couple",
+      "of",
+      "weeks"
+    ]
+  },
+  {
+    "sentence": "maybe next time I break the articles into smaller ones 😳",
+    "tokens": [
+      "maybe",
+      "next",
+      "time",
+      "I",
+      "break",
+      "the",
+      "articles",
+      "into",
+      "smaller",
+      "ones"
+    ]
+  },
+  {
+    "sentence": "Yeah by all means :-)",
+    "tokens": [
+      "Yeah",
+      "by",
+      "all",
+      "means"
+    ]
+  },
+  {
+    "sentence": "and nowadays you can even \"vibe code\" it, so you can literally create something (even something non-trivial) in less than a weekend ...",
+    "tokens": [
+      "and",
+      "nowadays",
+      "you",
+      "can",
+      "even",
+      "vibe",
+      "code",
+      "it",
+      "so",
+      "you",
+      "can",
+      "literally",
+      "create",
+      "something",
+      "even",
+      "something",
+      "non",
+      "trivial",
+      "in",
+      "less",
+      "than",
+      "a",
+      "weekend"
+    ]
+  },
+  {
+    "sentence": "Haha, exactly!!\n",
+    "tokens": [
+      "Haha",
+      "exactly"
+    ]
+  },
+  {
+    "sentence": "I once coded a small score tracker for a card game I learned from this video on youtube\n",
+    "tokens": [
+      "I",
+      "once",
+      "coded",
+      "a",
+      "small",
+      "score",
+      "tracker",
+      "for",
+      "a",
+      "card",
+      "game",
+      "I",
+      "learned",
+      "from",
+      "this",
+      "video",
+      "on",
+      "youtube"
+    ]
+  },
+  {
+    "sentence": "And I build it on my mobile using gpt and claude.",
+    "tokens": [
+      "And",
+      "I",
+      "build",
+      "it",
+      "on",
+      "my",
+      "mobile",
+      "using",
+      "gpt",
+      "and",
+      "claude"
+    ]
+  },
+  {
+    "sentence": "Tweaked a few gotchas myself using an editor and done within a few hours.",
+    "tokens": [
+      "Tweaked",
+      "a",
+      "few",
+      "gotchas",
+      "myself",
+      "using",
+      "an",
+      "editor",
+      "and",
+      "done",
+      "within",
+      "a",
+      "few",
+      "hours"
+    ]
+  },
+  {
+    "sentence": "It worked great.",
+    "tokens": [
+      "It",
+      "worked",
+      "great"
+    ]
+  },
+  {
+    "sentence": "Nice one, cool!",
+    "tokens": [
+      "Nice",
+      "one",
+      "cool"
+    ]
+  },
+  {
+    "sentence": "And hosting it for free on Netlify ...",
+    "tokens": [
+      "And",
+      "hosting",
+      "it",
+      "for",
+      "free",
+      "on",
+      "Netlify"
+    ]
+  },
+  {
+    "sentence": "The emphasis on systems over motivation is something more founders should pay attention to.",
+    "tokens": [
+      "The",
+      "emphasis",
+      "on",
+      "systems",
+      "over",
+      "motivation",
+      "is",
+      "something",
+      "more",
+      "founders",
+      "should",
+      "pay",
+      "attention",
+      "to"
+    ]
+  },
+  {
+    "sentence": "This feels like advice meant to help people avoid mistakes rather than impress them.",
+    "tokens": [
+      "This",
+      "feels",
+      "like",
+      "advice",
+      "meant",
+      "to",
+      "help",
+      "people",
+      "avoid",
+      "mistakes",
+      "rather",
+      "than",
+      "impress",
+      "them"
+    ]
+  },
+  {
+    "sentence": "This really captures how remote work looks great on the surface but requires much deeper thinking to make it sustainable.",
+    "tokens": [
+      "This",
+      "really",
+      "captures",
+      "how",
+      "remote",
+      "work",
+      "looks",
+      "great",
+      "on",
+      "the",
+      "surface",
+      "but",
+      "requires",
+      "much",
+      "deeper",
+      "thinking",
+      "to",
+      "make",
+      "it",
+      "sustainable"
+    ]
+  },
+  {
+    "sentence": "The section on unplugging fully is especially relevant for founders who struggle to step away.",
+    "tokens": [
+      "The",
+      "section",
+      "on",
+      "unplugging",
+      "fully",
+      "is",
+      "especially",
+      "relevant",
+      "for",
+      "founders",
+      "who",
+      "struggle",
+      "to",
+      "step",
+      "away"
+    ]
+  },
+  {
+    "sentence": "This reads like advice that only comes from years of doing things the hard way.",
+    "tokens": [
+      "This",
+      "reads",
+      "like",
+      "advice",
+      "that",
+      "only",
+      "comes",
+      "from",
+      "years",
+      "of",
+      "doing",
+      "things",
+      "the",
+      "hard",
+      "way"
+    ]
+  },
+  {
+    "sentence": "This aligns well with Ashkan Rajaee’s view that remote work is a discipline, not a lifestyle perk.",
+    "tokens": [
+      "This",
+      "aligns",
+      "well",
+      "with",
+      "Ashkan",
+      "Rajaee",
+      "view",
+      "that",
+      "remote",
+      "work",
+      "is",
+      "a",
+      "discipline",
+      "not",
+      "a",
+      "lifestyle",
+      "perk"
+    ]
+  },
+  {
+    "sentence": "One idea from this article that really stood out to me is the emphasis on choosing how to decide before making the decision itself.",
+    "tokens": [
+      "One",
+      "idea",
+      "from",
+      "this",
+      "article",
+      "that",
+      "really",
+      "stood",
+      "out",
+      "to",
+      "me",
+      "is",
+      "the",
+      "emphasis",
+      "on",
+      "choosing",
+      "how",
+      "to",
+      "decide",
+      "before",
+      "making",
+      "the",
+      "decision",
+      "itself"
+    ]
+  },
+  {
+    "sentence": "In digital and professional environments, we are constantly surrounded by information, tools, and opinions, which can easily lead to rushed or poorly informed choices.",
+    "tokens": [
+      "In",
+      "digital",
+      "and",
+      "professional",
+      "environments",
+      "we",
+      "are",
+      "constantly",
+      "surrounded",
+      "by",
+      "information",
+      "tools",
+      "and",
+      "opinions",
+      "which",
+      "can",
+      "easily",
+      "lead",
+      "to",
+      "rushed",
+      "or",
+      "poorly",
+      "informed",
+      "choices"
+    ]
+  },
+  {
+    "sentence": "You're thinking imperatively, where React is naturally declarative.",
+    "tokens": [
+      "You",
+      "thinking",
+      "imperatively",
+      "where",
+      "React",
+      "is",
+      "naturally",
+      "declarative"
+    ]
+  },
+  {
+    "sentence": "You are thinking, \"Where does my code run and at what time?\" rather than declaring \"What my code should do\" and then not caring when it's being run.",
+    "tokens": [
+      "You",
+      "are",
+      "thinking",
+      "Where",
+      "does",
+      "my",
+      "code",
+      "run",
+      "and",
+      "at",
+      "what",
+      "time",
+      "rather",
+      "than",
+      "declaring",
+      "What",
+      "my",
+      "code",
+      "should",
+      "do",
+      "and",
+      "then",
+      "not",
+      "caring",
+      "when",
+      "it",
+      "being",
+      "run"
+    ]
+  },
+  {
+    "sentence": "It's natural for this to feel odd when you are first learning it, but it's a pattern I constantly use in architecture I design.",
+    "tokens": [
+      "It",
+      "natural",
+      "for",
+      "this",
+      "to",
+      "feel",
+      "odd",
+      "when",
+      "you",
+      "are",
+      "first",
+      "learning",
+      "it",
+      "but",
+      "it",
+      "a",
+      "pattern",
+      "I",
+      "constantly",
+      "use",
+      "in",
+      "architecture",
+      "I",
+      "design"
+    ]
+  },
+  {
+    "sentence": "The reason for its power is the ability to decouple things.",
+    "tokens": [
+      "The",
+      "reason",
+      "for",
+      "its",
+      "power",
+      "is",
+      "the",
+      "ability",
+      "to",
+      "decouple",
+      "things"
+    ]
+  },
+  {
+    "sentence": "Here are the most confusing aspects of React form my perspective when I'm in beginner, summarized with Hot Points:\n",
+    "tokens": [
+      "Here",
+      "are",
+      "the",
+      "most",
+      "confusing",
+      "aspects",
+      "of",
+      "React",
+      "form",
+      "my",
+      "perspective",
+      "when",
+      "I",
+      "in",
+      "beginner",
+      "summarized",
+      "with",
+      "Hot",
+      "Points"
+    ]
+  },
+  {
+    "sentence": "State vs. Variables (The Re-render Trigger)",
+    "tokens": [
+      "State",
+      "Variables",
+      "The",
+      "Re",
+      "render",
+      "Trigger"
+    ]
+  },
+  {
+    "sentence": "To make your React code easier.",
+    "tokens": [
+      "To",
+      "make",
+      "your",
+      "React",
+      "code",
+      "easier"
+    ]
+  },
+  {
+    "sentence": "I am following the same, follow these Hot Points:",
+    "tokens": [
+      "I",
+      "am",
+      "following",
+      "the",
+      "same",
+      "follow",
+      "these",
+      "Hot",
+      "Points"
+    ]
+  },
+  {
+    "sentence": "Many \"React problems\" are not unique to React.",
+    "tokens": [
+      "Many",
+      "React",
+      "problems",
+      "are",
+      "not",
+      "unique",
+      "to",
+      "React"
+    ]
+  },
+  {
+    "sentence": "JavaScript/TypeScript has come a long way historically resulting in inconsistent concepts and different possible syntax to achieve the same thing.",
+    "tokens": [
+      "JavaScript",
+      "TypeScript",
+      "has",
+      "come",
+      "a",
+      "long",
+      "way",
+      "historically",
+      "resulting",
+      "in",
+      "inconsistent",
+      "concepts",
+      "and",
+      "different",
+      "possible",
+      "syntax",
+      "to",
+      "achieve",
+      "the",
+      "same",
+      "thing"
+    ]
+  },
+  {
+    "sentence": "Syntax might be a matter of taste or what you learned first, like classic vs. arrow functions.",
+    "tokens": [
+      "Syntax",
+      "might",
+      "be",
+      "a",
+      "matter",
+      "of",
+      "taste",
+      "or",
+      "what",
+      "you",
+      "learned",
+      "first",
+      "like",
+      "classic",
+      "arrow",
+      "functions"
+    ]
+  },
+  {
+    "sentence": "Many developers prefer React hooks over the legacy lifecycle methods, while others miss the descriptive names and more obvious logic despite verbosity and missing customization.",
+    "tokens": [
+      "Many",
+      "developers",
+      "prefer",
+      "React",
+      "hooks",
+      "over",
+      "the",
+      "legacy",
+      "lifecycle",
+      "methods",
+      "while",
+      "others",
+      "miss",
+      "the",
+      "descriptive",
+      "names",
+      "and",
+      "more",
+      "obvious",
+      "logic",
+      "despite",
+      "verbosity",
+      "and",
+      "missing",
+      "customization"
+    ]
+  },
+  {
+    "sentence": "JSX is optional (in theory) and other libraries/frameworks use JSX and even MDX syntax ass well.",
+    "tokens": [
+      "JSX",
+      "is",
+      "optional",
+      "in",
+      "theory",
+      "and",
+      "other",
+      "libraries",
+      "frameworks",
+      "use",
+      "JSX",
+      "and",
+      "even",
+      "MDX",
+      "syntax",
+      "ass",
+      "well"
+    ]
+  },
+  {
+    "sentence": "Great breakdown.",
+    "tokens": [
+      "Great",
+      "breakdown"
+    ]
+  },
+  {
+    "sentence": "This really captures the shift from typing code to delegating outcomes.",
+    "tokens": [
+      "This",
+      "really",
+      "captures",
+      "the",
+      "shift",
+      "from",
+      "typing",
+      "code",
+      "to",
+      "delegating",
+      "outcomes"
+    ]
+  },
+  {
+    "sentence": "Copilot accelerates execution, Antigravity changes the abstraction level entirely.",
+    "tokens": [
+      "Copilot",
+      "accelerates",
+      "execution",
+      "Antigravity",
+      "changes",
+      "the",
+      "abstraction",
+      "level",
+      "entirely"
+    ]
+  },
+  {
+    "sentence": "You're right, you summed it up well!",
+    "tokens": [
+      "You",
+      "right",
+      "you",
+      "summed",
+      "it",
+      "up",
+      "well"
+    ]
+  },
+  {
+    "sentence": "\"I'm not exactly thrilled about upgrading from Serverless Framework v3 to v4\" - but, you don't have to - be aware that there's an alternative (see below) ...",
+    "tokens": [
+      "I",
+      "not",
+      "exactly",
+      "thrilled",
+      "about",
+      "upgrading",
+      "from",
+      "Serverless",
+      "Framework",
+      "to",
+      "but",
+      "you",
+      "do",
+      "have",
+      "to",
+      "be",
+      "aware",
+      "that",
+      "there",
+      "an",
+      "alternative",
+      "see",
+      "below"
+    ]
+  },
+  {
+    "sentence": "cool",
+    "tokens": [
+      "cool"
+    ]
+  },
+  {
+    "sentence": "Good luck to all participants!",
+    "tokens": [
+      "Good",
+      "luck",
+      "to",
+      "all",
+      "participants"
+    ]
+  },
+  {
+    "sentence": "This one looks great, good luck everyone!",
+    "tokens": [
+      "This",
+      "one",
+      "looks",
+      "great",
+      "good",
+      "luck",
+      "everyone"
+    ]
+  },
+  {
+    "sentence": "So I'm already using copilot a bunch of other ways, but don't actually use the CLI much.",
+    "tokens": [
+      "So",
+      "I",
+      "already",
+      "using",
+      "copilot",
+      "a",
+      "bunch",
+      "of",
+      "other",
+      "ways",
+      "but",
+      "do",
+      "actually",
+      "use",
+      "the",
+      "CLI",
+      "much"
+    ]
+  },
+  {
+    "sentence": "This looks like a fun challenge with solid incentives.",
+    "tokens": [
+      "This",
+      "looks",
+      "like",
+      "a",
+      "fun",
+      "challenge",
+      "with",
+      "solid",
+      "incentives"
+    ]
+  },
+  {
+    "sentence": "Bringing Copilot directly into the CLI feels like a natural next step, and the open-ended prompt makes it easy to experiment with real workflows instead of forced demos.",
+    "tokens": [
+      "Bringing",
+      "Copilot",
+      "directly",
+      "into",
+      "the",
+      "CLI",
+      "feels",
+      "like",
+      "a",
+      "natural",
+      "next",
+      "step",
+      "and",
+      "the",
+      "open",
+      "ended",
+      "prompt",
+      "makes",
+      "it",
+      "easy",
+      "to",
+      "experiment",
+      "with",
+      "real",
+      "workflows",
+      "instead",
+      "of",
+      "forced",
+      "demos"
+    ]
+  },
+  {
+    "sentence": "Definitely tempting to build something small but genuinely useful with this.",
+    "tokens": [
+      "Definitely",
+      "tempting",
+      "to",
+      "build",
+      "something",
+      "small",
+      "but",
+      "genuinely",
+      "useful",
+      "with",
+      "this"
+    ]
+  },
+  {
+    "sentence": "Sounds like something to try.",
+    "tokens": [
+      "Sounds",
+      "like",
+      "something",
+      "to",
+      "try"
+    ]
+  },
+  {
+    "sentence": "Good luck to you.",
+    "tokens": [
+      "Good",
+      "luck",
+      "to",
+      "you"
+    ]
+  },
+  {
+    "sentence": "#LetsServe",
+    "tokens": [
+      "LetsServe"
+    ]
+  },
+  {
+    "sentence": "This challenge is 🔥\nCopilot in the terminal is a total game-changer—can’t wait to see the creative CLI tools people build.\n",
+    "tokens": [
+      "This",
+      "challenge",
+      "is",
+      "Copilot",
+      "in",
+      "the",
+      "terminal",
+      "is",
+      "a",
+      "total",
+      "game",
+      "changer",
+      "wait",
+      "to",
+      "see",
+      "the",
+      "creative",
+      "CLI",
+      "tools",
+      "people",
+      "build"
+    ]
+  },
+  {
+    "sentence": "Good luck to everyone and happy hacking!",
+    "tokens": [
+      "Good",
+      "luck",
+      "to",
+      "everyone",
+      "and",
+      "happy",
+      "hacking"
+    ]
+  },
+  {
+    "sentence": "🚀💻",
+    "tokens": []
+  },
+  {
+    "sentence": "So interesting!",
+    "tokens": [
+      "So",
+      "interesting"
+    ]
+  },
+  {
+    "sentence": "Let's give it a try.",
+    "tokens": [
+      "Let",
+      "give",
+      "it",
+      "a",
+      "try"
+    ]
+  },
+  {
+    "sentence": "great I'm really want to test",
+    "tokens": [
+      "great",
+      "I",
+      "really",
+      "want",
+      "to",
+      "test"
+    ]
+  }
+]

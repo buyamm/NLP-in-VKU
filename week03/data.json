@@ -1,0 +1,23 @@
+[
+    {
+        "Kinh te": [
+            {
+                "title": "",
+                "url": "",
+                "content": "",
+                "sentences": [
+                    {
+                        "text": "",
+                        "connecting_words": "",
+                        "entities": [
+                            {
+                                "word": "",
+                                "ner_tag": ""
+                            }
+                        ]
+                    }                    
+                ]
+            }
+        ]
+    }
+]
