@@ -33,17 +33,39 @@ nlu:
       - book xe
       - tôi cần xe
       - giúp tôi đặt xe
+      - muốn đặt xe
+      - cần đặt xe
+      - gọi xe đi
+      - đặt xe nào
+      - tôi cần một chuyến xe
+      - cho tôi một chuyến xe
+      - tôi muốn đi xe
+      - ơi đặt xe
+      - cho mình đặt xe
+      - mình muốn đặt xe
       - đặt xe từ [Sơn Trà](from_location) đến [VKU](to_location)
       - tôi muốn đặt xe từ [bến xe](from_location) đến [sân bay](to_location)
       - đặt xe từ [Hải Châu](from_location) đến [Ngũ Hành Sơn](to_location)
       - gọi xe từ [trường đại học](from_location) đến [bệnh viện](to_location)
+      - đặt xe từ [Sơn Trà](from_location) đi [VKU](to_location)
+      - đặt xe từ [bến xe](from_location) đi [sân bay](to_location)
+      - đặt xe từ [Hải Châu](from_location) đi [Ngũ Hành Sơn](to_location)
+      - tôi muốn đặt xe từ [Sơn Trà](from_location) đi [VKU](to_location) bằng [xe máy](vehicle_type)
+      - tôi muốn đặt xe từ [Sơn Trà](from_location) đến [VKU](to_location) bằng [xe máy](vehicle_type)
+      - đặt xe từ [bến xe](from_location) đến [sân bay](to_location) bằng [ô tô 4 chỗ](vehicle_type)
+      - đặt xe từ [bến xe](from_location) đi [sân bay](to_location) bằng [ô tô 4 chỗ](vehicle_type)
       - tôi cần đặt [xe máy](vehicle_type) từ [Thanh Khê](from_location) đến [Liên Chiểu](to_location)
       - đặt [ô tô 4 chỗ](vehicle_type) từ [Cẩm Lệ](from_location) đến [sân bay Đà Nẵng](to_location)
-      - cho tôi [xe máy](vehicle_type) từ [Sơn Trà](from_location)
       - tôi muốn đi từ [VKU](from_location) đến [biển Mỹ Khê](to_location)
+      - đặt xe từ [Sơn Trà](from_location) đến [VKU](to_location) bằng [xe máy](vehicle_type)
+      - gọi [xe máy](vehicle_type) từ [Hải Châu](from_location) đến [Ngũ Hành Sơn](to_location)
+      - tôi muốn đặt [ô tô 7 chỗ](vehicle_type) từ [Cẩm Lệ](from_location) đến [sân bay](to_location)
+      - tôi muốn đặt xe từ [sơn trà](from_location) đi [vku](to_location) bằng [xe ô tô](vehicle_type)
+      - đặt xe từ [sơn trà](from_location) đi [vku](to_location) bằng [xe máy](vehicle_type)
+      - tôi muốn đặt xe từ [chợ Hàn](from_location) đi [cầu Rồng](to_location) bằng [ô tô 4 chỗ](vehicle_type)
+      - gọi xe từ [Thanh Khê](from_location) đi [Liên Chiểu](to_location) bằng [xe máy](vehicle_type)
 
   # ── Intent: inform ────────────────────────────────────────────────────────────
-  # User cung cấp thông tin khi được hỏi
   - intent: inform
     examples: |
       - [Sơn Trà](from_location)
@@ -60,20 +82,34 @@ nlu:
       - [bệnh viện](to_location)
       - [chợ Hàn](from_location)
       - [cầu Rồng](to_location)
+      - [biển Mỹ Khê](to_location)
       - [xe máy](vehicle_type)
       - [ô tô 4 chỗ](vehicle_type)
       - [ô tô 7 chỗ](vehicle_type)
       - tôi đi từ [Sơn Trà](from_location)
       - đến [sân bay](to_location)
+      - đi [VKU](to_location)
+      - đi [sân bay](to_location)
+      - đi [Ngũ Hành Sơn](to_location)
       - cho tôi [xe máy](vehicle_type)
       - tôi muốn [ô tô 4 chỗ](vehicle_type)
       - đi bằng [xe máy](vehicle_type)
+      - bằng [xe máy](vehicle_type)
+      - bằng [ô tô 4 chỗ](vehicle_type)
+      - bằng [ô tô 7 chỗ](vehicle_type)
+      - bằng [xe ô tô](vehicle_type)
       - [motorbike](vehicle_type)
       - [car](vehicle_type)
       - từ [VKU](from_location)
+      - từ [sơn trà](from_location)
       - đến [biển Mỹ Khê](to_location)
       - [xe máy](vehicle_type) nhé
       - [ô tô 7 chỗ](vehicle_type) đi
+      - đi [xe máy](vehicle_type)
+      - đi [ô tô 4 chỗ](vehicle_type)
+      - chọn [xe máy](vehicle_type)
+      - chọn [ô tô 4 chỗ](vehicle_type)
+      - [xe ô tô](vehicle_type)
 
   # ── Intent: confirm ───────────────────────────────────────────────────────────
   - intent: confirm
@@ -129,8 +165,6 @@ nlu:
       - bạn là người hay máy
 
   # ── Synonyms ──────────────────────────────────────────────────────────────────
-  # Giúp bot hiểu các cách nói khác nhau cho cùng một loại xe
-
   - synonym: xe máy
     examples: |
       - motorbike
@@ -145,6 +179,7 @@ nlu:
       - ô tô
       - xe hơi
       - xe 4 chỗ
+      - xe ô tô
       - grab car
       - grabCar
       - sedan

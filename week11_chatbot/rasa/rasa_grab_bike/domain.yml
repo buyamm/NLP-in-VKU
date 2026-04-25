@@ -80,6 +80,8 @@ actions:
   - utter_goodbye
   - utter_iamabot
   - utter_default
+  - action_ask_missing_info
+  - action_confirm_ride
 
 # ── Session Config ─────────────────────────────────────────────────────────────
 session_config:

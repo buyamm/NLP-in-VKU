@@ -1,96 +1,95 @@
 version: "3.1"
 
-# ── Stories ───────────────────────────────────────────────────────────────────
-# Stories dạy bot luồng hội thoại có ngữ cảnh (ML-based).
-# Mỗi story là một kịch bản hội thoại mẫu từ đầu đến cuối.
-
 stories:
 
-  # ── Story 1: Đặt xe với đầy đủ thông tin ngay từ đầu ─────────────────────────
-  - story: dat xe day du thong tin
-    steps:
-      - intent: greet
-      - action: utter_greet
-      - intent: book_ride
-        entities:
-          - from_location: "Sơn Trà"
-          - to_location: "VKU"
-          - vehicle_type: "xe máy"
-      - action: utter_confirm_ride
-
-  # ── Story 2: Đặt xe, thiếu tất cả → hỏi từng bước ───────────────────────────
-  - story: dat xe hoi tung buoc
+  # ── Đặt xe không có thông tin → hỏi từng bước ────────────────────────────────
+  - story: dat xe khong co thong tin
     steps:
       - intent: book_ride
-      - action: utter_ask_from_location
+      - action: action_ask_missing_info
       - intent: inform
         entities:
           - from_location: "bến xe"
-      - action: utter_ask_to_location
+      - action: action_ask_missing_info
       - intent: inform
         entities:
           - to_location: "sân bay"
-      - action: utter_ask_vehicle_type
+      - action: action_ask_missing_info
       - intent: inform
         entities:
           - vehicle_type: "xe máy"
-      - action: utter_confirm_ride
+      - action: action_confirm_ride
 
-  # ── Story 3: Đặt xe có điểm đi, thiếu điểm đến và loại xe ───────────────────
-  - story: dat xe co diem di thieu diem den va loai xe
+  # ── Đặt xe có điểm đi → hỏi điểm đến → hỏi loại xe ─────────────────────────
+  - story: dat xe co diem di
     steps:
       - intent: book_ride
         entities:
           - from_location: "Hải Châu"
-      - action: utter_ask_to_location
+      - action: action_ask_missing_info
       - intent: inform
         entities:
           - to_location: "Ngũ Hành Sơn"
-      - action: utter_ask_vehicle_type
+      - action: action_ask_missing_info
       - intent: inform
         entities:
           - vehicle_type: "ô tô 4 chỗ"
-      - action: utter_confirm_ride
+      - action: action_confirm_ride
 
-  # ── Story 4: Đặt xe có điểm đi và đến, thiếu loại xe ────────────────────────
-  - story: dat xe thieu loai xe
+  # ── Đặt xe có điểm đi và đến → hỏi loại xe ──────────────────────────────────
+  - story: dat xe co diem di va den
     steps:
       - intent: book_ride
         entities:
           - from_location: "Thanh Khê"
           - to_location: "Liên Chiểu"
-      - action: utter_ask_vehicle_type
+      - action: action_ask_missing_info
       - intent: inform
         entities:
           - vehicle_type: "ô tô 7 chỗ"
-      - action: utter_confirm_ride
+      - action: action_confirm_ride
 
-  # ── Story 5: Chào → đặt xe → tạm biệt ───────────────────────────────────────
+  # ── Đặt xe đầy đủ thông tin ngay ─────────────────────────────────────────────
+  - story: dat xe day du
+    steps:
+      - intent: book_ride
+        entities:
+          - from_location: "Sơn Trà"
+          - to_location: "VKU"
+          - vehicle_type: "xe máy"
+      - action: action_confirm_ride
+
+  # ── Chào → đặt xe → tạm biệt ─────────────────────────────────────────────────
   - story: chao dat xe tam biet
     steps:
       - intent: greet
       - action: utter_greet
       - intent: book_ride
+      - action: action_ask_missing_info
+      - intent: inform
         entities:
           - from_location: "VKU"
+      - action: action_ask_missing_info
+      - intent: inform
+        entities:
           - to_location: "biển Mỹ Khê"
-      - action: utter_ask_vehicle_type
+      - action: action_ask_missing_info
       - intent: inform
         entities:
           - vehicle_type: "xe máy"
-      - action: utter_confirm_ride
+      - action: action_confirm_ride
       - intent: goodbye
       - action: utter_goodbye
 
-  # ── Story 6: Hủy chuyến đi ───────────────────────────────────────────────────
+  # ── Hủy giữa chừng ───────────────────────────────────────────────────────────
   - story: huy chuyen di
     steps:
       - intent: book_ride
-      - action: utter_ask_from_location
+      - action: action_ask_missing_info
       - intent: cancel
       - action: utter_cancel
 
-  # ── Story 7: Chỉ chào hỏi rồi tạm biệt ──────────────────────────────────────
+  # ── Chỉ chào hỏi ─────────────────────────────────────────────────────────────
   - story: chi chao hoi
     steps:
       - intent: greet

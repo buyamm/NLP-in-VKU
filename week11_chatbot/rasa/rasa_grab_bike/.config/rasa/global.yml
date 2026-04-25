@@ -1,0 +1,8 @@
+metrics:
+  enabled: true
+  rasa_user_id: 8da224b90f1246ec909981658a97c760
+  date: '2026-04-25 06:09:19.924614'
+traits:
+  enabled: true
+  rasa_user_id: 8da224b90f1246ec909981658a97c760
+  date: 2026-04-25 06:09:19.924614

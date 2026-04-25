@@ -1,0 +1,78 @@
+{
+  "type": "MaxHistoryTrackerFeaturizer",
+  "state_featurizer": {
+    "action_texts": [],
+    "entity_tag_specs": [],
+    "feature_states": {
+      "intent": {
+        "back": 0,
+        "book_ride": 1,
+        "bot_challenge": 2,
+        "cancel": 3,
+        "confirm": 4,
+        "goodbye": 5,
+        "greet": 6,
+        "inform": 7,
+        "nlu_fallback": 8,
+        "out_of_scope": 9,
+        "restart": 10,
+        "session_end": 11,
+        "session_start": 12,
+        "silence_timeout": 13
+      },
+      "action_name": {
+        "action_listen": 0,
+        "action_restart": 1,
+        "action_session_start": 2,
+        "action_default_fallback": 3,
+        "action_deactivate_loop": 4,
+        "action_revert_fallback_events": 5,
+        "action_default_ask_affirmation": 6,
+        "action_default_ask_rephrase": 7,
+        "action_two_stage_fallback": 8,
+        "action_unlikely_intent": 9,
+        "action_back": 10,
+        "action_send_text": 11,
+        "action_agent_request_user_input": 12,
+        "...": 13,
+        "action_extract_slots": 14,
+        "action_cancel_flow": 15,
+        "action_correct_flow_slot": 16,
+        "action_clarify_flows": 17,
+        "action_run_slot_rejections": 18,
+        "action_clean_stack": 19,
+        "action_trigger_search": 20,
+        "action_trigger_chitchat": 21,
+        "action_reset_routing": 22,
+        "action_hangup": 23,
+        "action_handoff_metric": 24,
+        "action_repeat_bot_messages": 25,
+        "action_continue_interrupted_flow": 26,
+        "action_cancel_interrupted_flows": 27,
+        "utter_greet": 28,
+        "utter_ask_from_location": 29,
+        "utter_ask_to_location": 30,
+        "utter_ask_vehicle_type": 31,
+        "utter_confirm_ride": 32,
+        "utter_cancel": 33,
+        "utter_goodbye": 34,
+        "utter_iamabot": 35,
+        "utter_default": 36
+      },
+      "entities": {
+        "from_location": 0,
+        "to_location": 1,
+        "vehicle_type": 2
+      },
+      "slots": {
+        "language_0": 0,
+        "from_location_0": 1,
+        "to_location_0": 2,
+        "vehicle_type_0": 3
+      },
+      "active_loop": {}
+    }
+  },
+  "remove_duplicates": true,
+  "max_history": 5
+}
