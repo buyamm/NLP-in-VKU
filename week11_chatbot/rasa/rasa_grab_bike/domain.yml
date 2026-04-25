@@ -1,0 +1,87 @@
+version: "3.1"
+
+# ── Intents ───────────────────────────────────────────────────────────────────
+intents:
+  - greet
+  - goodbye
+  - book_ride
+  - inform
+  - confirm
+  - cancel
+  - bot_challenge
+
+# ── Entities ──────────────────────────────────────────────────────────────────
+entities:
+  - from_location    # điểm đi
+  - to_location      # điểm đến
+  - vehicle_type     # loại xe
+
+# ── Slots ─────────────────────────────────────────────────────────────────────
+slots:
+  from_location:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: from_location
+
+  to_location:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: to_location
+
+  vehicle_type:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: vehicle_type
+
+# ── Responses ─────────────────────────────────────────────────────────────────
+responses:
+  utter_greet:
+    - text: "Xin chào! Tôi là GrabBot 🚗 Tôi có thể giúp bạn đặt xe. Bạn muốn đặt xe không?"
+
+  utter_ask_from_location:
+    - text: "Bạn muốn đi từ đâu?"
+
+  utter_ask_to_location:
+    - text: "Bạn muốn đi đến đâu?"
+
+  utter_ask_vehicle_type:
+    - text: "Bạn muốn đi loại xe gì? (xe máy / ô tô 4 chỗ / ô tô 7 chỗ)"
+
+  utter_confirm_ride:
+    - text: "✅ Đã đặt xe thành công!\n🚩 Điểm đi: {from_location}\n🏁 Điểm đến: {to_location}\n🚗 Loại xe: {vehicle_type}\nVui lòng chờ tài xế đến đón bạn!"
+
+  utter_cancel:
+    - text: "Đã hủy chuyến đi. Cảm ơn bạn đã sử dụng dịch vụ! 👋"
+
+  utter_goodbye:
+    - text: "Tạm biệt! Chúc bạn một ngày tốt lành! 👋"
+
+  utter_iamabot:
+    - text: "Tôi là GrabBot, trợ lý ảo hỗ trợ đặt xe được xây dựng bằng Rasa. 🤖"
+
+  utter_default:
+    - text: "Xin lỗi, tôi chưa hiểu ý bạn. Bạn có thể nói lại không?"
+    - text: "Tôi không chắc mình hiểu đúng. Bạn có thể diễn đạt khác không?"
+
+# ── Actions ───────────────────────────────────────────────────────────────────
+actions:
+  - utter_greet
+  - utter_ask_from_location
+  - utter_ask_to_location
+  - utter_ask_vehicle_type
+  - utter_confirm_ride
+  - utter_cancel
+  - utter_goodbye
+  - utter_iamabot
+  - utter_default
+
+# ── Session Config ─────────────────────────────────────────────────────────────
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

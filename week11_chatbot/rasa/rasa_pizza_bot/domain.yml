@@ -1,0 +1,76 @@
+version: "3.1"
+
+# ── Intents ───────────────────────────────────────────────────────────────────
+# Khai báo tất cả intent mà bot có thể nhận diện
+intents:
+  - greet
+  - goodbye
+  - order_pizza
+  - inform
+  - affirm
+  - deny
+  - bot_challenge    # Khi user hỏi "Are you a bot?"
+
+# ── Entities ──────────────────────────────────────────────────────────────────
+# Khai báo các loại thông tin cần trích xuất từ câu nói
+entities:
+  - pizza_size       # small / medium / large
+  - pizza_topping    # cheese / pepperoni / mushroom / onion
+
+# ── Slots ─────────────────────────────────────────────────────────────────────
+# Bộ nhớ tạm của bot trong một cuộc hội thoại
+slots:
+  pizza_size:
+    type: text
+    influence_conversation: true   # Slot này ảnh hưởng đến luồng hội thoại
+    mappings:
+      - type: from_entity
+        entity: pizza_size
+
+  pizza_topping:
+    type: list                     # list vì user có thể chọn nhiều topping
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: pizza_topping
+
+# ── Responses ─────────────────────────────────────────────────────────────────
+# Câu trả lời mẫu của bot
+responses:
+  utter_greet:
+    - text: "Hi! I am PizzaBot 🍕 What pizza would you like today?"
+
+  utter_ask_size:
+    - text: "What size pizza would you like? (small / medium / large)"
+
+  utter_ask_topping:
+    - text: "What toppings would you like? (cheese, pepperoni, mushroom, onion)"
+
+  utter_confirm_order:
+    - text: "Great! I have your {pizza_size} pizza with {pizza_topping}. Your order is confirmed! 🎉"
+
+  utter_goodbye:
+    - text: "Goodbye! Enjoy your pizza! 👋"
+
+  utter_iamabot:
+    - text: "I am PizzaBot, a virtual assistant powered by Rasa. 🤖"
+
+  utter_default:
+    - text: "Sorry, I didn't understand that. Could you rephrase?"
+    - text: "I'm not sure I follow. Can you say that differently?"
+
+# ── Actions ───────────────────────────────────────────────────────────────────
+# Khai báo tất cả action bot có thể thực hiện
+actions:
+  - utter_greet
+  - utter_ask_size
+  - utter_ask_topping
+  - utter_confirm_order
+  - utter_goodbye
+  - utter_iamabot
+  - utter_default
+
+# ── Session Config ─────────────────────────────────────────────────────────────
+session_config:
+  session_expiration_time: 60    # phút – sau 60 phút không hoạt động, reset session
+  carry_over_slots_to_new_session: true

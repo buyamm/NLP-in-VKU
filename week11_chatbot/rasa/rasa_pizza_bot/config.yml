@@ -1,0 +1,46 @@
+# config.yml – NLU-based assistant (tương thích Rasa Pro 3.16.x)
+#
+# Rasa Pro 3.x có 2 kiến trúc:
+#   1. NLU-based (file này): dùng DIETClassifier + TEDPolicy/MemoizationPolicy
+#      → Phù hợp cho bài học, không cần LLM/API key
+#   2. CALM: dùng LLMCommandGenerator + FlowPolicy
+#      → Cần OpenAI hoặc LLM khác, phức tạp hơn
+#
+# Để tạo project NLU-based với Rasa Pro 3.16:
+#   rasa init --no-prompt   (mặc định vẫn tạo NLU-based)
+
+recipe: default.v1
+
+assistant_id: pizzabot
+
+language: en
+
+# ── NLU Pipeline ──────────────────────────────────────────────────────────────
+pipeline:
+  - name: WhitespaceTokenizer
+  - name: RegexFeaturizer
+  - name: LexicalSyntacticFeaturizer
+  - name: CountVectorsFeaturizer
+  - name: CountVectorsFeaturizer
+    analyzer: char_wb
+    min_ngram: 1
+    max_ngram: 4
+  - name: DIETClassifier
+    epochs: 100
+    constrain_similarities: true
+  - name: EntitySynonymMapper
+  - name: FallbackClassifier
+    threshold: 0.2
+    ambiguity_threshold: 0.1
+
+# ── Policies ──────────────────────────────────────────────────────────────────
+policies:
+  - name: MemoizationPolicy
+  - name: RulePolicy
+    core_fallback_threshold: 0.2
+    core_fallback_action_name: "action_default_fallback"
+    enable_fallback_prediction: true
+  - name: TEDPolicy
+    max_history: 5
+    epochs: 100
+    constrain_similarities: true

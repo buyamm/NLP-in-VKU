@@ -1,0 +1,138 @@
+version: "3.1"
+
+# ── NLU Training Data ─────────────────────────────────────────────────────────
+# File này chứa ví dụ để train NLU model nhận diện intent và entity.
+#
+# Cú pháp annotated entity: [value](entity_type)
+#   - value      : giá trị thực tế xuất hiện trong câu (entity value)
+#   - entity_type: loại thông tin (entity type)
+# Ví dụ: [medium](pizza_size) → value="medium", entity_type="pizza_size"
+
+nlu:
+
+  # ── Intent: greet ────────────────────────────────────────────────────────────
+  - intent: greet
+    examples: |
+      - hello
+      - hi
+      - hey
+      - good morning
+      - good evening
+      - howdy
+      - hi there
+      - hey there
+      - what's up
+
+  # ── Intent: goodbye ──────────────────────────────────────────────────────────
+  - intent: goodbye
+    examples: |
+      - bye
+      - goodbye
+      - see you later
+      - see you
+      - take care
+      - talk to you later
+      - I'm done
+      - that's all
+
+  # ── Intent: order_pizza ──────────────────────────────────────────────────────
+  # Câu đặt pizza – có thể kèm hoặc không kèm entity
+  - intent: order_pizza
+    examples: |
+      - I want to order a pizza
+      - I want a pizza
+      - order pizza
+      - can I get a pizza
+      - I'd like to order a pizza
+      - pizza please
+      - I want to buy a pizza
+      - let me order a pizza
+      - I'd like to get a pizza
+      - can you get me a pizza
+      - I need a pizza
+      - get me a pizza
+      - I want order a pizza
+      - i want order a pizza
+      - order a pizza please
+      - can I order a pizza
+      - I would like a pizza
+      - I would like to order pizza
+      - I want to get a pizza
+      - one pizza please
+      - i wanna order a pizza
+      - wanna order a pizza
+      - i wanna get a pizza
+      - wanna get a pizza
+      - ok i want a pizza
+      - ok i wanna order a pizza
+      - yeah i want a pizza
+      - sure i want a pizza
+      - I want a [medium](pizza_size) pizza
+      - give me a [large](pizza_size) pizza
+      - I'd like a [small](pizza_size) pizza
+      - I want a [small](pizza_size) pizza with [cheese](pizza_topping)
+      - I want a [medium](pizza_size) pizza with [pepperoni](pizza_topping)
+      - give me a pizza with [mushroom](pizza_topping)
+      - [large](pizza_size) pizza with [cheese](pizza_topping) and [onion](pizza_topping)
+      - I want a [large](pizza_size) pizza with [cheese](pizza_topping) and [pepperoni](pizza_topping)
+      - order a [small](pizza_size) pizza with [mushroom](pizza_topping) and [onion](pizza_topping)
+      - can I get a [medium](pizza_size) pizza with [cheese](pizza_topping)
+      - I'd like a [large](pizza_size) pizza with [pepperoni](pizza_topping) and [mushroom](pizza_topping)
+      - get me a [medium](pizza_size) pizza
+      - I need a [small](pizza_size) pizza with [onion](pizza_topping)
+      - one [large](pizza_size) pizza with [pepperoni](pizza_topping) please
+
+  # ── Intent: inform ───────────────────────────────────────────────────────────
+  # User cung cấp thông tin khi được hỏi (size hoặc topping)
+  - intent: inform
+    examples: |
+      - [small](pizza_size)
+      - [medium](pizza_size)
+      - [large](pizza_size)
+      - [cheese](pizza_topping)
+      - [pepperoni](pizza_topping)
+      - [mushroom](pizza_topping)
+      - [onion](pizza_topping)
+      - with [cheese](pizza_topping)
+      - with [pepperoni](pizza_topping)
+      - with [mushroom](pizza_topping) and [onion](pizza_topping)
+      - [cheese](pizza_topping) and [pepperoni](pizza_topping)
+      - I want [medium](pizza_size)
+      - make it [large](pizza_size)
+      - [large](pizza_size) please
+      - [cheese](pizza_topping) please
+      - add [mushroom](pizza_topping)
+
+  # ── Intent: affirm ───────────────────────────────────────────────────────────
+  - intent: affirm
+    examples: |
+      - yes
+      - yeah
+      - correct
+      - that's right
+      - sure
+      - absolutely
+      - yep
+      - of course
+      - sounds good
+      - perfect
+
+  # ── Intent: deny ─────────────────────────────────────────────────────────────
+  - intent: deny
+    examples: |
+      - no
+      - nope
+      - not really
+      - no thanks
+      - I don't want that
+      - cancel
+      - never mind
+
+  # ── Intent: bot_challenge ─────────────────────────────────────────────────────
+  - intent: bot_challenge
+    examples: |
+      - are you a bot?
+      - are you a human?
+      - am I talking to a bot?
+      - am I talking to a human?
+      - is this a bot?

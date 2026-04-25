@@ -1,0 +1,69 @@
+version: "3.1"
+
+# ── Stories ───────────────────────────────────────────────────────────────────
+# Stories dạy bot luồng hội thoại có ngữ cảnh (ML-based).
+# Mỗi story là một kịch bản hội thoại mẫu từ đầu đến cuối.
+#
+# Cú pháp:
+#   - intent: <tên intent>          → user nói gì
+#   - action: <tên action>          → bot làm gì
+#   - slot_was_set:                 → kiểm tra slot đã được set chưa
+#       - slot_name: value
+
+stories:
+
+  # ── Story 1: Đặt pizza với đầy đủ thông tin ngay từ đầu ──────────────────────
+  - story: order pizza with full info
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: order_pizza
+        entities:
+          - pizza_size: "large"
+          - pizza_topping: "cheese"
+      - action: utter_confirm_order
+
+  # ── Story 2: Đặt pizza, thiếu size → hỏi size → hỏi topping ─────────────────
+  - story: order pizza missing size and topping
+    steps:
+      - intent: order_pizza
+      - action: utter_ask_size
+      - intent: inform
+        entities:
+          - pizza_size: "medium"
+      - action: utter_ask_topping
+      - intent: inform
+        entities:
+          - pizza_topping: "pepperoni"
+      - action: utter_confirm_order
+
+  # ── Story 3: Đặt pizza có size, thiếu topping ────────────────────────────────
+  - story: order pizza has size missing topping
+    steps:
+      - intent: order_pizza
+        entities:
+          - pizza_size: "small"
+      - action: utter_ask_topping
+      - intent: inform
+        entities:
+          - pizza_topping: "mushroom"
+      - action: utter_confirm_order
+
+  # ── Story 4: Chào → đặt pizza → tạm biệt ────────────────────────────────────
+  - story: greet order and goodbye
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: order_pizza
+        entities:
+          - pizza_size: "medium"
+          - pizza_topping: "cheese"
+      - action: utter_confirm_order
+      - intent: goodbye
+      - action: utter_goodbye
+
+  # ── Story 5: Chỉ tạm biệt ────────────────────────────────────────────────────
+  - story: just goodbye
+    steps:
+      - intent: goodbye
+      - action: utter_goodbye

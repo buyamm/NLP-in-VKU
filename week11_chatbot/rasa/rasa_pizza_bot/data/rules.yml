@@ -1,0 +1,36 @@
+version: "3.1"
+
+# ── Rules ─────────────────────────────────────────────────────────────────────
+# Rules là quy tắc cứng – luôn luôn đúng, không phụ thuộc lịch sử hội thoại.
+# Khác với stories (ML-based), rules được áp dụng 100% khi điều kiện khớp.
+#
+# Dùng rules cho:
+#   - Hành vi đơn giản, cố định (greet, goodbye, bot_challenge)
+#   - Fallback khi bot không hiểu
+#   - Các action luôn phải xảy ra sau một intent cụ thể
+
+rules:
+
+  # ── Rule: Chào hỏi ────────────────────────────────────────────────────────────
+  - rule: say hello
+    steps:
+      - intent: greet
+      - action: utter_greet
+
+  # ── Rule: Tạm biệt ───────────────────────────────────────────────────────────
+  - rule: say goodbye
+    steps:
+      - intent: goodbye
+      - action: utter_goodbye
+
+  # ── Rule: Trả lời khi bị hỏi có phải bot không ───────────────────────────────
+  - rule: bot challenge
+    steps:
+      - intent: bot_challenge
+      - action: utter_iamabot
+
+  # ── Rule: Fallback khi không hiểu ────────────────────────────────────────────
+  - rule: fallback
+    steps:
+      - intent: nlu_fallback
+      - action: utter_default

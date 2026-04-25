@@ -1,0 +1,158 @@
+version: "3.1"
+
+# ── NLU Training Data ─────────────────────────────────────────────────────────
+# Cú pháp annotated entity: [value](entity_type)
+#   Ví dụ: [Sơn Trà](from_location) → value="Sơn Trà", entity_type=from_location
+
+nlu:
+
+  # ── Intent: greet ─────────────────────────────────────────────────────────────
+  - intent: greet
+    examples: |
+      - xin chào
+      - chào bạn
+      - hello
+      - hi
+      - chào
+      - hey
+      - chào buổi sáng
+      - chào buổi chiều
+      - alo
+      - bắt đầu
+
+  # ── Intent: book_ride ─────────────────────────────────────────────────────────
+  - intent: book_ride
+    examples: |
+      - tôi muốn đặt xe
+      - đặt xe giúp tôi
+      - tôi cần gọi xe
+      - gọi xe cho tôi
+      - cho tôi đặt xe
+      - tôi muốn gọi xe
+      - đặt xe đi
+      - book xe
+      - tôi cần xe
+      - giúp tôi đặt xe
+      - đặt xe từ [Sơn Trà](from_location) đến [VKU](to_location)
+      - tôi muốn đặt xe từ [bến xe](from_location) đến [sân bay](to_location)
+      - đặt xe từ [Hải Châu](from_location) đến [Ngũ Hành Sơn](to_location)
+      - gọi xe từ [trường đại học](from_location) đến [bệnh viện](to_location)
+      - tôi cần đặt [xe máy](vehicle_type) từ [Thanh Khê](from_location) đến [Liên Chiểu](to_location)
+      - đặt [ô tô 4 chỗ](vehicle_type) từ [Cẩm Lệ](from_location) đến [sân bay Đà Nẵng](to_location)
+      - cho tôi [xe máy](vehicle_type) từ [Sơn Trà](from_location)
+      - tôi muốn đi từ [VKU](from_location) đến [biển Mỹ Khê](to_location)
+
+  # ── Intent: inform ────────────────────────────────────────────────────────────
+  # User cung cấp thông tin khi được hỏi
+  - intent: inform
+    examples: |
+      - [Sơn Trà](from_location)
+      - [VKU](to_location)
+      - [bến xe](from_location)
+      - [sân bay](to_location)
+      - [Hải Châu](from_location)
+      - [Ngũ Hành Sơn](to_location)
+      - [Thanh Khê](from_location)
+      - [Liên Chiểu](to_location)
+      - [Cẩm Lệ](from_location)
+      - [sân bay Đà Nẵng](to_location)
+      - [trung tâm thành phố](from_location)
+      - [bệnh viện](to_location)
+      - [chợ Hàn](from_location)
+      - [cầu Rồng](to_location)
+      - [xe máy](vehicle_type)
+      - [ô tô 4 chỗ](vehicle_type)
+      - [ô tô 7 chỗ](vehicle_type)
+      - tôi đi từ [Sơn Trà](from_location)
+      - đến [sân bay](to_location)
+      - cho tôi [xe máy](vehicle_type)
+      - tôi muốn [ô tô 4 chỗ](vehicle_type)
+      - đi bằng [xe máy](vehicle_type)
+      - [motorbike](vehicle_type)
+      - [car](vehicle_type)
+      - từ [VKU](from_location)
+      - đến [biển Mỹ Khê](to_location)
+      - [xe máy](vehicle_type) nhé
+      - [ô tô 7 chỗ](vehicle_type) đi
+
+  # ── Intent: confirm ───────────────────────────────────────────────────────────
+  - intent: confirm
+    examples: |
+      - đúng rồi
+      - ok
+      - chính xác
+      - đúng
+      - xác nhận
+      - được
+      - ừ
+      - yes
+      - đặt đi
+      - tôi đồng ý
+      - chuẩn rồi
+      - đúng vậy
+      - oke
+
+  # ── Intent: cancel ────────────────────────────────────────────────────────────
+  - intent: cancel
+    examples: |
+      - hủy
+      - không cần nữa
+      - thôi
+      - hủy chuyến
+      - không đặt nữa
+      - bỏ đi
+      - thôi không cần
+      - hủy bỏ
+      - cancel
+      - không muốn đặt nữa
+      - thôi bỏ đi
+
+  # ── Intent: goodbye ───────────────────────────────────────────────────────────
+  - intent: goodbye
+    examples: |
+      - tạm biệt
+      - bye
+      - goodbye
+      - chào tạm biệt
+      - hẹn gặp lại
+      - cảm ơn tạm biệt
+      - thôi nhé
+      - ok tạm biệt
+
+  # ── Intent: bot_challenge ─────────────────────────────────────────────────────
+  - intent: bot_challenge
+    examples: |
+      - bạn có phải robot không
+      - bạn là ai
+      - mày là bot à
+      - đây có phải AI không
+      - bạn là người hay máy
+
+  # ── Synonyms ──────────────────────────────────────────────────────────────────
+  # Giúp bot hiểu các cách nói khác nhau cho cùng một loại xe
+
+  - synonym: xe máy
+    examples: |
+      - motorbike
+      - xe moto
+      - xe 2 bánh
+      - grab bike
+      - grabBike
+
+  - synonym: ô tô 4 chỗ
+    examples: |
+      - car
+      - ô tô
+      - xe hơi
+      - xe 4 chỗ
+      - grab car
+      - grabCar
+      - sedan
+
+  - synonym: ô tô 7 chỗ
+    examples: |
+      - xe 7 chỗ
+      - xe van
+      - minivan
+      - grab 7 chỗ
+      - xe lớn

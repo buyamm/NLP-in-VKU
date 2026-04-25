@@ -1,0 +1,8 @@
+metrics:
+  enabled: true
+  rasa_user_id: 7ef3cc6c42bd4ed9a081b88053ee11d9
+  date: '2026-04-25 05:27:36.591179'
+traits:
+  enabled: true
+  rasa_user_id: 7ef3cc6c42bd4ed9a081b88053ee11d9
+  date: 2026-04-25 05:27:36.591179
