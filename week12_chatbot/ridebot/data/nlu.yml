@@ -1,0 +1,142 @@
+version: "3.1"
+
+nlu:
+  - intent: greet
+    examples: |
+      - xin chào
+      - chào bạn
+      - hello
+      - hi
+      - chào
+      - hey
+      - xin chào bot
+      - chào buổi sáng
+      - chào buổi chiều
+      - bắt đầu
+
+  - intent: goodbye
+    examples: |
+      - tạm biệt
+      - bye
+      - gặp lại sau
+      - hẹn gặp lại
+      - thôi nhé
+      - goodbye
+      - tạm biệt nhé
+      - cảm ơn tạm biệt
+
+  - intent: book_ride
+    examples: |
+      - tôi muốn đặt xe
+      - đặt xe giúp tôi
+      - tôi cần gọi xe
+      - gọi xe cho tôi
+      - cho tôi đặt xe
+      - tôi muốn đi xe
+      - book xe
+      - đặt xe
+      - gọi xe
+      - tôi cần xe
+      - đặt xe từ [Cầu Rồng](from_location) đến [VKU](to_location)
+      - tôi muốn đi từ [bến xe](from_location) đến [sân bay](to_location)
+      - gọi [xe máy](vehicle_type) từ [VKU](from_location) đến [sân bay](to_location)
+      - đặt [ô tô](vehicle_type) đi từ [bến xe](from_location) đến [Cầu Rồng](to_location)
+      - đặt xe từ [VKU](from_location) đến [Cầu Sông Hàn](to_location)
+      - tôi muốn đặt [4 chỗ](vehicle_type) từ [Cầu Rồng](from_location) đến [sân bay](to_location)
+      - gọi [7 chỗ](vehicle_type) từ [bến xe](from_location) đến [VKU](to_location)
+      - đặt xe từ [sân bay](from_location) đến [VKU](to_location)
+      - tôi muốn đặt [xe máy](vehicle_type) đi [sân bay](to_location)
+      - cho tôi [ô tô](vehicle_type) từ [Cầu Sông Hàn](from_location) đến [bến xe](to_location)
+
+  - intent: inform
+    examples: |
+      - [VKU](from_location)
+      - [sân bay](to_location)
+      - [xe máy](vehicle_type)
+      - [4 chỗ](vehicle_type)
+      - [7 chỗ](vehicle_type)
+      - [ô tô](vehicle_type)
+      - [Cầu Rồng](from_location)
+      - [bến xe](from_location)
+      - [Cầu Sông Hàn](from_location)
+      - [VKU](to_location)
+      - [Cầu Rồng](to_location)
+      - [bến xe](to_location)
+      - [Cầu Sông Hàn](to_location)
+      - đi từ [VKU](from_location)
+      - từ [bến xe](from_location)
+      - đến [sân bay](to_location)
+      - tới [VKU](to_location)
+      - đi [xe máy](vehicle_type)
+      - chọn [ô tô](vehicle_type)
+      - [xe máy](vehicle_type) nhé
+      - [4 chỗ](vehicle_type) đi
+      - tôi ở [VKU](from_location)
+      - xuất phát từ [Cầu Rồng](from_location)
+      - điểm đến là [sân bay](to_location)
+      - tôi muốn đi [7 chỗ](vehicle_type)
+
+  - intent: confirm
+    examples: |
+      - đúng rồi
+      - ok
+      - chính xác
+      - đồng ý
+      - yes
+      - ừ
+      - đúng
+      - được
+      - xác nhận
+      - ok nhé
+      - đúng vậy
+      - chuẩn rồi
+
+  - intent: cancel
+    examples: |
+      - hủy
+      - thôi không đặt nữa
+      - không cần nữa
+      - hủy đặt xe
+      - thôi
+      - không đặt nữa
+      - cancel
+      - bỏ đi
+      - thôi bỏ
+      - không cần
+
+synonyms:
+  - synonym: xe máy
+    examples: |
+      - motorbike
+      - bike
+      - xe gắn máy
+      - xe 2 bánh
+      - motor
+  - synonym: ô tô
+    examples: |
+      - car
+      - taxi
+      - xe hơi
+      - xe 4 bánh
+      - sedan
+  - synonym: 4 chỗ
+    examples: |
+      - bốn chỗ
+      - xe 4 chỗ
+      - 4 seats
+  - synonym: 7 chỗ
+    examples: |
+      - bảy chỗ
+      - xe 7 chỗ
+      - 7 seats
+      - minivan
+  - synonym: sân bay
+    examples: |
+      - airport
+      - sân bay Đà Nẵng
+      - Đà Nẵng airport
+  - synonym: VKU
+    examples: |
+      - trường VKU
+      - đại học VKU
+      - Đại học Công nghệ Việt Hàn

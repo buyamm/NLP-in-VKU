@@ -1,0 +1,43 @@
+version: "3.1"
+
+rules:
+
+  - rule: Chào hỏi
+    steps:
+      - intent: greet
+      - action: utter_greet
+
+  - rule: Tạm biệt
+    steps:
+      - intent: goodbye
+      - action: utter_goodbye
+
+  - rule: Kích hoạt form đặt xe
+    steps:
+      - intent: book_ride
+      - action: ride_booking_form
+      - active_loop: ride_booking_form
+
+  - rule: Submit form đặt xe
+    condition:
+      - active_loop: ride_booking_form
+    steps:
+      - action: ride_booking_form
+      - active_loop: null
+      - slot_was_set:
+          - requested_slot: null
+      - action: action_confirm_ride
+
+  - rule: Hủy đặt xe khi đang trong form
+    condition:
+      - active_loop: ride_booking_form
+    steps:
+      - intent: cancel
+      - action: action_deactivate_loop
+      - active_loop: null
+      - action: utter_cancel
+
+  - rule: Hủy đặt xe ngoài form
+    steps:
+      - intent: cancel
+      - action: utter_cancel

@@ -1,0 +1,4 @@
+timestamp,from_location,to_location,vehicle_type,distance_km,total_price_vnd
+2026-05-14 15:29:44,VKU,sân bay,xe máy,8,64000
+2026-05-14 15:30:57,bến xe,sao,ô tô,10,120000
+2026-05-14 15:36:22,VKU,Cầu Sông Hàn,ô tô,9,108000

@@ -1,0 +1,5 @@
+# RideBot - Python dependencies
+# Tương thích với Rasa 3.x
+
+rasa==3.6.20
+rasa-sdk==3.6.2

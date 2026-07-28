@@ -1,0 +1,41 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - recommend_movie
+
+entities:
+  - movie_title
+
+slots:
+  movie_title:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: movie_title
+
+responses:
+  utter_greet:
+    - text: "Hi! I am MovieBot 🎬 Tell me a movie you like and I'll recommend similar ones!"
+
+  utter_goodbye:
+    - text: "Goodbye! Enjoy your movies! 🍿"
+
+  utter_ask_movie_title:
+    - text: "Which movie do you like? Please tell me a movie title."
+
+  utter_default:
+    - text: "I'm not sure I understand. Try saying something like: 'recommend movies similar to Inception'"
+
+actions:
+  - action_recommend_movie
+  - utter_greet
+  - utter_goodbye
+  - utter_ask_movie_title
+  - utter_default
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

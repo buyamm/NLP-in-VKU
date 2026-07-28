@@ -1,0 +1,71 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - book_ride
+  - inform
+  - confirm
+  - cancel
+
+entities:
+  - from_location
+  - to_location
+  - vehicle_type
+
+slots:
+  from_location:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: from_location
+  to_location:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: to_location
+  vehicle_type:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: vehicle_type
+
+forms:
+  ride_booking_form:
+    required_slots:
+      - from_location
+      - to_location
+      - vehicle_type
+
+responses:
+  utter_greet:
+    - text: "Xin chào! Tôi là RideBot 🚗. Bạn muốn đặt xe đi đâu?"
+
+  utter_goodbye:
+    - text: "Tạm biệt! Hẹn gặp lại bạn lần sau nhé 👋"
+
+  utter_ask_from_location:
+    - text: "Bạn muốn đi từ đâu?"
+
+  utter_ask_to_location:
+    - text: "Bạn muốn đi đến đâu?"
+
+  utter_ask_vehicle_type:
+    - text: "Bạn muốn đi loại xe gì? Ví dụ: xe máy, ô tô, 4 chỗ, 7 chỗ."
+
+  utter_cancel:
+    - text: "Đã hủy yêu cầu đặt xe. Nếu cần hỗ trợ, bạn cứ nhắn tin nhé!"
+
+  utter_default:
+    - text: "Xin lỗi, tôi chưa hiểu ý bạn. Bạn có thể nói lại không?"
+
+actions:
+  - action_confirm_ride
+  - validate_ride_booking_form
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

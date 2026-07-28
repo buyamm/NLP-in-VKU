@@ -1,0 +1,85 @@
+version: "3.1"
+
+nlu:
+  - intent: greet
+    examples: |
+      - hello
+      - hi
+      - xin chào
+      - chào bạn
+      - hey
+      - howdy
+      - good morning
+      - good afternoon
+      - good evening
+      - hi there
+      - hello there
+      - hey there
+      - greetings
+      - what's up
+      - sup
+      - chào
+      - xin chào bot
+      - hello bot
+      - hi bot
+
+  - intent: goodbye
+    examples: |
+      - bye
+      - goodbye
+      - tạm biệt
+      - see you
+      - see you later
+      - good bye
+      - take care
+      - farewell
+      - bye bye
+      - later
+      - ciao
+      - adios
+      - tạm biệt nhé
+      - hẹn gặp lại
+      - thôi bye
+      - ok bye
+
+  - intent: recommend_movie
+    examples: |
+      - recommend movie similar to [Inception](movie_title)
+      - suggest movies like [The Matrix](movie_title)
+      - I like [Interstellar](movie_title)
+      - find movies similar to [Titanic](movie_title)
+      - recommend something like [Toy Story](movie_title)
+      - gợi ý phim giống [Inception](movie_title)
+      - tôi thích phim [The Matrix](movie_title)
+      - tìm phim giống [Interstellar](movie_title)
+      - có phim nào giống [Titanic](movie_title) không
+      - gợi ý phim tương tự [John Wick](movie_title)
+      - movies like [Tenet](movie_title)
+      - show me movies similar to [Avatar](movie_title)
+      - what movies are similar to [The Dark Knight](movie_title)
+      - I enjoyed [Iron Man](movie_title), suggest similar
+      - recommend films like [Doctor Strange](movie_title)
+      - I want movies like [Finding Nemo](movie_title)
+      - suggest something similar to [Coco](movie_title)
+      - films similar to [La La Land](movie_title)
+      - movies similar to [The Notebook](movie_title)
+      - recommend movies like [Mad Max Fury Road](movie_title)
+      - I love [Inception](movie_title), what else should I watch
+      - what should I watch if I liked [Interstellar](movie_title)
+      - give me recommendations based on [The Matrix](movie_title)
+      - phim tương tự [Tenet](movie_title)
+      - tôi muốn xem phim giống [Avatar](movie_title)
+      - gợi ý phim như [The Dark Knight](movie_title)
+      - phim nào giống [Iron Man](movie_title)
+      - tìm phim tương tự [Toy Story](movie_title)
+      - recommend [Inception](movie_title)
+      - similar to [Titanic](movie_title)
+      - like [John Wick](movie_title)
+      - based on [Coco](movie_title)
+      - something like [La La Land](movie_title)
+      - I watched [Mad Max Fury Road](movie_title) and loved it
+      - can you suggest movies like [Doctor Strange](movie_title)
+      - what are movies similar to [Finding Nemo](movie_title)
+      - phim giống [The Notebook](movie_title)
+      - xem phim gì giống [Inception](movie_title)
+      - tôi thích [Interstellar](movie_title) gợi ý phim khác đi

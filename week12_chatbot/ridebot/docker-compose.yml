@@ -1,0 +1,95 @@
+# ============================================================
+# RideBot - Docker Compose
+# Gồm 2 services: rasa (chatbot server) + action_server
+# ============================================================
+
+services:
+
+  # ----------------------------------------------------------
+  # Service 1: Rasa Server
+  # ----------------------------------------------------------
+  rasa:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ridebot_rasa
+    ports:
+      - "5005:5005"
+    volumes:
+      - ./models:/app/models
+      - ./data:/app/data
+    environment:
+      - RASA_TELEMETRY_ENABLED=false
+    command:
+      - run
+      - --enable-api
+      - --cors
+      - "*"
+      - --debug
+      - --port
+      - "5005"
+      - --endpoints
+      - endpoints.yml
+      - --credentials
+      - credentials.yml
+    depends_on:
+      - action_server
+    networks:
+      - ridebot_network
+    restart: unless-stopped
+
+  # ----------------------------------------------------------
+  # Service 2: Rasa Action Server
+  # ----------------------------------------------------------
+  action_server:
+    image: rasa/rasa-sdk:3.6.2
+    container_name: ridebot_action_server
+    ports:
+      - "5055:5055"
+    volumes:
+      - ./actions:/app/actions
+      - ./data:/app/data
+    command:
+      - start
+      - --actions
+      - actions
+      - --port
+      - "5055"
+      - --debug
+    networks:
+      - ridebot_network
+    restart: unless-stopped
+
+  # ----------------------------------------------------------
+  # Service 3: Rasa Train (chạy một lần để train model)
+  # Dùng: docker compose run --rm rasa_train
+  # ----------------------------------------------------------
+  rasa_train:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ridebot_train
+    user: root
+    volumes:
+      - ./models:/app/models
+      - ./data:/app/data
+    command:
+      - train
+      - --domain
+      - domain.yml
+      - --data
+      - data/
+      - --config
+      - config.yml
+      - --out
+      - models/
+      - --fixed-model-name
+      - ridebot_model
+    networks:
+      - ridebot_network
+    profiles:
+      - train
+
+networks:
+  ridebot_network:
+    driver: bridge
